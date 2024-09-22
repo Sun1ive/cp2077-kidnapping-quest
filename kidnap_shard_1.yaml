@@ -1,0 +1,86 @@
+Items.mq_kidnap_shard_1:
+  $type: gamedataItem_Record
+  animFeatureName: ItemData
+  animName: ui_garment_pose
+  animSetResource: ""
+  canDrop: True
+  crosshair: Crosshairs.None
+  deprecated: False
+  dropObject: defaultItemDrop
+  enableNpcRPGData: False
+  friendlyName: ""
+  garmentOffset: 0
+  icon: UIIcon.ItemIcon
+  iconPath: ""
+  isCached: False
+  isCoreCW: False
+  isCustomizable: False
+  isGarment: False
+  isPart: False
+  isSingleInstance: True
+  itemCategory: ItemCategory.General
+  itemSecondaryAction: Items.mq304_jagos_plans_shard_inline0
+  itemType: ItemType.Gen_Readable
+  localizedName: ""
+  mass: 1
+  minigameInstance: minigame_v2.DefaultItemMinigame
+  powerLevelDeterminedByParent: False
+  quality: Quality.Common
+  qualityRestrictedByParent: False
+  replicateWhenNotActive: False
+  upgradeCostMult: 1
+  useHeadgearGarmentAggregator: False
+  useNewSpawnMethod: False
+  usesVariants: False
+  savable: False
+  animationParameters: []
+  appearanceSuffixes: []
+  appearanceSuffixesOwnerOverride: []
+  attachmentSlots: []
+  buyPrice:
+    - Price.BasePrice
+    - Price.BuyMultiplier
+    - Price.ItemQualityMultiplier
+    - Price.BuyPrice_StreetCred_Discount
+    - Price.Junk
+  cameraForward: { x: 0, y: 0, z: 0 }
+  cameraUp: { x: 0, y: 0, z: 0 }
+  connections: []
+  displayName: LocKey#87867
+  equipAreas: []
+  equipPrereqs: []
+  gameplayRestrictions:
+    - GameplayRestriction.VehicleCombatNoInterruptions
+  hairSkinnedMeshComponents: []
+  OnAttach: []
+  OnEquip: []
+  OnLooted: []
+  parts: []
+  placementSlots: []
+  previewBBoxOverride: []
+  requiredSlots: []
+  sellPrice:
+    - Price.BasePrice
+    - Price.SellMultiplier
+    - Price.ItemQualitySellMultiplier
+    - Price.CraftingTraitMultiplier
+    - Price.SellPriceIntrinsicModMult
+    - Price.Junk
+  slotPartList: []
+  slotPartListPreset: []
+  tags:
+    - Readable
+    - Shard
+    - SkipActivityLog
+    - HideInBackpackUI
+    - HideAtVendor
+  variants: []
+  visualTags: []
+  effectors: []
+  objectActions:
+    - ItemAction.Drop
+    - ItemAction.Disassemble
+  statModifierGroups: []
+  statModifiers: []
+  statPools: []
+  weakspots: []

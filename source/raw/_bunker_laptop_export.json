@@ -1,0 +1,13 @@
+[
+  {
+    "path": "ep1\\gameplay\\devices\\masters\\computers\\bunker_laptop.ent",
+    "app": "laptop_ep1_laptop_1",
+    "pos": {
+      "w": 1,
+      "z": 28.554534912109,
+      "x": -1509.9914550781,
+      "y": 2089.666015625
+    },
+    "rot": { "pitch": 0, "yaw": -173.23109436035, "roll": -0 }
+  }
+]

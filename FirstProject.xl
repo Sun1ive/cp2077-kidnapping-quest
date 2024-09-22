@@ -1,0 +1,32 @@
+journal:
+  - base\journal\panam_kidnap.journal
+localization:
+  onscreens:
+    # en-us: base\localization\en-us\kidnap.json
+    ru-ru: base\localization\ru-ru\kidnap.json
+    # ua-ua: base\localization\ua-ua\kidnap.json
+    # ar-ar: base\localization\ar-ar\kidnap.json
+    # cz-cz: base\localization\cz-cz\kidnap.json
+    # de-de: base\localization\de-de\kidnap.json
+    # es-es: base\localization\es-es\kidnap.json
+    # es-mx: base\localization\es-es\kidnap.json
+    # fr-fr: base\localization\fr-fr\kidnap.json
+    # hu-hu: base\localization\hu-hu\kidnap.json
+    # it-it: base\localization\it-it\kidnap.json
+    # jp-jp: base\localization\jp-jp\kidnap.json
+    # kr-kr: base\localization\kr-kr\kidnap.json
+    # pl-pl: base\localization\pl-pl\kidnap.json
+    # pt-br: base\localization\pt-br\kidnap.json
+    # th-th: base\localization\th-th\kidnap.json
+    # tr-tr: base\localization\tr-tr\kidnap.json
+    # zh-cn: base\localization\zh-cn\kidnap.json
+    # zh-tw: base\localization\zh-tw\kidnap.json
+quest:
+  phases:
+    - path: mod\quest\panam_kidnap.questphase
+      # parent: base\quest\cyberpunk2077.quest
+      parent: base\quest\minor_quests\mq000\mq000.questphase
+      connection: [13, 103, 2]
+streaming:
+  blocks:
+    - base\worlds\kidnap.streamingblock

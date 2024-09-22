@@ -1,0 +1,72 @@
+[{
+  "Id": "1994783339680",
+  "NodeIndex": 1408,
+  "Position": {
+    "$type": "Vector4",
+    "W": 0,
+    "X": -1573.30212,
+    "Y": 3024.48096,
+    "Z": 8.71415138
+  },
+  "Orientation": {
+    "$type": "Quaternion",
+    "i": -0.00655742269,
+    "j": -0.00900110975,
+    "k": 0.104535252,
+    "r": 0.994458914
+  },
+  "Scale": {
+    "$type": "Vector3",
+    "X": 1,
+    "Y": 1,
+    "Z": 1
+  },
+  "Pivot": {
+    "$type": "Vector3",
+    "X": -1703.59497,
+    "Y": 2689.33618,
+    "Z": 135.799072
+  },
+  "Bounds": {
+    "$type": "Box",
+    "Max": {
+      "$type": "Vector4",
+      "W": 0,
+      "X": -1573.30212,
+      "Y": 3024.48096,
+      "Z": 8.71415138
+    },
+    "Min": {
+      "$type": "Vector4",
+      "W": 0,
+      "X": -1573.30212,
+      "Y": 3024.48096,
+      "Z": 8.71415138
+    }
+  },
+  "QuestPrefabRefHash": {
+    "$type": "NodeRef",
+    "$storage": "string",
+    "$value": "$/03_night_city/c_watson/northside/loc_sq031_ruinedship_prefabGRO65YQ/loc_sq031_ruinedship_gameplay_prefab34UN7HA/loc_sq031_ruinedship_loot_prefabEXAWH3Q/shard_case_container_004_prefabBDP5CMQ"
+  },
+  "UkHash1": {
+    "$type": "NodeRef",
+    "$storage": "uint64",
+    "$value": "0"
+  },
+  "CookedPrefabData": {
+    "DepotPath": {
+      "$type": "ResourcePath",
+      "$storage": "uint64",
+      "$value": "0"
+    },
+    "Flags": "Default"
+  },
+  "MaxStreamingDistance": 7709.50879,
+  "UkFloat1": 50,
+  "Uk10": 1056,
+  "Uk11": 10762,
+  "Uk12": 0,
+  "Uk13": "0",
+  "Uk14": "0"
+}]

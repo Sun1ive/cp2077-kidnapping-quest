@@ -1,0 +1,13 @@
+[
+  {
+    "path": "base\\gameplay\\loot\\shard_cases\\appearances\\shard_case_container_neomilitary.ent",
+    "pos": {
+      "w": 1,
+      "x": -2008.8283691406,
+      "y": 2776.1706542969,
+      "z": 7.2045059204102
+    },
+    "app": "",
+    "rot": { "roll": 0, "pitch": 0, "yaw": 84.01212310791 }
+  }
+]

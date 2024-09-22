@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<InstalLog Project="FirstProject" Build_date="22.10.2024 15:13:48">
+  <Files>
+    <Directory Path="G:\SteamLibrary\steamapps\common\Cyberpunk 2077\archive">
+      <Directory Path="G:\SteamLibrary\steamapps\common\Cyberpunk 2077\archive\pc">
+        <Directory Path="G:\SteamLibrary\steamapps\common\Cyberpunk 2077\archive\pc\mod">
+          <file>G:\SteamLibrary\steamapps\common\Cyberpunk 2077\archive\pc\mod\Kidnap.archive</file>
+          <file>G:\SteamLibrary\steamapps\common\Cyberpunk 2077\archive\pc\mod\Kidnap.xl</file>
+        </Directory>
+      </Directory>
+    </Directory>
+    <Directory Path="G:\SteamLibrary\steamapps\common\Cyberpunk 2077\r6">
+      <Directory Path="G:\SteamLibrary\steamapps\common\Cyberpunk 2077\r6\tweaks">
+        <Directory Path="G:\SteamLibrary\steamapps\common\Cyberpunk 2077\r6\tweaks\Kidnap">
+          <file>G:\SteamLibrary\steamapps\common\Cyberpunk 2077\r6\tweaks\Kidnap\kidnap.yaml</file>
+        </Directory>
+      </Directory>
+    </Directory>
+  </Files>
+</InstalLog>

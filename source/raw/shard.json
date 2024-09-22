@@ -1,0 +1,341 @@
+{
+  "$type": "gamedataItem_Record",
+  "animationParameters": [],
+  "animFeatureName": {
+    "$type": "CName",
+    "$storage": "string",
+    "$value": "ItemData"
+  },
+  "animName": {
+    "$type": "CName",
+    "$storage": "string",
+    "$value": "ui_garment_pose"
+  },
+  "animSetResource": {
+    "DepotPath": {
+      "$type": "ResourcePath",
+      "$storage": "uint64",
+      "$value": "0"
+    },
+    "Flags": "Soft"
+  },
+  "appearanceName": {
+    "$type": "CName",
+    "$storage": "string",
+    "$value": "None"
+  },
+  "appearanceResourceName": {
+    "$type": "CName",
+    "$storage": "string",
+    "$value": "None"
+  },
+  "appearanceSuffixes": [],
+  "appearanceSuffixesOwnerOverride": [],
+  "attachmentSlots": [],
+  "audioName": {
+    "$type": "CName",
+    "$storage": "string",
+    "$value": "None"
+  },
+  "audioSwitchName": {
+    "$type": "CName",
+    "$storage": "string",
+    "$value": "None"
+  },
+  "audioSwitchValue": {
+    "$type": "CName",
+    "$storage": "string",
+    "$value": "None"
+  },
+  "blueprint": {
+    "$type": "TweakDBID",
+    "$storage": "uint64",
+    "$value": "0"
+  },
+  "buyPrice": [
+    {
+      "$type": "TweakDBID",
+      "$storage": "string",
+      "$value": "Price.BasePrice"
+    },
+    {
+      "$type": "TweakDBID",
+      "$storage": "string",
+      "$value": "Price.BuyMultiplier"
+    },
+    {
+      "$type": "TweakDBID",
+      "$storage": "string",
+      "$value": "Price.ItemQualityMultiplier"
+    },
+    {
+      "$type": "TweakDBID",
+      "$storage": "string",
+      "$value": "Price.BuyPrice_StreetCred_Discount"
+    },
+    {
+      "$type": "TweakDBID",
+      "$storage": "string",
+      "$value": "Price.Junk"
+    }
+  ],
+  "cameraForward": {
+    "$type": "Vector3",
+    "X": 0,
+    "Y": 0,
+    "Z": 0
+  },
+  "cameraUp": {
+    "$type": "Vector3",
+    "X": 0,
+    "Y": 0,
+    "Z": 0
+  },
+  "canDrop": 1,
+  "connections": [],
+  "counterpart": {
+    "$type": "TweakDBID",
+    "$storage": "uint64",
+    "$value": "0"
+  },
+  "cpoItemCategory": {
+    "$type": "TweakDBID",
+    "$storage": "uint64",
+    "$value": "0"
+  },
+  "CraftingData": {
+    "$type": "TweakDBID",
+    "$storage": "uint64",
+    "$value": "0"
+  },
+  "crosshair": {
+    "$type": "TweakDBID",
+    "$storage": "string",
+    "$value": "Crosshairs.None"
+  },
+  "deprecated": 0,
+  "displayName": {},
+  "dropObject": {
+    "$type": "CName",
+    "$storage": "string",
+    "$value": "defaultItemDrop"
+  },
+  "dropSettings": {
+    "$type": "TweakDBID",
+    "$storage": "uint64",
+    "$value": "0"
+  },
+  "effectors": [],
+  "enableNpcRPGData": 0,
+  "entityName": {
+    "$type": "CName",
+    "$storage": "string",
+    "$value": "None"
+  },
+  "equipArea": {
+    "$type": "TweakDBID",
+    "$storage": "uint64",
+    "$value": "0"
+  },
+  "equipAreas": [],
+  "equipPrereqs": [],
+  "equipSoundMetadata": {
+    "$type": "CName",
+    "$storage": "string",
+    "$value": "None"
+  },
+  "equivalent": {
+    "$type": "TweakDBID",
+    "$storage": "uint64",
+    "$value": "0"
+  },
+  "friendlyName": "",
+  "gameplayRestrictions": [
+    {
+      "$type": "TweakDBID",
+      "$storage": "string",
+      "$value": "GameplayRestriction.VehicleCombatNoInterruptions"
+    }
+  ],
+  "garmentOffset": 0,
+  "hairSkinnedMeshComponents": [],
+  "icon": {
+    "$type": "TweakDBID",
+    "$storage": "string",
+    "$value": "UIIcon.ItemIcon"
+  },
+  "iconPath": "",
+  "isCached": 0,
+  "isCoreCW": 0,
+  "isCustomizable": 0,
+  "isGarment": 0,
+  "isPart": 0,
+  "isSingleInstance": 1,
+  "itemCategory": {
+    "$type": "TweakDBID",
+    "$storage": "string",
+    "$value": "ItemCategory.General"
+  },
+  "itemSecondaryAction": {
+    "$type": "TweakDBID",
+    "$storage": "string",
+    "$value": "Items.Shard1_inline0"
+  },
+  "itemStructure": {
+    "$type": "TweakDBID",
+    "$storage": "uint64",
+    "$value": "0"
+  },
+  "itemType": {
+    "$type": "TweakDBID",
+    "$storage": "string",
+    "$value": "ItemType.Gen_Readable"
+  },
+  "localizedDescription": {},
+  "localizedName": "",
+  "mass": 1,
+  "minigameInstance": {
+    "$type": "TweakDBID",
+    "$storage": "string",
+    "$value": "minigame_v2.DefaultItemMinigame"
+  },
+  "movementPattern": {
+    "$type": "CName",
+    "$storage": "string",
+    "$value": "None"
+  },
+  "movementSound": {
+    "$type": "TweakDBID",
+    "$storage": "uint64",
+    "$value": "0"
+  },
+  "nextUpgradeItem": {
+    "$type": "TweakDBID",
+    "$storage": "uint64",
+    "$value": "0"
+  },
+  "npcRPGData": {
+    "$type": "TweakDBID",
+    "$storage": "uint64",
+    "$value": "0"
+  },
+  "objectActions": [
+    {
+      "$type": "TweakDBID",
+      "$storage": "string",
+      "$value": "ItemAction.Drop"
+    },
+    {
+      "$type": "TweakDBID",
+      "$storage": "string",
+      "$value": "ItemAction.Disassemble"
+    }
+  ],
+  "OnAttach": [],
+  "OnEquip": [],
+  "onEquipStats": {
+    "$type": "TweakDBID",
+    "$storage": "uint64",
+    "$value": "0"
+  },
+  "OnLooted": [],
+  "parentAttachmentType": {
+    "$type": "TweakDBID",
+    "$storage": "uint64",
+    "$value": "0"
+  },
+  "parts": [],
+  "placementSlots": [],
+  "powerLevelDeterminedByParent": 0,
+  "previewBBoxOverride": [],
+  "quality": {
+    "$type": "TweakDBID",
+    "$storage": "string",
+    "$value": "Quality.Common"
+  },
+  "qualityRestrictedByParent": 0,
+  "replicateWhenNotActive": 0,
+  "requiredSlots": [],
+  "savable": 0,
+  "sellPrice": [
+    {
+      "$type": "TweakDBID",
+      "$storage": "string",
+      "$value": "Price.BasePrice"
+    },
+    {
+      "$type": "TweakDBID",
+      "$storage": "string",
+      "$value": "Price.SellMultiplier"
+    },
+    {
+      "$type": "TweakDBID",
+      "$storage": "string",
+      "$value": "Price.ItemQualitySellMultiplier"
+    },
+    {
+      "$type": "TweakDBID",
+      "$storage": "string",
+      "$value": "Price.CraftingTraitMultiplier"
+    },
+    {
+      "$type": "TweakDBID",
+      "$storage": "string",
+      "$value": "Price.SellPriceIntrinsicModMult"
+    },
+    {
+      "$type": "TweakDBID",
+      "$storage": "string",
+      "$value": "Price.Junk"
+    }
+  ],
+  "sideUpgradeItem": {
+    "$type": "TweakDBID",
+    "$storage": "uint64",
+    "$value": "0"
+  },
+  "slotPartList": [],
+  "slotPartListPreset": [],
+  "stateMachineName": {
+    "$type": "CName",
+    "$storage": "string",
+    "$value": "None"
+  },
+  "statModifierGroups": [],
+  "statModifiers": [],
+  "statPools": [],
+  "tags": [
+    {
+      "$type": "CName",
+      "$storage": "string",
+      "$value": "Readable"
+    },
+    {
+      "$type": "CName",
+      "$storage": "string",
+      "$value": "Shard"
+    },
+    {
+      "$type": "CName",
+      "$storage": "string",
+      "$value": "SkipActivityLog"
+    },
+    {
+      "$type": "CName",
+      "$storage": "string",
+      "$value": "HideInBackpackUI"
+    },
+    {
+      "$type": "CName",
+      "$storage": "string",
+      "$value": "HideAtVendor"
+    }
+  ],
+  "upgradeCostMult": 1,
+  "useHeadgearGarmentAggregator": 0,
+  "useNewSpawnMethod": 0,
+  "usesVariants": 0,
+  "variants": [],
+  "visualTags": [],
+  "weakspots": []
+}
