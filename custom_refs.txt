@@ -89,7 +89,10 @@ mod\kidnap.scene
 mod\localization\en-us\kidnap.json
 mod\localization\en-us\subtitles\kidnap.json
 mod\localization\en-us\subtitles\subs.json
+mod\localization\en-us\subtitles\sunlive_debug.json
+mod\localization\en-us\sunlive_debug.json
 mod\quest\ambush.scene
+mod\quest\dbg.questphase
 mod\quest\debug.scene
 mod\quest\kambush.scene
 mod\quest\kidnap_continued.scene
@@ -105,7 +108,11 @@ mod\quest\susnet_continued.scene
 mod\quest\susnet.scene
 mod\quest\zztest.questphase
 mod\quest\zzTEST.questphase
+mod\scenes\sit_stand.scene
 mod\scnSceneResource1.scene
+mod\worlds\all.streamingblock
+mod\worlds\all.streamingsector
+mod\worlds\items.streamingsector
 mod\worlds\kidnap.streamingblock
 mod\worlds\kidnap.streamingsector
 mod\worlds\ksunset.streamingsector
