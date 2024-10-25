@@ -77,6 +77,7 @@ base\worlds\kidnap.streamingblock
 base\worlds\kidnap.streamingsector
 base\worlds\ksunset.streamingsector
 base\worlds\sector.streamingsector
+dlc\dlc6_apart\scenes\sample.scene
 f_11dfa2bcad29f000
 fpp_idle_stand
 kidnap.scene
@@ -112,6 +113,7 @@ mod\scenes\sit_stand.scene
 mod\scnSceneResource1.scene
 mod\worlds\all.streamingblock
 mod\worlds\all.streamingsector
+mod\worlds\bench.streamingsector
 mod\worlds\items.streamingsector
 mod\worlds\kidnap.streamingblock
 mod\worlds\kidnap.streamingsector
