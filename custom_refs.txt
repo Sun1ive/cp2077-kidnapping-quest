@@ -77,6 +77,7 @@ base\worlds\kidnap.streamingblock
 base\worlds\kidnap.streamingsector
 base\worlds\ksunset.streamingsector
 base\worlds\sector.streamingsector
+dlc\dlc6_apart\scenes\sample.scene
 f_11dfa2bcad29f000
 fpp_idle_stand
 kidnap.scene
@@ -89,7 +90,10 @@ mod\kidnap.scene
 mod\localization\en-us\kidnap.json
 mod\localization\en-us\subtitles\kidnap.json
 mod\localization\en-us\subtitles\subs.json
+mod\localization\en-us\subtitles\sunlive_debug.json
+mod\localization\en-us\sunlive_debug.json
 mod\quest\ambush.scene
+mod\quest\dbg.questphase
 mod\quest\debug.scene
 mod\quest\kambush.scene
 mod\quest\kidnap_continued.scene
@@ -105,7 +109,12 @@ mod\quest\susnet_continued.scene
 mod\quest\susnet.scene
 mod\quest\zztest.questphase
 mod\quest\zzTEST.questphase
+mod\scenes\sit_stand.scene
 mod\scnSceneResource1.scene
+mod\worlds\all.streamingblock
+mod\worlds\all.streamingsector
+mod\worlds\bench.streamingsector
+mod\worlds\items.streamingsector
 mod\worlds\kidnap.streamingblock
 mod\worlds\kidnap.streamingsector
 mod\worlds\ksunset.streamingsector
