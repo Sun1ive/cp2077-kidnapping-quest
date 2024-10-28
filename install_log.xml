@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<InstalLog Project="FirstProject" Build_date="25.10.2024 12:45:20">
+<InstalLog Project="FirstProject" Build_date="28.10.2024 23:32:24">
   <Files>
     <Directory Path="G:\SteamLibrary\steamapps\common\Cyberpunk 2077\archive">
       <Directory Path="G:\SteamLibrary\steamapps\common\Cyberpunk 2077\archive\pc">
@@ -10,6 +10,11 @@
       </Directory>
     </Directory>
     <Directory Path="G:\SteamLibrary\steamapps\common\Cyberpunk 2077\r6">
+      <Directory Path="G:\SteamLibrary\steamapps\common\Cyberpunk 2077\r6\scripts">
+        <Directory Path="G:\SteamLibrary\steamapps\common\Cyberpunk 2077\r6\scripts\Kidnap">
+          <file>G:\SteamLibrary\steamapps\common\Cyberpunk 2077\r6\scripts\Kidnap\Kidnap.reds</file>
+        </Directory>
+      </Directory>
       <Directory Path="G:\SteamLibrary\steamapps\common\Cyberpunk 2077\r6\tweaks">
         <Directory Path="G:\SteamLibrary\steamapps\common\Cyberpunk 2077\r6\tweaks\Kidnap">
           <file>G:\SteamLibrary\steamapps\common\Cyberpunk 2077\r6\tweaks\Kidnap\kidnap.yaml</file>
