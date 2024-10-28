@@ -1,3 +1,4 @@
+
 @wrapMethod(ShardCaseContainer)
 protected cb func OnInteraction(choiceEvent: ref<InteractionChoiceEvent>) -> Bool {
     let currentReadedShardTweakID = this.itemTDBID;
