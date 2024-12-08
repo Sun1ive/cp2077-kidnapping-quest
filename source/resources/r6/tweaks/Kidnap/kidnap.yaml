@@ -1,7 +1,7 @@
 UIJournalIcons.panam_kidnap_pic_1:
   $type: gamedataJournalIcon_Record
   atlasPartName: pic_1
-  atlasResourcePath: mod\assets\ktexture.inkatlas
+  atlasResourcePath: mod\kidnap\assets\ktexture.inkatlas
 
 Items.mq_kidnap_shard_1:
   animFeatureName: ItemData
