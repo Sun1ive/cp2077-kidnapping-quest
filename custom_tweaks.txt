@@ -10,3 +10,4 @@ Items.mq_kidnap_shard_2
 Items.mq_panam_kidnap_shard_1
 UIJournalIcons.panam_kidnap_pic_1
 Unconscious
+Vehicle.panam_vehciel
