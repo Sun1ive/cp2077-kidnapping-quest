@@ -7,6 +7,8 @@ localization:
   subtitles:
     en-us: mod\kidnap\localization\en-us\subtitles\subs.json
 #     fr-fr: mod\localization\fr-fr\subtitles\subs.json
+  lipmaps:
+    en-us: mod\kidnap\localization\en-us\lipsync.lipmap
 quest:
   phases:
     # Vanilla
@@ -14,14 +16,6 @@ quest:
       parent: base\quest\cyberpunk2077.quest
     - path: mod\kidnap\quest\kidnap.questphase
       parent: ep1\quest\ep1_standalone.quest
-    # Vanilla
-    # - path: mod\quest\kidnap.questphase
-    #   parent: base\quest\cyberpunk2077.quest
-    # - path: mod\quest\kidnap.questphase
-    #   parent: ep1\quest\ep1_standalone.quest
-    # - path: mod\quest\kidnap.questphase
-    #   parent: base\quest\minor_quests\mq000\mq000.questphase
-    #   connection: [13, 103, 2]
 
     # NG+ compatibility
     # - path: mod\quest\kidnap.questphase
