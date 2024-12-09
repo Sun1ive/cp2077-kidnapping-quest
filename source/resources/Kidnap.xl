@@ -2,11 +2,9 @@ journal:
   - mod\kidnap\journal\kidnap.journal
 localization:
   onscreens:
-    en-us: mod\kidnap\localization\en-us\kidnap.json
-#     fr-fr: mod\localization\fr-fr\kidnap.json
+    en-us: mod\kidnap\localization\en-us\onscreens.json
   subtitles:
-    en-us: mod\kidnap\localization\en-us\subtitles\subs.json
-#     fr-fr: mod\localization\fr-fr\subtitles\subs.json
+    en-us: mod\kidnap\localization\en-us\subtitles\subtitles_map.json
   lipmaps:
     en-us: mod\kidnap\localization\en-us\lipsync.lipmap
 quest:
