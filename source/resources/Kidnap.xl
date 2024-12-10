@@ -7,6 +7,8 @@ localization:
     en-us: mod\kidnap\localization\en-us\subtitles\subtitles_map.json
   lipmaps:
     en-us: mod\kidnap\localization\en-us\lipsync.lipmap
+  vomaps:
+    en-us: mod\kidnap\localization\en-us\voiceovermap.json
 quest:
   phases:
     # Vanilla

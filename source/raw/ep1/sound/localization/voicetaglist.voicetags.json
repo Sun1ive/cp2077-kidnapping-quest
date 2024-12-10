@@ -1,0 +1,1363 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.15.1-nightly.2024-11-29",
+    "WKitJsonVersion": "0.0.9",
+    "GameVersion": 2120,
+    "ExportedDateTime": "2024-12-10T10:04:02.3480373Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "G:\\work\\CPModding\\wolvenkit\\projects\\Kidnap\\source\\archive\\ep1\\sound\\localization\\voicetaglist.voicetags"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "locVoiceTagListResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "voiceTags": [
+        {
+          "$type": "locVoiceTag",
+          "id": "2918414563693977600",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\quest\\tertiary_characters\\vsets\\mq306_aaron.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "aaron_waines"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3262351441488277504",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\openworld\\voicesets\\sts_characters\\vset_sts_ep1_12_alan_noel.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "alan_noel"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "2553396568388493312",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\quest\\primary_characters\\vsets\\vset_alex.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "alex"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3262211889930989568",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\openworld\\voicesets\\sts_characters\\vset_sts_ep1_08_ana.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "ana_friedman"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "2918415133783777280",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\quest\\tertiary_characters\\vsets\\mq306_angelica.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "angelica_whelan"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "2627338435008311296",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\openworld\\voicesets\\sts_characters\\vset_sts_ep1_01_anderson.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "anthony_anderson"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "2553397501101039616",
+          "isApuc": 0,
+          "voicesetScenePath": "",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "ari"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3286950946402594816",
+          "isApuc": 0,
+          "voicesetScenePath": "",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "ava"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "2958153248038883328",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\quest\\tertiary_characters\\vsets\\vset_babs.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "babs"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3387402656997085184",
+          "isApuc": 0,
+          "voicesetScenePath": "",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "babs_off"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3265349893816737792",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\quest\\secondary_characters\\vsets\\vset_baron.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "baron"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3143586067618222080",
+          "isApuc": 0,
+          "voicesetScenePath": "",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "bella_alex"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3051902301469827072",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\quest\\secondary_characters\\vsets\\vset_bella_net.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "bella_net"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3275170857554563072",
+          "isApuc": 0,
+          "voicesetScenePath": "",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "bella_v"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3264869635625095168",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\quest\\tertiary_characters\\vsets\\vset_bennet.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "bennett"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3262292272626298880",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\openworld\\voicesets\\sts_characters\\vset_sts_ep1_10_bill.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "bill_brooks"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3231675016790294528",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\quest\\tertiary_characters\\vsets\\vset_bree.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "bree"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3286949189962297344",
+          "isApuc": 0,
+          "voicesetScenePath": "",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "caden"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3643669357256527872",
+          "isApuc": 0,
+          "voicesetScenePath": "",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "car_rental_girl"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3262294392142327808",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\openworld\\voicesets\\sts_characters\\vset_sts_ep1_10_charles.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "charles_wilson"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3114537468127932416",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\openworld\\voicesets\\civilian_combat_zone\\civ_cbz_f_01_enus_30.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "civ_cbz_f_01_enus_30"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3114537612495876096",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\openworld\\voicesets\\civilian_combat_zone\\civ_cbz_f_02_enus_30.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "civ_cbz_f_02_enus_30"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3114537751981649920",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\openworld\\voicesets\\civilian_combat_zone\\civ_cbz_f_03_afam_30.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "civ_cbz_f_03_afam_30"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3114537905107300352",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\openworld\\voicesets\\civilian_combat_zone\\civ_cbz_f_04_afr_30.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "civ_cbz_f_04_afr_30"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3114538042932129792",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\openworld\\voicesets\\civilian_combat_zone\\civ_cbz_f_05_mex_30.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "civ_cbz_f_05_mex_30"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3114538177300852736",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\openworld\\voicesets\\civilian_combat_zone\\civ_cbz_f_06_ind_30.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "civ_cbz_f_06_ind_30"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3114538326903287808",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\openworld\\voicesets\\civilian_combat_zone\\civ_cbz_f_07_chn_30.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "civ_cbz_f_07_chn_30"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3114538456456949760",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\openworld\\voicesets\\civilian_combat_zone\\civ_cbz_f_08_rus_30.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "civ_cbz_f_08_rus_30"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3114534364544299008",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\openworld\\voicesets\\civilian_combat_zone\\civ_cbz_m_01_enus_30.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "civ_cbz_m_01_enus_30"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3114535726317367296",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\openworld\\voicesets\\civilian_combat_zone\\civ_cbz_m_02_enus_30.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "civ_cbz_m_02_enus_30"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3114536182103994368",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\openworld\\voicesets\\civilian_combat_zone\\civ_cbz_m_03_afam_30.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "civ_cbz_m_03_afam_30"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3114536349809045504",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\openworld\\voicesets\\civilian_combat_zone\\civ_cbz_m_04_afr_30.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "civ_cbz_m_04_afr_30"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3114536525969813504",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\openworld\\voicesets\\civilian_combat_zone\\civ_cbz_m_05_mex_30.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "civ_cbz_m_05_mex_30"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3114536742815330304",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\openworld\\voicesets\\civilian_combat_zone\\civ_cbz_m_06_ind_30.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "civ_cbz_m_06_ind_30"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3114536976538726400",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\openworld\\voicesets\\civilian_combat_zone\\civ_cbz_m_07_chn_30.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "civ_cbz_m_07_chn_30"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3114537149545377792",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\openworld\\voicesets\\civilian_combat_zone\\civ_cbz_m_08_rus_30.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "civ_cbz_m_08_rus_30"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3292767644384030720",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\openworld\\voicesets\\civilian_combat_zone\\civ_cbz_m_09_afam_30.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "civ_cbz_m_09_afam_30"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3733260619673911296",
+          "isApuc": 0,
+          "voicesetScenePath": "",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "civ_high_roulette_table_f_01_afam_30"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3733264376612667392",
+          "isApuc": 0,
+          "voicesetScenePath": "",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "civ_high_roulette_table_m_enus_01_30"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "2918428387130105856",
+          "isApuc": 0,
+          "voicesetScenePath": "",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "civ_scv_m_01_fre_43"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3231675548057616384",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\quest\\tertiary_characters\\vsets\\vset_dante.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "dante"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3466529331265224704",
+          "isApuc": 0,
+          "voicesetScenePath": "",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "daphne_droid"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3262289593523007488",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\openworld\\voicesets\\sts_characters\\vset_sts_ep1_10_dodger.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "dodger"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3262303818068815872",
+          "isApuc": 0,
+          "voicesetScenePath": "",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "elif"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3143607884894457856",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\quest\\secondary_characters\\vsets\\vset_farida.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "farida"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3262314684671619072",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\openworld\\voicesets\\sts_characters\\vset_sts_ep1_13_fiona.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "fiona_vargas"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3214531604062466048",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\openworld\\voicesets\\kurt_militia\\gang_kml_f_01_enus_30.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "GANG_KML_F_01_ENUS_30"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3214531901186961408",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\openworld\\voicesets\\kurt_militia\\gang_kml_f_02_bra_30.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "GANG_KML_F_02_BRA_30"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3214531983613423616",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\openworld\\voicesets\\kurt_militia\\gang_kml_f_03_jap_30.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "GANG_KML_F_03_JAP_30"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3214532058339143680",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\openworld\\voicesets\\kurt_militia\\gang_kml_f_04_car_30.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "GANG_KML_F_04_CAR_30"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3214532131068375040",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\openworld\\voicesets\\kurt_militia\\gang_kml_f_05_afam_30.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "GANG_KML_F_05_AFAM_30"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3214532194922459136",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\openworld\\voicesets\\kurt_militia\\gang_kml_m_01_enus_30.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "GANG_KML_M_01_ENUS_30"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3214532271829217280",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\openworld\\voicesets\\kurt_militia\\gang_kml_m_02_enus_30.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "GANG_KML_M_02_ENUS_30"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3214532339156185088",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\openworld\\voicesets\\kurt_militia\\gang_kml_m_03_bra_30.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "GANG_KML_M_03_BRA_30"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3214532399805820928",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\openworld\\voicesets\\kurt_militia\\gang_kml_m_04_car_30.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "GANG_KML_M_04_CAR_30"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3214532458039537664",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\openworld\\voicesets\\kurt_militia\\gang_kml_m_05_afr_30.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "GANG_KML_M_05_AFR_30"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3214532528168300544",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\openworld\\voicesets\\kurt_militia\\gang_kml_m_06_afam_30.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "GANG_KML_M_06_AFAM_30"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3214532589539356672",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\openworld\\voicesets\\kurt_militia\\gang_kml_m_07_afam_30.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "GANG_KML_M_07_AFAM_30"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3214532650574868480",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\openworld\\voicesets\\kurt_militia\\gang_kml_m_08_chn_30.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "GANG_KML_M_08_CHN_30"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3214532708540149760",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\openworld\\voicesets\\kurt_militia\\gang_kml_m_09_chn_30.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "GANG_KML_M_09_CHN_30"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3214532771354046464",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\openworld\\voicesets\\kurt_militia\\gang_kml_m_10_jap_30.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "GANG_KML_M_10_JAP_30"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3214532828178477056",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\openworld\\voicesets\\kurt_militia\\gang_kml_m_11_jap_30.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "GANG_KML_M_11_JAP_30"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3214532887653707776",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\openworld\\voicesets\\kurt_militia\\gang_kml_m_12_mex_30.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "GANG_KML_M_12_MEX_30"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3214532948253011968",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\openworld\\voicesets\\kurt_militia\\gang_kml_m_13_mex_30.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "GANG_KML_M_13_MEX_30"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3214533013331832832",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\openworld\\voicesets\\kurt_militia\\gang_kml_m_14_nat_30.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "GANG_KML_M_14_NAT_30"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3214533173369696256",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\openworld\\voicesets\\kurt_militia\\gang_kml_m_15_ind_30.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "GANG_KML_M_15_IND_30"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "2766241184436326400",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\openworld\\voicesets\\sts_characters\\vset_sts_ep1_06_georgina.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "georgina_zembinsky"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3262300873080205312",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\openworld\\voicesets\\sts_characters\\vset_sts_ep1_03_hana.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "hana"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3262303400953671680",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\openworld\\voicesets\\sts_characters\\vset_sts_ep1_04_hasan.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "hasan"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3434832495269253120",
+          "isApuc": 0,
+          "voicesetScenePath": "",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "Haunted_weapon"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "2553396831019032576",
+          "isApuc": 0,
+          "voicesetScenePath": "",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "hawkins"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "2757646973969502208",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\quest\\tertiary_characters\\vsets\\vset_helen.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "helen"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "2553397769821708288",
+          "isApuc": 0,
+          "voicesetScenePath": "",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "isiah"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3286955714487382016",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\quest\\tertiary_characters\\vsets\\vset_jacob.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "jacob"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3264867217743056896",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\quest\\tertiary_characters\\vsets\\vset_jago.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "jago"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "2766242421823115264",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\openworld\\voicesets\\sts_characters\\vset_sts_ep1_06_john.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "john_davis"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "2958136144438923264",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\quest\\tertiary_characters\\vsets\\vset_jurij.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "jurij"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3262321221192413184",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\openworld\\voicesets\\sts_characters\\vset_sts_ep1_13_katie.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "katie_lee"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3262222174867714048",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\openworld\\voicesets\\sts_characters\\vset_sts_ep1_08_katya.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "katya_karelina"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "2960033218004684800",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\quest\\tertiary_characters\\vsets\\vset_kruger.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "kruger"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "2553390861467475968",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\quest\\primary_characters\\vsets\\vset_kurtz.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "kurtz"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3450862739298619392",
+          "isApuc": 0,
+          "voicesetScenePath": "",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "kurtz_v"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3342203672536473600",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\quest\\tertiary_characters\\vsets\\vset_lina.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "lina"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "2553396977450573824",
+          "isApuc": 0,
+          "voicesetScenePath": "",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "mac"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3332169663370399744",
+          "isApuc": 0,
+          "voicesetScenePath": "",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "marcin_iwinski"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3302528710222786560",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\quest\\tertiary_characters\\vsets\\vset_mark.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "mark_bana"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3332169163040264192",
+          "isApuc": 0,
+          "voicesetScenePath": "",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "michal_kicinski"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3262323362267164672",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\openworld\\voicesets\\sts_characters\\vset_sts_ep1_06_michael.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "micheal_maldonado"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3325815386643013632",
+          "isApuc": 0,
+          "voicesetScenePath": "",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "mq304_actor_female"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3325812838435561472",
+          "isApuc": 0,
+          "voicesetScenePath": "",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "mq304_actor_male"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3295381556195266560",
+          "isApuc": 0,
+          "voicesetScenePath": "",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "mq304_assassin_female"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3295377067115581440",
+          "isApuc": 0,
+          "voicesetScenePath": "",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "mq304_assassin_male"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3628886396381327360",
+          "isApuc": 0,
+          "voicesetScenePath": "",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "mq304_wake_crowd"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "2553397875031629824",
+          "isApuc": 0,
+          "voicesetScenePath": "",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "mullins"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "2553391533009100800",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\quest\\primary_characters\\vsets\\vset_myers.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "myers"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3262211134922715136",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\openworld\\voicesets\\sts_characters\\vset_sts_ep1_07_nele.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "nele_spranger"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3262288882957578240",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\openworld\\voicesets\\sts_characters\\vset_sts_ep1_01_nika.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "nika_yankovich"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "2627339475749351424",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\openworld\\voicesets\\sts_characters\\vset_sts_ep1_01_odel.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "odel_bailey"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "2958152608508186624",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\quest\\tertiary_characters\\vsets\\vset_paco.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "paco"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3387402268302544896",
+          "isApuc": 0,
+          "voicesetScenePath": "",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "paco_off"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "2757642134430552064",
+          "isApuc": 0,
+          "voicesetScenePath": "",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "rami"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "2553392786132918272",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\quest\\primary_characters\\vsets\\vset_reed.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "reed"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3262300243431288832",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\openworld\\voicesets\\sts_characters\\vset_sts_ep1_03_rinder.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "rinder"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3262356648112713728",
+          "isApuc": 0,
+          "voicesetScenePath": "",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "scott_wyse"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3342233105796358144",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\quest\\tertiary_characters\\vsets\\vset_shank.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "shank"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3488145227922694144",
+          "isApuc": 0,
+          "voicesetScenePath": "",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "sniper_nest_voice_interface"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "2553393718845464576",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\quest\\primary_characters\\vsets\\vset_songbird.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "songbird"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3398600637699461120",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\quest\\secondary_characters\\vsets\\vset_songbird_blackwall.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "songbird_blackwall"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3262353852625874944",
+          "isApuc": 0,
+          "voicesetScenePath": "",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "sonia_golubeva"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3369483331597017088",
+          "isApuc": 0,
+          "voicesetScenePath": "",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "stella_ramos"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3262212739462098944",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\openworld\\voicesets\\sts_characters\\vset_sts_ep1_08_steven.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "steven_santos"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3286955388036313088",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\quest\\tertiary_characters\\vsets\\vset_taylor.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "taylor"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3143586862807928832",
+          "isApuc": 0,
+          "voicesetScenePath": "",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "theo_alex"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3051902891004420096",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\quest\\secondary_characters\\vsets\\vset_theo_net.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "theo_net"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3275169973428834304",
+          "isApuc": 0,
+          "voicesetScenePath": "",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "theo_v"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3262315188575301632",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\openworld\\voicesets\\sts_characters\\vset_sts_ep1_13_tommie.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "tommie_walker"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3342225972023451648",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\quest\\tertiary_characters\\vsets\\vset_tool.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "tool"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3287043546316926976",
+          "isApuc": 0,
+          "voicesetScenePath": "",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "voicemail"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3810249095186878464",
+          "isApuc": 0,
+          "voicesetScenePath": "ep1\\openworld\\voicesets\\fixers\\vset_mr_hands_ep1.scene",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "wade_bleecker"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "2980879221138042880",
+          "isApuc": 0,
+          "voicesetScenePath": "",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "wakako_son"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "3395714951313809408",
+          "isApuc": 0,
+          "voicesetScenePath": "",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "wawuda"
+          }
+        },
+        {
+          "$type": "locVoiceTag",
+          "id": "2980767902766379008",
+          "isApuc": 0,
+          "voicesetScenePath": "",
+          "voiceTag": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "ziggy_@_dinos"
+          }
+        }
+      ]
+    },
+    "EmbeddedFiles": []
+  }
+}

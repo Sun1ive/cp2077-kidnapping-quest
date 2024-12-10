@@ -12,8 +12,10 @@ mod\kidnap\assets\preview.bk2
 mod\kidnap\journal\kidnap.journal
 mod\kidnap\localization\anims\johnny.anims
 mod\kidnap\localization\en-us\kidnap.json
+mod\kidnap\localization\en-us\lipsync.lipmap
 mod\kidnap\localization\en-us\subtitles\kidnap.json
 mod\kidnap\localization\en-us\subtitles\subs.json
+mod\kidnap\localization\en-us\subtitles\subtitles.json
 mod\kidnap\localization\fr-fr\kidnap.json
 mod\kidnap\localization\fr-fr\subtitles\kidnap.json
 mod\kidnap\localization\fr-fr\subtitles\subs.json
