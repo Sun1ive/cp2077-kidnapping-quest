@@ -26,6 +26,7 @@ mod\kidnap\localization\fr-fr\subtitles\kidnap.json
 mod\kidnap\localization\fr-fr\subtitles\subs.json
 mod\kidnap\quest\kidnap.questphase
 mod\kidnap\scenes\mitch_holocall.scene
+mod\kidnap\scenes\mitch_plan.scene
 mod\kidnap\scenes\sunset.scene
 mod\kidnap\workspots\generic__sit_ground__wounded__01_m.workspot
 mod\kidnap\world\all.streamingblock
