@@ -1,0 +1,47 @@
+{
+  "name": "new_project",
+  "sectors": [
+    {
+      "name": "new_group",
+      "max": { "x": -1430.1713867188, "y": 3177.1484375, "z": 164.29717159271 },
+      "nodes": [
+        {
+          "name": "AttachableObject.q114_vehicle_chaingun_turret",
+          "rotation": {
+            "i": 0,
+            "r": 0.89323580265045,
+            "j": 0,
+            "k": 0.44958859682083
+          },
+          "position": {
+            "z": 14.297171592712,
+            "x": -1580.1713867188,
+            "y": 3027.1484375,
+            "w": 0
+          },
+          "type": "worldPopulationSpawnerNode",
+          "uk10": 1056,
+          "scale": { "x": 1, "y": 1, "z": 1 },
+          "data": {
+            "appearanceName": { "$storage": "string", "$value": "default" },
+            "objectRecordId": {
+              "$storage": "string",
+              "$value": "AttachableObject.q114_vehicle_chaingun_turret"
+            },
+            "spawnOnStart": 1
+          },
+          "primaryRange": 100,
+          "secondaryRange": 120,
+          "uk11": 512
+        }
+      ],
+      "level": 1,
+      "min": {
+        "x": -1730.1713867188,
+        "y": 2877.1484375,
+        "z": -135.70282840729
+      },
+      "category": "Exterior"
+    }
+  ]
+}
