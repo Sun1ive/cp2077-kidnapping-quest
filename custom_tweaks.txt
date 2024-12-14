@@ -8,6 +8,7 @@ ep1\gameplay\gui\common\icons\codex\sts_assets_ep1.inkatlas
 Items.mq_kidnap_shard_1
 Items.mq_kidnap_shard_2
 Items.mq_panam_kidnap_shard_1
+nomads
 UIJournalIcons.panam_kidnap_pic_1
 Unconscious
 Vehicle.panam_vehciel
