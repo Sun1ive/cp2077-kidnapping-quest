@@ -3,12 +3,6 @@ UIJournalIcons.panam_kidnap_pic_1:
   atlasPartName: pic_1
   atlasResourcePath: mod\kidnap\assets\ktexture.inkatlas
 
-Character.kidnap_boss_inline1:
-  $type: gamedataArchetypeType_Record
-  enumComment: ''
-  enumName: HeavyRangedT2
-  localizedName: LocKey#42729079297
-
 Character.kidnap_boss:
   $base: TEST.BossEnemy
   bountyDrawTable: BountyDrawTable.Maelstrom
@@ -19,9 +13,9 @@ Character.kidnap_boss:
   threatTrackingPreset: TargetTracking.BossPreset
   # baseAttitudeGroup: enemyHostile
   baseAttitudeGroup: maelstrom 
-  displayName: LocKey#42729079297
-  alternativeDisplayName: LocKey#42729079297
-  alternativeFullDisplayName: LocKey#42729079297
+  displayName: LocKey#42729079296
+  alternativeDisplayName: LocKey#42729079295
+  alternativeFullDisplayName: LocKey#42729079294
   fullDisplayName: LocKey#42729079297
 
 
