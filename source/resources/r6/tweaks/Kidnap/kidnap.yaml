@@ -3,6 +3,17 @@ UIJournalIcons.panam_kidnap_pic_1:
   atlasPartName: pic_1
   atlasResourcePath: mod\kidnap\assets\ktexture.inkatlas
 
+Character.kidnap_boss:
+  $base: TEST.BossEnemy
+  bountyDrawTable: BountyDrawTable.Maelstrom
+  affiliation: Factions.Maelstrom
+  squadParamsID: FactionSquads.MaelstromSquad
+  entityTemplatePath: ep1\characters\entities\gang\gang__ep1_maelstrom_mb.ent
+  archetypeData: Character.maelstrom_strong_gunner2_defender_mb_rare_inline0
+  threatTrackingPreset: TargetTracking.BossPreset
+  baseAttitudeGroup: enemyHostile
+  displayName: "Test test_test"
+
 # Items.mq_kidnap_shard_1:
 #   animFeatureName: ItemData
 #   $type: gamedataItem_Record

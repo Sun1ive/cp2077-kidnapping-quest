@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<InstalLog Project="FirstProject" Build_date="14.12.2024 21:41:29">
+<InstalLog Project="FirstProject" Build_date="15.12.2024 14:58:48">
   <Files>
     <Directory Path="G:\SteamLibrary\steamapps\common\Cyberpunk 2077\archive">
       <Directory Path="G:\SteamLibrary\steamapps\common\Cyberpunk 2077\archive\pc">
@@ -16,6 +16,12 @@
         </Directory>
       </Directory>
       <Directory Path="G:\SteamLibrary\steamapps\common\Cyberpunk 2077\r6\tweaks">
+        <Directory Path="G:\SteamLibrary\steamapps\common\Cyberpunk 2077\r6\tweaks\FirstProject">
+          <file>G:\SteamLibrary\steamapps\common\Cyberpunk 2077\r6\tweaks\FirstProject\Character.main_boss_sasquatch.yaml</file>
+          <file>G:\SteamLibrary\steamapps\common\Cyberpunk 2077\r6\tweaks\FirstProject\Character.Main_boss_sasquatch_stats.yaml</file>
+          <file>G:\SteamLibrary\steamapps\common\Cyberpunk 2077\r6\tweaks\FirstProject\Character.nid_maelstrom_strong_gunner2_defender_mb_rare.yaml</file>
+          <file>G:\SteamLibrary\steamapps\common\Cyberpunk 2077\r6\tweaks\FirstProject\TEST.BossEnemy.yaml</file>
+        </Directory>
         <Directory Path="G:\SteamLibrary\steamapps\common\Cyberpunk 2077\r6\tweaks\Kidnap">
           <file>G:\SteamLibrary\steamapps\common\Cyberpunk 2077\r6\tweaks\Kidnap\kidnap.yaml</file>
         </Directory>
