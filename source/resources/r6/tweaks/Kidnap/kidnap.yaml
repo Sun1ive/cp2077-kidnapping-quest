@@ -11,11 +11,11 @@ Character.kidnap_boss:
   entityTemplatePath: ep1\characters\entities\gang\gang__ep1_maelstrom_mb.ent
   archetypeData: Character.maelstrom_strong_gunner2_defender_mb_rare_inline0
   threatTrackingPreset: TargetTracking.BossPreset
-  # baseAttitudeGroup: enemyHostile
-  baseAttitudeGroup: maelstrom 
-  # displayName: LocKey#42729079296
   # alternativeDisplayName: LocKey#42729079295
   # alternativeFullDisplayName: LocKey#42729079294
+  # baseAttitudeGroup: enemyHostile
+  baseAttitudeGroup: maelstrom 
+  displayName: LocKey#42729079279
   fullDisplayName: LocKey#42729079279
 
 
