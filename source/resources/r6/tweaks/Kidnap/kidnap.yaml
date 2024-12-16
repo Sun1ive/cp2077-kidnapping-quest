@@ -13,10 +13,10 @@ Character.kidnap_boss:
   threatTrackingPreset: TargetTracking.BossPreset
   # baseAttitudeGroup: enemyHostile
   baseAttitudeGroup: maelstrom 
-  displayName: LocKey#42729079296
-  alternativeDisplayName: LocKey#42729079295
-  alternativeFullDisplayName: LocKey#42729079294
-  fullDisplayName: LocKey#42729079297
+  # displayName: LocKey#42729079296
+  # alternativeDisplayName: LocKey#42729079295
+  # alternativeFullDisplayName: LocKey#42729079294
+  fullDisplayName: LocKey#42729079279
 
 
 # Items.mq_kidnap_shard_1:
