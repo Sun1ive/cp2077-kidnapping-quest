@@ -36,6 +36,7 @@ mod\kidnap\localization\fr-fr\kidnap.json
 mod\kidnap\localization\fr-fr\subtitles\kidnap.json
 mod\kidnap\localization\fr-fr\subtitles\subs.json
 mod\kidnap\quest\kidnap.questphase
+mod\kidnap\scenes\kidnap_end.scene
 mod\kidnap\scenes\mitch_holocall.scene
 mod\kidnap\scenes\mitch_plan.scene
 mod\kidnap\scenes\sunset.scene
