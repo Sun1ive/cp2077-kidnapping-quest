@@ -11,8 +11,8 @@ Character.kidnap_boss:
   archetypeData: Character.maelstrom_strong_gunner2_defender_mb_rare_inline0
   # threatTrackingPreset: TargetTracking.BossPreset
   bountyDrawTable: BountyDrawTable.Maelstrom
-  # alternativeDisplayName: LocKey#42729079295
-  # alternativeFullDisplayName: LocKey#42729079294
+  alternativeDisplayName: LocKey#42729079279
+  alternativeFullDisplayName: LocKey#42729079279
   baseAttitudeGroup: maelstrom
   displayName: LocKey#42729079279
   fullDisplayName: LocKey#42729079279

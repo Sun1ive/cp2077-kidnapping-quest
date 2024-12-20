@@ -1,57 +1,68 @@
 {
-  "name": "new_project",
   "sectors": [
     {
-      "category": "Exterior",
-      "level": 1,
       "min": {
-        "y": 2796.4748535156,
-        "z": -141.8670873642,
-        "x": -1648.6817626953
+        "x": -893.44012451172,
+        "y": 619.83233642578,
+        "z": 181.38674926758
       },
       "max": {
-        "y": 3096.4748535156,
-        "z": 158.1329126358,
-        "x": -1348.6817626953
+        "x": -593.44012451172,
+        "y": 919.83233642578,
+        "z": 481.38674926758
       },
-      "name": "new_group",
+      "level": 1,
+      "category": "Exterior",
       "nodes": [
         {
-          "uk10": 1056,
-          "rotation": {
-            "r": -0.5909264087677,
-            "i": -0,
-            "j": 0,
-            "k": 0.80672544240952
-          },
-          "type": "worldEntityNode",
-          "name": "laptop_1.ent",
-          "data": {
-            "entityTemplate": {
-              "DepotPath": {
-                "$type": "ResourcePath",
-                "$value": "base\\gameplay\\devices\\masters\\computers\\laptop_1.ent",
-                "$storage": "string"
-              }
-            },
-            "appearanceName": {
-              "$type": "CName",
-              "$value": "laptop_laptop_2",
-              "$storage": "string"
-            }
-          },
-          "primaryRange": 100,
           "position": {
-            "y": 2946.4748535156,
+            "x": -743.44012451172,
+            "y": 769.83233642578,
             "w": 0,
-            "z": 8.1329126358032,
-            "x": -1498.6817626953
+            "z": 331.38674926758
           },
+          "data": {
+            "flicker": {
+              "flickerPeriod": 0.2,
+              "positionOffset": 0,
+              "flickerStrength": 0
+            },
+            "allowDistantLight": 0,
+            "lightChannel": "LC_Channel1, LC_Channel2, LC_Channel3, LC_Channel4, LC_Channel5, LC_Channel6, LC_Channel7, LC_Channel8, LC_ChannelWorld",
+            "capsuleLength": 1,
+            "autoHideDistance": 45,
+            "type": "LT_Spot",
+            "scaleVolFog": 0,
+            "useInParticles": 1,
+            "useInTransparents": 1,
+            "shadowFadeDistance": 10,
+            "shadowFadeRange": 5,
+            "innerAngle": 101.30000305176,
+            "outerAngle": 60,
+            "contactShadows": "CSR_None",
+            "enableLocalShadows": 1,
+            "EV": 0,
+            "intensity": 100,
+            "radius": 15,
+            "color": { "Green": 255, "Blue": 255, "Alpha": 255, "Red": 255 }
+          },
+          "name": "Green Light",
+          "scale": { "x": 1, "y": 1, "z": 1 },
+          "type": "worldStaticLightNode",
+          "primaryRange": 100,
+          "secondaryRange": 120,
           "uk11": 512,
-          "scale": { "y": 1, "z": 1, "x": 1 },
-          "secondaryRange": 120
+          "rotation": {
+            "k": -0.74372959136963,
+            "j": 0,
+            "r": 0.66848063468933,
+            "i": 0
+          },
+          "uk10": 1024
         }
-      ]
+      ],
+      "name": "new_group"
     }
-  ]
+  ],
+  "name": "new_project"
 }
