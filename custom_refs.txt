@@ -12,6 +12,7 @@ mod\kidnap\assets\preview.bk2
 mod\kidnap\journal\kidnap.journal
 mod\kidnap\localization\anims\johnny.anims
 mod\kidnap\localization\anims\mitch.anims
+mod\kidnap\localization\anims\panam.anims
 mod\kidnap\localization\en-us\kidnap.json
 mod\kidnap\localization\en-us\lipsync.lipmap
 mod\kidnap\localization\en-us\onscreens.json
