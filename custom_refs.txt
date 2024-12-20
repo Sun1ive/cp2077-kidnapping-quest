@@ -44,6 +44,7 @@ mod\kidnap\scenes\sunset.scene
 mod\kidnap\workspots\generic__sit_ground__wounded__01_m.workspot
 mod\kidnap\world\all.streamingblock
 mod\kidnap\world\sectors\kidnap_always_loaded.streamingsector
+mod\kidnap\world\sectors\kidnap_lights.streamingsector
 mod\kidnap\world\sectors\kidnap_quest_prefab.streamingsector
 mod\localization\anims\johnny.anims
 mod\localization\anims\panam.anims
@@ -130,6 +131,7 @@ mod\worlds\sq_notanotherstory.streamingsector
 mod\worlds\sq_notjustanotherstory_community.streamingsector
 mod\worlds\sq_notjustanotherstory.streamingblock
 mod\worlds\sq_notjustanotherstory.streamingsector
+new_project\sectors\new_group.streamingsector
 sunlive\kidnap\assets\ktexture.inkatlas
 sunlive\kidnap\assets\panam_captured_resized.xbm
 sunlive\kidnap\assets\preview.bk2
