@@ -45,6 +45,7 @@ mod\kidnap\workspots\generic__sit_ground__wounded__01_m.workspot
 mod\kidnap\world\all.streamingblock
 mod\kidnap\world\sectors\kidnap_always_loaded.streamingsector
 mod\kidnap\world\sectors\kidnap_lights.streamingsector
+mod\kidnap\world\sectors\kidnap_lights1_copy.streamingsector
 mod\kidnap\world\sectors\kidnap_quest_prefab.streamingsector
 mod\localization\anims\johnny.anims
 mod\localization\anims\panam.anims
