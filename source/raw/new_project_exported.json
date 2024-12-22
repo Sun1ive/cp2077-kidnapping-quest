@@ -1,1 +1,54 @@
-{"name":"new_project","sectors":[{"name":"new_group","min":{"x":-890.7529296875,"y":620.57995605469,"z":184.58688354492},"max":{"x":-590.7529296875,"y":920.57995605469,"z":484.58688354492},"nodes":[{"primaryRange":100,"position":{"z":334.58688354492,"x":-740.7529296875,"y":770.57995605469,"w":0},"type":"worldStaticLightNode","rotation":{"i":-0.50317472219467,"j":-0.31225150823593,"r":0.65263420343399,"k":0.47263392806053},"uk10":1024,"scale":{"x":1,"y":1,"z":1},"name":"Green Light","data":{"innerAngle":53.299999237061,"outerAngle":210.60000610352,"flicker":{"positionOffset":0,"flickerStrength":0,"flickerPeriod":0.2},"allowDistantLight":0,"lightChannel":"LC_Channel1, LC_Channel2, LC_Channel3, LC_Channel4, LC_Channel5, LC_Channel6, LC_Channel7, LC_Channel8, LC_ChannelWorld","capsuleLength":1,"autoHideDistance":45,"scaleVolFog":0,"useInParticles":1,"useInTransparents":1,"intensity":179.19999694824,"radius":170.80000305176,"shadowFadeRange":5,"contactShadows":"CSR_None","shadowFadeDistance":10,"color":{"Green":255,"Blue":255,"Alpha":255,"Red":255},"enableLocalShadows":1,"EV":0,"type":"LT_Spot"},"secondaryRange":120,"uk11":512}],"level":1,"category":"Exterior"}]}
+{
+  "name": "new_project",
+  "sectors": [
+    {
+      "name": "new_group",
+      "level": 1,
+      "min": {
+        "x": -1653.9288330078,
+        "y": 2793.9604492188,
+        "z": -142.36806678772
+      },
+      "max": {
+        "x": -1353.9288330078,
+        "y": 3093.9604492188,
+        "z": 157.63193321228
+      },
+      "nodes": [
+        {
+          "primaryRange": 100,
+          "scale": { "x": 1, "y": 1, "z": 1 },
+          "position": {
+            "z": 7.6319332122803,
+            "x": -1503.9288330078,
+            "y": 2943.9604492188,
+            "w": 0
+          },
+          "data": {
+            "spawnOnStart": 1,
+            "objectRecordId": {
+              "$storage": "string",
+              "$value": "Vehicle.sq004_deco_nomad_car"
+            },
+            "appearanceName": {
+              "$storage": "string",
+              "$value": "thorton_colby__basic_burnt_01"
+            }
+          },
+          "uk10": 1056,
+          "rotation": {
+            "k": -0.29115626215935,
+            "r": 0.95667558908463,
+            "i": 0,
+            "j": 0
+          },
+          "type": "worldPopulationSpawnerNode",
+          "name": "Vehicle.sq004_deco_nomad_car",
+          "secondaryRange": 120,
+          "uk11": 512
+        }
+      ],
+      "category": "Exterior"
+    }
+  ]
+}

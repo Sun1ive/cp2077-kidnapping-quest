@@ -7,7 +7,6 @@ Kidnap 2.0
 8. fix Mitch scene workspot anim
 9. fix/add workspot for V meet Mitch scene
 10. add dancing scene in sunset
-11. add roof scene - add more lines to non-romanceable
 12. create dialog in drone phase
 13. fix interrogation animation offset
 14. add highlight for boss
