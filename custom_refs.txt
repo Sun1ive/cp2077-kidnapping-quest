@@ -30,7 +30,15 @@ mod\kidnap\localization\en-us\vo\sq_kidnap_johnny_sunset_search_f_013eaf5dbd492e
 mod\kidnap\localization\en-us\vo\sq_kidnap_mitch_holo_v_pharse_1_f_021421fb6ae7b74a.wem
 mod\kidnap\localization\en-us\vo\sq_kidnap_mitch_holo_v_pharse_2_f_0970b19ca38d8cfa.wem
 mod\kidnap\localization\en-us\vo\sq_kidnap_mitch_holo_v_pharse_3_f_17ff343365861b1b.wem
+mod\kidnap\localization\en-us\vo\sq_kidnap_mitch_holo_v_phrase_1_m_05b1bbbe307db53a.wem
+mod\kidnap\localization\en-us\vo\sq_kidnap_mitch_holo_v_phrase_1_m.wem
+mod\kidnap\localization\en-us\vo\sq_kidnap_mitch_holo_v_phrase_2_m.wem
+mod\kidnap\localization\en-us\vo\sq_kidnap_mitch_holo_v_phrase_3_m.wem
 mod\kidnap\localization\en-us\vo\sq_kidnap_mitch_holo_v_phrase_4_f_083d7d89453cebe5.wem
+mod\kidnap\localization\en-us\vo\sq_kidnap_mitch_holo_v_phrase_4_m.wem
+mod\kidnap\localization\en-us\vo\sq_kidnap_mitch_holo_v_phrase_5_m.wem
+mod\kidnap\localization\en-us\vo\sq_kidnap_mitch_holo_v_phrase_6_m.wem
+mod\kidnap\localization\en-us\vo\sq_kidnap_mitch_holo_v_phrase_7_m.wem
 mod\kidnap\localization\en-us\vo\sq_kidnap_mitch_v_holo_pharse_1_f_021421fb6ae7b74a.wem
 mod\kidnap\localization\en-us\vo\sq_kidnap_mitch_v_holo_pharse_2_f_0970b19ca38d8cfa.wem
 mod\kidnap\localization\en-us\vo\sq_kidnap_mitch_v_holo_pharse_3_f_17ff343365861b1b.wem
