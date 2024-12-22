@@ -13,8 +13,13 @@ mod\kidnap\journal\kidnap.journal
 mod\kidnap\localization\anims\johnny.anims
 mod\kidnap\localization\anims\mitch.anims
 mod\kidnap\localization\anims\panam.anims
+mod\kidnap\localization\anims\synced__sq026_01a_suicide__player_female.anims
+mod\kidnap\localization\anims\synced__sq026_01a_suicide__player_male.anims
 mod\kidnap\localization\en-us\kidnap.json
 mod\kidnap\localization\en-us\lipsync.lipmap
+mod\kidnap\localization\en-us\lipsync\johnny.anims
+mod\kidnap\localization\en-us\lipsync\mitch.anims
+mod\kidnap\localization\en-us\lipsync\panam.anims
 mod\kidnap\localization\en-us\onscreens.json
 mod\kidnap\localization\en-us\subtitles\kidnap.json
 mod\kidnap\localization\en-us\subtitles\subs.json
