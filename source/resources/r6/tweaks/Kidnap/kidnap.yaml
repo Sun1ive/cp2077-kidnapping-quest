@@ -3,19 +3,27 @@ UIJournalIcons.panam_kidnap_pic_1:
   atlasPartName: pic_1
   atlasResourcePath: mod\kidnap\assets\ktexture.inkatlas
 
+Character.kidnap_boss_inline1:
+  $type: gamedataArchetypeType_Record
+  enumName: HeavyRangedT2
+  localizedName: LocKey#4943833046251791740
+
+Character.kidnap_boss_inline0:
+  $base: Character.maelstrom_strong_gunner2_defender_mb_rare_inline0
+  type: Character.kidnap_boss_inline1
+
 Character.kidnap_boss:
   $base: TEST.BossEnemy
   affiliation: Factions.Maelstrom
   squadParamsID: FactionSquads.MaelstromSquad
-  entityTemplatePath: ep1\characters\entities\gang\gang__ep1_maelstrom_mb.ent
-  archetypeData: Character.maelstrom_strong_gunner2_defender_mb_rare_inline0
-  # threatTrackingPreset: TargetTracking.BossPreset
-  bountyDrawTable: BountyDrawTable.Maelstrom
-  alternativeDisplayName: LocKey#42729079279
-  alternativeFullDisplayName: LocKey#42729079279
   baseAttitudeGroup: maelstrom
-  displayName: LocKey#42729079279
-  fullDisplayName: LocKey#42729079279
+  entityTemplatePath: ep1\characters\entities\gang\gang__ep1_maelstrom_mb.ent
+  archetypeData: Character.kidnap_boss_inline0
+  bountyDrawTable: BountyDrawTable.Maelstrom
+  alternativeDisplayName: LocKey#4943833046251791740
+  alternativeFullDisplayName: LocKey#4943833046251791740
+  displayName: LocKey#4943833046251791740
+  fullDisplayName: LocKey#4943833046251791740
   primaryEquipment: Character.maelstrom_strong_gunner2_defender_mb_rare_inline2
   reactionPreset: ReactionPresets.Ganger_Aggressive
   secondaryEquipment: Character.maelstrom_strong_gunner2_defender_mb_rare_inline4
@@ -24,8 +32,6 @@ Character.kidnap_boss:
     - Maelstrom
     - Big
     - Strong
-
-
 # Items.mq_kidnap_shard_1:
 #   animFeatureName: ItemData
 #   $type: gamedataItem_Record
