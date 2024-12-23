@@ -11,3 +11,4 @@ Kidnap 2.0
 15. fix boss group or whatever / set mortality immortal
 16. add computer to ambush phase
 17. add mitch dialog
+18. add video to start the quest
