@@ -27,6 +27,11 @@ mod\kidnap\localization\en-us\subtitles\subtitles_map.json
 mod\kidnap\localization\en-us\subtitles\subtitles.json
 mod\kidnap\localization\en-us\vo\sq_kidnap_johnny_sunset_search_f_013eaf5dbd492e4d.wem
 mod\kidnap\localization\en-us\vo\sq_kidnap_johnny_sunset_search_f_013eaf5dbd492e4d.wem.wem
+mod\kidnap\localization\en-us\vo\sq_kidnap_mitch_holo_mitch_phrase_1.wem
+mod\kidnap\localization\en-us\vo\sq_kidnap_mitch_holo_mitch_phrase_2.wem
+mod\kidnap\localization\en-us\vo\sq_kidnap_mitch_holo_mitch_phrase_3.wem
+mod\kidnap\localization\en-us\vo\sq_kidnap_mitch_holo_mitch_phrase_4.wem
+mod\kidnap\localization\en-us\vo\sq_kidnap_mitch_holo_mitch_phrase_5.wem
 mod\kidnap\localization\en-us\vo\sq_kidnap_mitch_holo_v_pharse_1_f_021421fb6ae7b74a.wem
 mod\kidnap\localization\en-us\vo\sq_kidnap_mitch_holo_v_pharse_2_f_0970b19ca38d8cfa.wem
 mod\kidnap\localization\en-us\vo\sq_kidnap_mitch_holo_v_pharse_3_f_17ff343365861b1b.wem
