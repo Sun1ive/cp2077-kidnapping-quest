@@ -1,0 +1,202 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.15.1-nightly.2024-12-22",
+    "WKitJsonVersion": "0.0.9",
+    "GameVersion": 2200,
+    "ExportedDateTime": "2024-12-25T12:47:42.3238898Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "G:\\work\\CPModding\\wolvenkit\\projects\\Kidnap\\source\\archive\\mod\\kidnap\\localization\\en-us\\onscreens.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceOnScreenEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Malakai Vex",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "kidnap_maelstrom_miniboss_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Side Quest: Shadows of the past",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "kidnap_onscreen_title"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Quest has been activated.\\n\\nBy Sunlive",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "kidnap_onscreen_desc"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Follow the instructions",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "initial_panam_sms_conversation_title"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Come alone. If you want to see her again",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "initial_panam_sms_conversation_message"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Where\u0027s Panam?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "mitch_sms_conversation_title"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Hey Mitch. Have you seen Panam recently?",
+              "maleVariant": "",
+              "primaryKey": "42729079285",
+              "secondaryKey": "ask mitch about panam"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "I heard she went on a meeting for a job. Sunset motel.",
+              "maleVariant": "",
+              "primaryKey": "42729079286",
+              "secondaryKey": "sunset mitch answer"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Shadows of the past",
+              "maleVariant": "",
+              "primaryKey": "42729079287",
+              "secondaryKey": "quest title"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Panam? Kidnapped by Maelstrom? Guess chromeheads finally bit off more than they can chew. Look, I\u2019m not one to play the hero, but I\u2019ll be damned if I let some meathead borgs turn her into scrap. Panam\u2019s got grit, sure, but even a badass like her\u2019s gonna need a hand when she\u2019s chained up in the basement of some psycho\u2019s butcher shop.\\nAnd let\u2019s not forget who we\u2019re dealing with here\u2014Maelstrom. They\u2019re not just punks with guns; they\u2019re half-human blender rejects with zero impulse control. Walk into their lair, and you\u2019re as good as dead unless you\u2019ve got a plan... or a big enough gun.\\n\\nStill, Panam\u2019s worth the risk. She\u2019s got more guts and loyalty in her little finger than most corpos or street kids in this city. Aldecaldos owe her big time, and you? You\u2019d be a gonk not to help. But just know, getting her back\u2019s only half the battle. The real question is, what are you willing to burn to see it through?",
+              "maleVariant": "",
+              "primaryKey": "42729079288",
+              "secondaryKey": "quest description"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Drive to the motel",
+              "maleVariant": "",
+              "primaryKey": "42729079289",
+              "secondaryKey": "drive to sunset motel phase 1 step 1"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Interrogate ganger",
+              "maleVariant": "",
+              "primaryKey": "42729079290",
+              "secondaryKey": "scan ganger near panam\u0027s car phase 1 step 2"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Scan the body",
+              "maleVariant": "",
+              "primaryKey": "42729079291",
+              "secondaryKey": "Scan the body phase 1 step 3"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Take shard",
+              "maleVariant": "",
+              "primaryKey": "42729079292",
+              "secondaryKey": "take data shard from body phase 1 step 4"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Go to meet point",
+              "maleVariant": "",
+              "primaryKey": "42729079293",
+              "secondaryKey": "go to maelstrom meet point phase 2 step 1"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Survive ambush",
+              "maleVariant": "",
+              "primaryKey": "42729079294",
+              "secondaryKey": "survive ambush phase 2 step 2"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Find additional evidence",
+              "maleVariant": "",
+              "primaryKey": "42729079295",
+              "secondaryKey": "evidence phase 2 step 3"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Talk to Johnny",
+              "maleVariant": "",
+              "primaryKey": "42729079296",
+              "secondaryKey": "johnny talk phase 2 step 4"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Call Mitch",
+              "maleVariant": "",
+              "primaryKey": "42729079297",
+              "secondaryKey": "mitch talk phase 2 step 5"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Go to meet point",
+              "maleVariant": "",
+              "primaryKey": "42729079298",
+              "secondaryKey": "mitch meet point phase 3 step 1"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Recon with a drone",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "recon_with_a_drone_phase_3_step_2"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Defeat all enemies",
+              "maleVariant": "",
+              "primaryKey": "42729079300",
+              "secondaryKey": "defeat all enemies phase 3 step 3"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Find Panam",
+              "maleVariant": "",
+              "primaryKey": "42729079301",
+              "secondaryKey": "Find Panam phase 3 step 4"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Release Panam",
+              "maleVariant": "",
+              "primaryKey": "42729079302",
+              "secondaryKey": "Find Panam phase 3 step 5"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Join Panam",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "join_panam_phase_3_step_6"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}
