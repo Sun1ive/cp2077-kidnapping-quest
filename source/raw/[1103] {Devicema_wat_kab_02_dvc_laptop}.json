@@ -1,0 +1,72 @@
+{
+  "Id": "2420429506160",
+  "NodeIndex": 1103,
+  "Position": {
+    "$type": "Vector4",
+    "W": 0,
+    "X": -782.891235,
+    "Y": 1886.67175,
+    "Z": 51.0516243
+  },
+  "Orientation": {
+    "$type": "Quaternion",
+    "i": 0,
+    "j": 0,
+    "k": -0.874619842,
+    "r": 0.484809548
+  },
+  "Scale": {
+    "$type": "Vector3",
+    "X": 1,
+    "Y": 1,
+    "Z": 1
+  },
+  "Pivot": {
+    "$type": "Vector3",
+    "X": 0,
+    "Y": 0,
+    "Z": 0
+  },
+  "Bounds": {
+    "$type": "Box",
+    "Max": {
+      "$type": "Vector4",
+      "W": 0,
+      "X": -782.891235,
+      "Y": 1886.67175,
+      "Z": 51.0516243
+    },
+    "Min": {
+      "$type": "Vector4",
+      "W": 0,
+      "X": -782.891235,
+      "Y": 1886.67175,
+      "Z": 51.0516243
+    }
+  },
+  "QuestPrefabRefHash": {
+    "$type": "NodeRef",
+    "$storage": "string",
+    "$value": "$/03_night_city/c_watson/kabuki/loc_ma_wat_kab_02_prefabNWJQNBY/loc_ma_wat_kab_02_gameplay_prefabARF6QFY/loc_ma_wat_kab_02_devices_prefab4CS3NDI/#ma_wat_kab_02_dvc_laptop"
+  },
+  "UkHash1": {
+    "$type": "NodeRef",
+    "$storage": "uint64",
+    "$value": "0"
+  },
+  "CookedPrefabData": {
+    "DepotPath": {
+      "$type": "ResourcePath",
+      "$storage": "uint64",
+      "$value": "0"
+    },
+    "Flags": "Default"
+  },
+  "MaxStreamingDistance": 3.40282347E+38,
+  "UkFloat1": 53.7016792,
+  "Uk10": 1024,
+  "Uk11": 10762,
+  "Uk12": 0,
+  "Uk13": "0",
+  "Uk14": "0"
+}

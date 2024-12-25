@@ -1,0 +1,662 @@
+{
+  "$type": "worldDeviceNode",
+  "alphaHackStreamingDistanceOverride": 0,
+  "appearanceName": {
+    "$type": "CName",
+    "$storage": "string",
+    "$value": "laptop_laptop_2"
+  },
+  "debugName": {
+    "$type": "CName",
+    "$storage": "string",
+    "$value": "{Devicema_wat_kab_02_dvc_laptop}"
+  },
+  "deviceClassName": {
+    "$type": "CName",
+    "$storage": "string",
+    "$value": "None"
+  },
+  "deviceConnections": [],
+  "entityLod": 0,
+  "entityTemplate": {
+    "DepotPath": {
+      "$type": "ResourcePath",
+      "$storage": "string",
+      "$value": "base\\gameplay\\devices\\masters\\computers\\laptop_1.ent"
+    },
+    "Flags": "Soft"
+  },
+  "instanceData": {
+    "HandleId": "0",
+    "Data": {
+      "$type": "entEntityInstanceData",
+      "buffer": {
+        "BufferId": "0",
+        "Flags": 4063232,
+        "Type": "WolvenKit.RED4.Archive.Buffer.RedPackage, WolvenKit.RED4, Version=8.15.1.0, Culture=neutral, PublicKeyToken=null",
+        "Data": {
+          "Version": 4,
+          "Sections": 6,
+          "CruidIndex": -1,
+          "CruidDict": {
+            "0": "1131680419258347532",
+            "1": "1131680419258347552",
+            "2": "1131680419258347544"
+          },
+          "Chunks": [
+            {
+              "$type": "ComputerController",
+              "id": "0",
+              "isReplicable": 0,
+              "name": {
+                "$type": "CName",
+                "$storage": "string",
+                "$value": "Component"
+              },
+              "persistentState": {
+                "HandleId": "1",
+                "Data": {
+                  "$type": "ComputerControllerPS",
+                  "actionsWithDisabledRPGChecks": [],
+                  "activationState": "NONE",
+                  "activatorActionSetup": "None",
+                  "activeContexts": [],
+                  "allowUICameraZoomDynamicSwitch": 0,
+                  "authorizationProperties": {
+                    "$type": "AuthorizationData",
+                    "alwaysExposeActions": 0,
+                    "authorizationDataEntry": {
+                      "$type": "SecurityAccessLevelEntryClient",
+                      "keycard": {
+                        "$type": "TweakDBID",
+                        "$storage": "uint64",
+                        "$value": "0"
+                      },
+                      "level": "ESL_NONE",
+                      "password": {
+                        "$type": "CName",
+                        "$storage": "string",
+                        "$value": "None"
+                      }
+                    },
+                    "isAuthorizationModuleOn": 1
+                  },
+                  "autoToggleQuestMark": 1,
+                  "availableQuickHacks": [],
+                  "availableSpiderbotActions": [],
+                  "backdoorBreachDifficulty": "EASY",
+                  "backdoorObjectiveData": null,
+                  "blackboard": null,
+                  "blockSecurityWakeUp": 0,
+                  "broadcastGlitchVideoPath": {
+                    "$type": "redResourceReferenceScriptToken",
+                    "resource": {
+                      "DepotPath": {
+                        "$type": "ResourcePath",
+                        "$storage": "uint64",
+                        "$value": "0"
+                      },
+                      "Flags": "Soft"
+                    }
+                  },
+                  "cachedDeviceState": "OFF",
+                  "callbackToDisableQuestMarkID": 0,
+                  "canBeInDeviceChain": 0,
+                  "canBeTrapped": 0,
+                  "canHandleAdvancedInteraction": 0,
+                  "canPlayerTakeOverControl": 0,
+                  "clearance": null,
+                  "computerSetup": {
+                    "$type": "ComputerSetup",
+                    "allowRemoteAuthorization": 0,
+                    "animationState": "Closed",
+                    "animationStateSetFactName": {
+                      "$type": "CName",
+                      "$storage": "string",
+                      "$value": "None"
+                    },
+                    "filesMenu": 0,
+                    "filesStructure": [],
+                    "hideTopNavigationBar": 0,
+                    "ignoreSlaveAuthorizationModule": 0,
+                    "ignoreSleepMode": 0,
+                    "internetMenu": 1,
+                    "internetSubnet": {
+                      "$type": "SInternetData",
+                      "startingPage": ""
+                    },
+                    "mailsMenu": 1,
+                    "mailsStructure": [
+                      {
+                        "$type": "gamedeviceGenericDataContent",
+                        "content": [
+                          {
+                            "$type": "gamedeviceDataElement",
+                            "content": "",
+                            "date": "",
+                            "documentName": {
+                              "$type": "CName",
+                              "$storage": "string",
+                              "$value": "email_01"
+                            },
+                            "isEnabled": 1,
+                            "isEncrypted": 0,
+                            "journalPath": {
+                              "HandleId": "2",
+                              "Data": {
+                                "$type": "gameJournalPath",
+                                "className": {
+                                  "$type": "CName",
+                                  "$storage": "string",
+                                  "$value": "gameJournalEmail"
+                                },
+                                "editorPath": "Onscreens/Emails/Quests/Minor_activities/Watson/Kabuki/Ma_wat_kab_02/Email/Ma_wat_kab_02_email_01",
+                                "fileEntryIndex": 7,
+                                "realPath": "onscreens/emails/quests/minor_activities/watson/kabuki/ma_wat_kab_02/email/ma_wat_kab_02_email_01"
+                              }
+                            },
+                            "owner": "",
+                            "questInfo": {
+                              "$type": "gamedeviceQuestInfo",
+                              "factName": {
+                                "$type": "CName",
+                                "$storage": "string",
+                                "$value": "None"
+                              },
+                              "isHighlighted": 0
+                            },
+                            "title": "",
+                            "videoPath": {
+                              "$type": "redResourceReferenceScriptToken",
+                              "resource": {
+                                "DepotPath": {
+                                  "$type": "ResourcePath",
+                                  "$storage": "uint64",
+                                  "$value": "0"
+                                },
+                                "Flags": "Soft"
+                              }
+                            },
+                            "wasRead": 0
+                          },
+                          {
+                            "$type": "gamedeviceDataElement",
+                            "content": "",
+                            "date": "",
+                            "documentName": {
+                              "$type": "CName",
+                              "$storage": "string",
+                              "$value": "email_02"
+                            },
+                            "isEnabled": 1,
+                            "isEncrypted": 0,
+                            "journalPath": {
+                              "HandleId": "3",
+                              "Data": {
+                                "$type": "gameJournalPath",
+                                "className": {
+                                  "$type": "CName",
+                                  "$storage": "string",
+                                  "$value": "gameJournalEmail"
+                                },
+                                "editorPath": "Onscreens/Emails/Quests/Minor_activities/Watson/Kabuki/Ma_wat_kab_02/Email/Ma_wat_kab_02_email_02",
+                                "fileEntryIndex": 7,
+                                "realPath": "onscreens/emails/quests/minor_activities/watson/kabuki/ma_wat_kab_02/email/ma_wat_kab_02_email_02"
+                              }
+                            },
+                            "owner": "",
+                            "questInfo": {
+                              "$type": "gamedeviceQuestInfo",
+                              "factName": {
+                                "$type": "CName",
+                                "$storage": "string",
+                                "$value": "ma_wat_kab_02_email_02_read"
+                              },
+                              "isHighlighted": 0
+                            },
+                            "title": "",
+                            "videoPath": {
+                              "$type": "redResourceReferenceScriptToken",
+                              "resource": {
+                                "DepotPath": {
+                                  "$type": "ResourcePath",
+                                  "$storage": "uint64",
+                                  "$value": "0"
+                                },
+                                "Flags": "Soft"
+                              }
+                            },
+                            "wasRead": 0
+                          },
+                          {
+                            "$type": "gamedeviceDataElement",
+                            "content": "",
+                            "date": "",
+                            "documentName": {
+                              "$type": "CName",
+                              "$storage": "string",
+                              "$value": "email_03"
+                            },
+                            "isEnabled": 1,
+                            "isEncrypted": 0,
+                            "journalPath": {
+                              "HandleId": "4",
+                              "Data": {
+                                "$type": "gameJournalPath",
+                                "className": {
+                                  "$type": "CName",
+                                  "$storage": "string",
+                                  "$value": "gameJournalEmail"
+                                },
+                                "editorPath": "Onscreens/Emails/Quests/Minor_activities/Watson/Kabuki/Ma_wat_kab_02/Email/Ma_wat_kab_02_email_03",
+                                "fileEntryIndex": 7,
+                                "realPath": "onscreens/emails/quests/minor_activities/watson/kabuki/ma_wat_kab_02/email/ma_wat_kab_02_email_03"
+                              }
+                            },
+                            "owner": "",
+                            "questInfo": {
+                              "$type": "gamedeviceQuestInfo",
+                              "factName": {
+                                "$type": "CName",
+                                "$storage": "string",
+                                "$value": "ma_wat_kab_02_email_03_read"
+                              },
+                              "isHighlighted": 0
+                            },
+                            "title": "",
+                            "videoPath": {
+                              "$type": "redResourceReferenceScriptToken",
+                              "resource": {
+                                "DepotPath": {
+                                  "$type": "ResourcePath",
+                                  "$storage": "uint64",
+                                  "$value": "0"
+                                },
+                                "Flags": "Soft"
+                              }
+                            },
+                            "wasRead": 0
+                          }
+                        ],
+                        "name": "emails"
+                      }
+                    ],
+                    "maxClearance": 10,
+                    "minClearance": 1,
+                    "newsFeed": [],
+                    "newsFeedInterval": 5,
+                    "newsFeedMenu": 1,
+                    "shouldForceVirtualSystem": 1,
+                    "startingMenu": "MAILS",
+                    "stylePreset": {
+                      "$type": "TweakDBID",
+                      "$storage": "string",
+                      "$value": "ComputerUIPresets.DefaultPreset"
+                    },
+                    "systemMenu": 0
+                  },
+                  "computerSkillChecks": null,
+                  "computerUIpreset": null,
+                  "connectionHighlightObjects": [],
+                  "contentScale": {
+                    "$type": "TweakDBID",
+                    "$storage": "uint64",
+                    "$value": "0"
+                  },
+                  "controlPanelObjectiveData": null,
+                  "currentlyAuthorizedUsers": [],
+                  "currentSpiderbotActionPerformed": null,
+                  "debugDevice": 0,
+                  "debugExposeQuickHacks": 0,
+                  "debugID": 0,
+                  "debugName": {
+                    "$type": "CName",
+                    "$storage": "string",
+                    "$value": "None"
+                  },
+                  "debugPath": {
+                    "$type": "CName",
+                    "$storage": "string",
+                    "$value": "None"
+                  },
+                  "defaultGlitchVideoPath": {
+                    "$type": "redResourceReferenceScriptToken",
+                    "resource": {
+                      "DepotPath": {
+                        "$type": "ResourcePath",
+                        "$storage": "uint64",
+                        "$value": "0"
+                      },
+                      "Flags": "Soft"
+                    }
+                  },
+                  "destructionProperties": {
+                    "$type": "DestructionData",
+                    "canBeFixed": 0,
+                    "durabilityType": "INVULNERABLE"
+                  },
+                  "deviceName": "LocKey#48",
+                  "deviceOperationsSetup": null,
+                  "deviceState": "ON",
+                  "deviceUIStyle": "LightBlue",
+                  "disablePersonalLinkAutoDisconnect": 0,
+                  "disableQuickHacks": 0,
+                  "disassembleProperties": {
+                    "$type": "DisassembleOptions",
+                    "canBeDisassembled": 0
+                  },
+                  "distractExecuted": 0,
+                  "distractionTimeCompleted": 0,
+                  "drawGridLink": 0,
+                  "durabilityState": "NOMINAL",
+                  "exposeQuickHacks": 0,
+                  "factToDisableQuestMark": {
+                    "$type": "CName",
+                    "$storage": "string",
+                    "$value": "None"
+                  },
+                  "flatheadScavengeProperties": {
+                    "$type": "SpiderbotScavengeOptions",
+                    "scavengableBySpiderbot": 0
+                  },
+                  "forcedElevatorArrowsState": "Disabled",
+                  "forceResolveStateOnAttach": 0,
+                  "forceVisibilityInAnimSystemOnLogicReady": 0,
+                  "fullDepth": 1,
+                  "hackingMinigameState": "Unknown",
+                  "hasAuthorizationModule": 1,
+                  "hasBeenScavenged": 0,
+                  "hasFullScreenUI": 0,
+                  "hasNetworkBackdoor": 0,
+                  "hasNPCWorkspotKillInteraction": 0,
+                  "hasPersonalLinkSlot": 0,
+                  "hasUICameraZoom": 1,
+                  "illegalActions": {
+                    "$type": "IllegalActionTypes",
+                    "quickHacks": 0,
+                    "regularActions": 0,
+                    "skillChecks": 1
+                  },
+                  "isAdvancedInteractionModeOn": 0,
+                  "isAttachedToGame": 0,
+                  "isBeingScanned": 0,
+                  "isControlledByThePlayer": 0,
+                  "isGlitching": 0,
+                  "isHighlightedInFocusMode": 0,
+                  "isInitialized": 0,
+                  "isInitialStateOperationPerformed": 0,
+                  "isInSleepMode": 1,
+                  "isInteractive": 1,
+                  "isKeyloggerInstalled": 0,
+                  "isLinkDynamic": 0,
+                  "isLockedViaSequencer": 0,
+                  "isLogicReady": 0,
+                  "isRestarting": 0,
+                  "isScanned": 0,
+                  "isSpiderbotInteractionOrdered": 0,
+                  "isTimedTurnOff": 0,
+                  "isUnderEMPEffect": 0,
+                  "juryrigTrapState": "UNARMED",
+                  "lastPerformedQuickHack": {
+                    "$type": "CName",
+                    "$storage": "string",
+                    "$value": "None"
+                  },
+                  "markAsQuest": 1,
+                  "masters": [],
+                  "mastersCached": 0,
+                  "maxDevicesToExtractInOneFrame": 10,
+                  "minigameAttempt": 1,
+                  "minigameDefinition": {
+                    "$type": "TweakDBID",
+                    "$storage": "uint64",
+                    "$value": "0"
+                  },
+                  "openedFileAdress": {
+                    "$type": "SDocumentAdress",
+                    "documentID": -1,
+                    "folderID": -1
+                  },
+                  "openedMailAdress": {
+                    "$type": "SDocumentAdress",
+                    "documentID": -1,
+                    "folderID": -1
+                  },
+                  "performedActions": [],
+                  "personalLinkCustomInteraction": {
+                    "$type": "TweakDBID",
+                    "$storage": "uint64",
+                    "$value": "0"
+                  },
+                  "personalLinkForced": 0,
+                  "personalLinkStatus": "NOT_CONNECTED",
+                  "playstyles": [],
+                  "quickhackPerformed": 0,
+                  "quickHackSetup": {
+                    "$type": "ComputerQuickHackData",
+                    "alternativeName": {
+                      "$type": "TweakDBID",
+                      "$storage": "uint64",
+                      "$value": "0"
+                    },
+                    "factName": {
+                      "$type": "CName",
+                      "$storage": "string",
+                      "$value": "None"
+                    },
+                    "factValue": 0,
+                    "operationType": "Add"
+                  },
+                  "quickHackVulnerabilties": [],
+                  "quickHackVulnerabiltiesInitialized": 0,
+                  "revealDevicesGrid": 1,
+                  "revealDevicesGridWhenUnpowered": 0,
+                  "shouldNPCWorkspotFinishLoop": 0,
+                  "shouldScannerShowAttitude": 0,
+                  "shouldScannerShowHealth": 0,
+                  "shouldScannerShowNetwork": 1,
+                  "shouldScannerShowRole": 0,
+                  "shouldScannerShowStatus": 1,
+                  "shouldShowTerminalTitle": 0,
+                  "shouldSkipNetrunnerMinigame": 0,
+                  "skillCheckContainer": null,
+                  "spawnedSystems": [],
+                  "state": "Idle",
+                  "terminalSetup": {
+                    "$type": "TerminalSetup",
+                    "allowRemoteAuthorization": 0,
+                    "ignoreSlaveAuthorizationModule": 0,
+                    "maxClearance": 10,
+                    "minClearance": 1,
+                    "shouldForceVirtualSystem": 1
+                  },
+                  "terminalSkillChecks": {
+                    "HandleId": "5",
+                    "Data": {
+                      "$type": "HackEngContainer",
+                      "demolitionCheckSlot": null,
+                      "engineeringCheck": null,
+                      "engineeringCheckSlot": null,
+                      "hackingCheck": null,
+                      "hackingCheckSlot": null,
+                      "isInitialized": 0
+                    }
+                  },
+                  "tweakDBDescriptionRecord": {
+                    "$type": "TweakDBID",
+                    "$storage": "uint64",
+                    "$value": "122573441327"
+                  },
+                  "tweakDBRecord": {
+                    "$type": "TweakDBID",
+                    "$storage": "string",
+                    "$value": "Devices.Computer"
+                  },
+                  "useKeyloggerHack": 0,
+                  "virtualNetworkShapeID": {
+                    "$type": "TweakDBID",
+                    "$storage": "uint64",
+                    "$value": "0"
+                  },
+                  "wasQuickHackAttempt": 0,
+                  "wasQuickHacked": 0,
+                  "wasRevealedInNetworkPing": 0,
+                  "wasStateCached": 0,
+                  "wasStateSet": 0,
+                  "willingInvestigators": []
+                }
+              }
+            },
+            {
+              "$type": "gameScanningComponent",
+              "autoGenerateBoundingSphere": 1,
+              "boundingSphere": {
+                "$type": "Sphere",
+                "CenterRadius2": {
+                  "$type": "Vector4",
+                  "W": -1,
+                  "X": 0,
+                  "Y": 0,
+                  "Z": 0
+                }
+              },
+              "BraindanceLayer": "Default",
+              "clues": [
+                {
+                  "$type": "FocusClueDefinition",
+                  "clueGroupID": {
+                    "$type": "CName",
+                    "$storage": "string",
+                    "$value": "None"
+                  },
+                  "clueRecord": {
+                    "$type": "TweakDBID",
+                    "$storage": "uint64",
+                    "$value": "0"
+                  },
+                  "conclusionQuestState": "Undefined",
+                  "extendedClueRecords": [],
+                  "facts": [],
+                  "factToActivate": {
+                    "$type": "CName",
+                    "$storage": "string",
+                    "$value": "None"
+                  },
+                  "isEnabled": 0,
+                  "isProgressing": 1,
+                  "qDbCallbackID": 0,
+                  "useAutoInspect": 0,
+                  "wasInspected": 0
+                }
+              ],
+              "cpoEnableMultiplePlayersScanningModifier": 1,
+              "currentBraindanceLayer": 0,
+              "currentHighlight": null,
+              "id": "0",
+              "ignoresScanningDistanceLimit": 0,
+              "isBeingScanned": 0,
+              "isBraindanceActive": 0,
+              "isBraindanceBlocked": 0,
+              "isBraindanceClue": 0,
+              "isBraindanceLayerUnlocked": 0,
+              "isBraindanceTimelineUnlocked": 0,
+              "isEntityVisible": 1,
+              "isFocusModeActive": 0,
+              "isHudManagerInitialized": 0,
+              "isReplicable": 0,
+              "isScanningCluesBlocked": 0,
+              "name": {
+                "$type": "CName",
+                "$storage": "string",
+                "$value": "scanning"
+              },
+              "objectDescription": null,
+              "OnBraindanceFppChangeCallback": null,
+              "OnBraindanceVisionModeChangeCallback": null,
+              "persistentState": {
+                "HandleId": "6",
+                "Data": {
+                  "$type": "gameScanningComponentPS",
+                  "isBlocked": 0,
+                  "isDecriptionEnabled": 1,
+                  "isScanningDisabled": 0,
+                  "objectDescriptionOverride": null,
+                  "pctScanned": 0,
+                  "scanningState": "Default",
+                  "storedClues": []
+                }
+              },
+              "scannableData": [],
+              "scanningBarText": {
+                "$type": "TweakDBID",
+                "$storage": "uint64",
+                "$value": "0"
+              },
+              "timeNeeded": 0
+            },
+            {
+              "$type": "gameinteractionsComponent",
+              "definitionResource": {
+                "DepotPath": {
+                  "$type": "ResourcePath",
+                  "$storage": "uint64",
+                  "$value": "0"
+                },
+                "Flags": "Default"
+              },
+              "id": "0",
+              "interactionRootOffset": {
+                "$type": "Vector3",
+                "X": 0,
+                "Y": 0,
+                "Z": 1.10000002
+              },
+              "isEnabled": 1,
+              "isReplicable": 0,
+              "layerOverrides": [],
+              "layerOverridesTemp": [],
+              "localTransform": {
+                "$type": "WorldTransform",
+                "Orientation": {
+                  "$type": "Quaternion",
+                  "i": 0,
+                  "j": 0,
+                  "k": 0,
+                  "r": 1
+                },
+                "Position": {
+                  "$type": "WorldPosition",
+                  "x": {
+                    "$type": "FixedPoint",
+                    "Bits": 0
+                  },
+                  "y": {
+                    "$type": "FixedPoint",
+                    "Bits": 0
+                  },
+                  "z": {
+                    "$type": "FixedPoint",
+                    "Bits": 0
+                  }
+                }
+              },
+              "name": {
+                "$type": "CName",
+                "$storage": "string",
+                "$value": "Component"
+              },
+              "parentTransform": null
+            }
+          ]
+        }
+      }
+    }
+  },
+  "ioPriority": "Immediate",
+  "isHostOnly": 0,
+  "isVisibleInGame": 1,
+  "proxyScale": null,
+  "sourcePrefabHash": "2442272698481871977",
+  "tag": "None",
+  "tagExt": "None"
+}
