@@ -635,6 +635,7 @@ mod\journal\dbg.journal
 mod\journal\gone_in_60.journal
 mod\journal\kidnap.journal
 mod\journal\sq_high_stakes.journal
+mod\kidnap\assets\kidnap_textures.inkatlas
 mod\kidnap\assets\ktexture.inkatlas
 mod\kidnap\assets\panam_captured_resized.xbm
 mod\kidnap\assets\preview.bk2
@@ -645,6 +646,7 @@ mod\kidnap\localization\en-us\lipsync.lipmap
 mod\kidnap\localization\en-us\lipsync\johnny.anims
 mod\kidnap\localization\en-us\lipsync\mitch.anims
 mod\kidnap\localization\en-us\lipsync\panam.anims
+mod\kidnap\localization\en-us\onscreens_old.json
 mod\kidnap\localization\en-us\onscreens.json
 mod\kidnap\localization\en-us\subtitles\subtitles_map.json
 mod\kidnap\localization\en-us\subtitles\subtitles.json
@@ -675,6 +677,8 @@ mod\kidnap\world\all.streamingblock
 mod\kidnap\world\sectors\kidnap_always_loaded.streamingsector
 mod\kidnap\world\sectors\kidnap_lights.streamingsector
 mod\kidnap\world\sectors\kidnap_quest_prefab.streamingsector
+mod\kidnap\world\sectors\merged.streamingsector
+mod\kidnap\world\sectors\test.streamingsector
 mod\localization\anims\panam.anims
 mod\localization\en-us\aldecaldos_onscreen.json
 mod\localization\en-us\aldecaldos_voiceovermap.json

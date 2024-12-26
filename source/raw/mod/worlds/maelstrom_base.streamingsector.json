@@ -1,0 +1,1826 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.15.1-nightly.2024-12-22",
+    "WKitJsonVersion": "0.0.9",
+    "GameVersion": 2200,
+    "ExportedDateTime": "2024-12-26T13:39:57.2431281Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "G:\\work\\CPModding\\wolvenkit\\projects\\Kidnap\\source\\archive\\mod\\worlds\\maelstrom_base.streamingsector"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "worldStreamingSector",
+      "category": "Quest",
+      "cookingPlatform": "PLATFORM_None",
+      "externInplaceResource": {
+        "DepotPath": {
+          "$type": "ResourcePath",
+          "$storage": "uint64",
+          "$value": "0"
+        },
+        "Flags": "Soft"
+      },
+      "level": 1,
+      "localInplaceResource": [],
+      "nodeData": {
+        "BufferId": "0",
+        "Flags": 0,
+        "Type": "WolvenKit.RED4.Archive.Buffer.worldNodeDataBuffer, WolvenKit.RED4, Version=8.15.1.0, Culture=neutral, PublicKeyToken=null",
+        "Data": [
+          {
+            "Id": "0",
+            "NodeIndex": 0,
+            "Position": {
+              "$type": "Vector4",
+              "W": 0,
+              "X": -1558.96289,
+              "Y": 2994.84766,
+              "Z": 13.2995987
+            },
+            "Orientation": {
+              "$type": "Quaternion",
+              "i": 0,
+              "j": 0,
+              "k": -0.770040452,
+              "r": 0.637995183
+            },
+            "Scale": {
+              "$type": "Vector3",
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            },
+            "Pivot": {
+              "$type": "Vector3",
+              "X": -1558.96289,
+              "Y": 2994.84766,
+              "Z": 13.2995987
+            },
+            "Bounds": {
+              "$type": "Box",
+              "Max": {
+                "$type": "Vector4",
+                "W": 0,
+                "X": -1558.96289,
+                "Y": 2994.84766,
+                "Z": 13.2995987
+              },
+              "Min": {
+                "$type": "Vector4",
+                "W": 0,
+                "X": -1558.96289,
+                "Y": 2994.84766,
+                "Z": 13.2995987
+              }
+            },
+            "QuestPrefabRefHash": {
+              "$type": "NodeRef",
+              "$storage": "string",
+              "$value": "$/03_night_city/sunlive/#kidnap/#maelstrom_base_1"
+            },
+            "UkHash1": {
+              "$type": "NodeRef",
+              "$storage": "uint64",
+              "$value": "0"
+            },
+            "CookedPrefabData": {
+              "DepotPath": {
+                "$type": "ResourcePath",
+                "$storage": "uint64",
+                "$value": "0"
+              },
+              "Flags": "Default"
+            },
+            "MaxStreamingDistance": 20000,
+            "UkFloat1": 20000,
+            "Uk10": 1024,
+            "Uk11": 1024,
+            "Uk12": 0,
+            "Uk13": "0",
+            "Uk14": "0"
+          },
+          {
+            "Id": "0",
+            "NodeIndex": 1,
+            "Position": {
+              "$type": "Vector4",
+              "W": 0,
+              "X": -1552.6333,
+              "Y": 3004.42871,
+              "Z": 17.286171
+            },
+            "Orientation": {
+              "$type": "Quaternion",
+              "i": 0,
+              "j": 0,
+              "k": -0.958857358,
+              "r": 0.283888608
+            },
+            "Scale": {
+              "$type": "Vector3",
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            },
+            "Pivot": {
+              "$type": "Vector3",
+              "X": -1552.6333,
+              "Y": 3004.42871,
+              "Z": 17.286171
+            },
+            "Bounds": {
+              "$type": "Box",
+              "Max": {
+                "$type": "Vector4",
+                "W": 0,
+                "X": -1552.6333,
+                "Y": 3004.42871,
+                "Z": 17.286171
+              },
+              "Min": {
+                "$type": "Vector4",
+                "W": 0,
+                "X": -1552.6333,
+                "Y": 3004.42871,
+                "Z": 17.286171
+              }
+            },
+            "QuestPrefabRefHash": {
+              "$type": "NodeRef",
+              "$storage": "string",
+              "$value": "$/03_night_city/sunlive/#kidnap/#maelstrom_base_2"
+            },
+            "UkHash1": {
+              "$type": "NodeRef",
+              "$storage": "uint64",
+              "$value": "0"
+            },
+            "CookedPrefabData": {
+              "DepotPath": {
+                "$type": "ResourcePath",
+                "$storage": "uint64",
+                "$value": "0"
+              },
+              "Flags": "Default"
+            },
+            "MaxStreamingDistance": 20000,
+            "UkFloat1": 20000,
+            "Uk10": 1024,
+            "Uk11": 1024,
+            "Uk12": 0,
+            "Uk13": "0",
+            "Uk14": "0"
+          },
+          {
+            "Id": "0",
+            "NodeIndex": 2,
+            "Position": {
+              "$type": "Vector4",
+              "W": 0,
+              "X": -1544.18481,
+              "Y": 3004.94482,
+              "Z": 17.1900101
+            },
+            "Orientation": {
+              "$type": "Quaternion",
+              "i": 0,
+              "j": 0,
+              "k": -0.999015749,
+              "r": 0.0443585962
+            },
+            "Scale": {
+              "$type": "Vector3",
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            },
+            "Pivot": {
+              "$type": "Vector3",
+              "X": -1544.18481,
+              "Y": 3004.94482,
+              "Z": 17.1900101
+            },
+            "Bounds": {
+              "$type": "Box",
+              "Max": {
+                "$type": "Vector4",
+                "W": 0,
+                "X": -1544.18481,
+                "Y": 3004.94482,
+                "Z": 17.1900101
+              },
+              "Min": {
+                "$type": "Vector4",
+                "W": 0,
+                "X": -1544.18481,
+                "Y": 3004.94482,
+                "Z": 17.1900101
+              }
+            },
+            "QuestPrefabRefHash": {
+              "$type": "NodeRef",
+              "$storage": "string",
+              "$value": "$/03_night_city/sunlive/#kidnap/#maelstrom_base_3"
+            },
+            "UkHash1": {
+              "$type": "NodeRef",
+              "$storage": "uint64",
+              "$value": "0"
+            },
+            "CookedPrefabData": {
+              "DepotPath": {
+                "$type": "ResourcePath",
+                "$storage": "uint64",
+                "$value": "0"
+              },
+              "Flags": "Default"
+            },
+            "MaxStreamingDistance": 20000,
+            "UkFloat1": 20000,
+            "Uk10": 1024,
+            "Uk11": 1024,
+            "Uk12": 0,
+            "Uk13": "0",
+            "Uk14": "0"
+          },
+          {
+            "Id": "0",
+            "NodeIndex": 3,
+            "Position": {
+              "$type": "Vector4",
+              "W": 0,
+              "X": -1566.80505,
+              "Y": 3006.5603,
+              "Z": 7.23500061
+            },
+            "Orientation": {
+              "$type": "Quaternion",
+              "i": 0,
+              "j": 0,
+              "k": -0.953098357,
+              "r": 0.302660942
+            },
+            "Scale": {
+              "$type": "Vector3",
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            },
+            "Pivot": {
+              "$type": "Vector3",
+              "X": -1566.80505,
+              "Y": 3006.5603,
+              "Z": 7.23500061
+            },
+            "Bounds": {
+              "$type": "Box",
+              "Max": {
+                "$type": "Vector4",
+                "W": 0,
+                "X": -1566.80505,
+                "Y": 3006.5603,
+                "Z": 7.23500061
+              },
+              "Min": {
+                "$type": "Vector4",
+                "W": 0,
+                "X": -1566.80505,
+                "Y": 3006.5603,
+                "Z": 7.23500061
+              }
+            },
+            "QuestPrefabRefHash": {
+              "$type": "NodeRef",
+              "$storage": "string",
+              "$value": "$/03_night_city/sunlive/#kidnap/#maelstrom_base_4"
+            },
+            "UkHash1": {
+              "$type": "NodeRef",
+              "$storage": "uint64",
+              "$value": "0"
+            },
+            "CookedPrefabData": {
+              "DepotPath": {
+                "$type": "ResourcePath",
+                "$storage": "uint64",
+                "$value": "0"
+              },
+              "Flags": "Default"
+            },
+            "MaxStreamingDistance": 20000,
+            "UkFloat1": 20000,
+            "Uk10": 1024,
+            "Uk11": 1024,
+            "Uk12": 0,
+            "Uk13": "0",
+            "Uk14": "0"
+          },
+          {
+            "Id": "0",
+            "NodeIndex": 4,
+            "Position": {
+              "$type": "Vector4",
+              "W": 0,
+              "X": -1568.63379,
+              "Y": 3005.14795,
+              "Z": 7.36738586
+            },
+            "Orientation": {
+              "$type": "Quaternion",
+              "i": 0,
+              "j": 0,
+              "k": -0.808324516,
+              "r": 0.588737309
+            },
+            "Scale": {
+              "$type": "Vector3",
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            },
+            "Pivot": {
+              "$type": "Vector3",
+              "X": -1568.63379,
+              "Y": 3005.14795,
+              "Z": 7.36738586
+            },
+            "Bounds": {
+              "$type": "Box",
+              "Max": {
+                "$type": "Vector4",
+                "W": 0,
+                "X": -1568.63379,
+                "Y": 3005.14795,
+                "Z": 7.36738586
+              },
+              "Min": {
+                "$type": "Vector4",
+                "W": 0,
+                "X": -1568.63379,
+                "Y": 3005.14795,
+                "Z": 7.36738586
+              }
+            },
+            "QuestPrefabRefHash": {
+              "$type": "NodeRef",
+              "$storage": "string",
+              "$value": "$/03_night_city/sunlive/#kidnap/#maelstrom_base_5"
+            },
+            "UkHash1": {
+              "$type": "NodeRef",
+              "$storage": "uint64",
+              "$value": "0"
+            },
+            "CookedPrefabData": {
+              "DepotPath": {
+                "$type": "ResourcePath",
+                "$storage": "uint64",
+                "$value": "0"
+              },
+              "Flags": "Default"
+            },
+            "MaxStreamingDistance": 20000,
+            "UkFloat1": 20000,
+            "Uk10": 1024,
+            "Uk11": 1024,
+            "Uk12": 0,
+            "Uk13": "0",
+            "Uk14": "0"
+          },
+          {
+            "Id": "0",
+            "NodeIndex": 5,
+            "Position": {
+              "$type": "Vector4",
+              "W": 0,
+              "X": -1566.79504,
+              "Y": 3009.88525,
+              "Z": 7.23500061
+            },
+            "Orientation": {
+              "$type": "Quaternion",
+              "i": 0,
+              "j": 0,
+              "k": -0.904511392,
+              "r": 0.426449627
+            },
+            "Scale": {
+              "$type": "Vector3",
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            },
+            "Pivot": {
+              "$type": "Vector3",
+              "X": -1566.79504,
+              "Y": 3009.88525,
+              "Z": 7.23500061
+            },
+            "Bounds": {
+              "$type": "Box",
+              "Max": {
+                "$type": "Vector4",
+                "W": 0,
+                "X": -1566.79504,
+                "Y": 3009.88525,
+                "Z": 7.23500061
+              },
+              "Min": {
+                "$type": "Vector4",
+                "W": 0,
+                "X": -1566.79504,
+                "Y": 3009.88525,
+                "Z": 7.23500061
+              }
+            },
+            "QuestPrefabRefHash": {
+              "$type": "NodeRef",
+              "$storage": "string",
+              "$value": "$/03_night_city/sunlive/#kidnap/#maelstrom_base_6"
+            },
+            "UkHash1": {
+              "$type": "NodeRef",
+              "$storage": "uint64",
+              "$value": "0"
+            },
+            "CookedPrefabData": {
+              "DepotPath": {
+                "$type": "ResourcePath",
+                "$storage": "uint64",
+                "$value": "0"
+              },
+              "Flags": "Default"
+            },
+            "MaxStreamingDistance": 20000,
+            "UkFloat1": 20000,
+            "Uk10": 1024,
+            "Uk11": 1024,
+            "Uk12": 0,
+            "Uk13": "0",
+            "Uk14": "0"
+          },
+          {
+            "Id": "0",
+            "NodeIndex": 6,
+            "Position": {
+              "$type": "Vector4",
+              "W": 0,
+              "X": -1586.07739,
+              "Y": 3024.32642,
+              "Z": 14.2711716
+            },
+            "Orientation": {
+              "$type": "Quaternion",
+              "i": 0,
+              "j": 0,
+              "k": -0.989418685,
+              "r": 0.145088777
+            },
+            "Scale": {
+              "$type": "Vector3",
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            },
+            "Pivot": {
+              "$type": "Vector3",
+              "X": -1586.07739,
+              "Y": 3024.32642,
+              "Z": 14.2711716
+            },
+            "Bounds": {
+              "$type": "Box",
+              "Max": {
+                "$type": "Vector4",
+                "W": 0,
+                "X": -1586.07739,
+                "Y": 3024.32642,
+                "Z": 14.2711716
+              },
+              "Min": {
+                "$type": "Vector4",
+                "W": 0,
+                "X": -1586.07739,
+                "Y": 3024.32642,
+                "Z": 14.2711716
+              }
+            },
+            "QuestPrefabRefHash": {
+              "$type": "NodeRef",
+              "$storage": "string",
+              "$value": "$/03_night_city/sunlive/#kidnap/#maelstrom_base_7"
+            },
+            "UkHash1": {
+              "$type": "NodeRef",
+              "$storage": "uint64",
+              "$value": "0"
+            },
+            "CookedPrefabData": {
+              "DepotPath": {
+                "$type": "ResourcePath",
+                "$storage": "uint64",
+                "$value": "0"
+              },
+              "Flags": "Default"
+            },
+            "MaxStreamingDistance": 20000,
+            "UkFloat1": 20000,
+            "Uk10": 1024,
+            "Uk11": 1024,
+            "Uk12": 0,
+            "Uk13": "0",
+            "Uk14": "0"
+          },
+          {
+            "Id": "0",
+            "NodeIndex": 7,
+            "Position": {
+              "$type": "Vector4",
+              "W": 0,
+              "X": -1580.14526,
+              "Y": 3026.35889,
+              "Z": 14.2711716
+            },
+            "Orientation": {
+              "$type": "Quaternion",
+              "i": 0,
+              "j": 0,
+              "k": -0.974693358,
+              "r": 0.223546103
+            },
+            "Scale": {
+              "$type": "Vector3",
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            },
+            "Pivot": {
+              "$type": "Vector3",
+              "X": -1580.14526,
+              "Y": 3026.35889,
+              "Z": 14.2711716
+            },
+            "Bounds": {
+              "$type": "Box",
+              "Max": {
+                "$type": "Vector4",
+                "W": 0,
+                "X": -1580.14526,
+                "Y": 3026.35889,
+                "Z": 14.2711716
+              },
+              "Min": {
+                "$type": "Vector4",
+                "W": 0,
+                "X": -1580.14526,
+                "Y": 3026.35889,
+                "Z": 14.2711716
+              }
+            },
+            "QuestPrefabRefHash": {
+              "$type": "NodeRef",
+              "$storage": "string",
+              "$value": "$/03_night_city/sunlive/#kidnap/#maelstrom_base_8"
+            },
+            "UkHash1": {
+              "$type": "NodeRef",
+              "$storage": "uint64",
+              "$value": "0"
+            },
+            "CookedPrefabData": {
+              "DepotPath": {
+                "$type": "ResourcePath",
+                "$storage": "uint64",
+                "$value": "0"
+              },
+              "Flags": "Default"
+            },
+            "MaxStreamingDistance": 20000,
+            "UkFloat1": 20000,
+            "Uk10": 1024,
+            "Uk11": 1024,
+            "Uk12": 0,
+            "Uk13": "0",
+            "Uk14": "0"
+          },
+          {
+            "Id": "0",
+            "NodeIndex": 8,
+            "Position": {
+              "$type": "Vector4",
+              "W": 0,
+              "X": -1578.01343,
+              "Y": 3029.29248,
+              "Z": 14.2711716
+            },
+            "Orientation": {
+              "$type": "Quaternion",
+              "i": 0,
+              "j": 0,
+              "k": -0.858804524,
+              "r": 0.512303531
+            },
+            "Scale": {
+              "$type": "Vector3",
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            },
+            "Pivot": {
+              "$type": "Vector3",
+              "X": -1578.01343,
+              "Y": 3029.29248,
+              "Z": 14.2711716
+            },
+            "Bounds": {
+              "$type": "Box",
+              "Max": {
+                "$type": "Vector4",
+                "W": 0,
+                "X": -1578.01343,
+                "Y": 3029.29248,
+                "Z": 14.2711716
+              },
+              "Min": {
+                "$type": "Vector4",
+                "W": 0,
+                "X": -1578.01343,
+                "Y": 3029.29248,
+                "Z": 14.2711716
+              }
+            },
+            "QuestPrefabRefHash": {
+              "$type": "NodeRef",
+              "$storage": "string",
+              "$value": "$/03_night_city/sunlive/#kidnap/#maelstrom_base_9"
+            },
+            "UkHash1": {
+              "$type": "NodeRef",
+              "$storage": "uint64",
+              "$value": "0"
+            },
+            "CookedPrefabData": {
+              "DepotPath": {
+                "$type": "ResourcePath",
+                "$storage": "uint64",
+                "$value": "0"
+              },
+              "Flags": "Default"
+            },
+            "MaxStreamingDistance": 20000,
+            "UkFloat1": 20000,
+            "Uk10": 1024,
+            "Uk11": 1024,
+            "Uk12": 0,
+            "Uk13": "0",
+            "Uk14": "0"
+          },
+          {
+            "Id": "0",
+            "NodeIndex": 9,
+            "Position": {
+              "$type": "Vector4",
+              "W": 0,
+              "X": -1588.53381,
+              "Y": 3060.30957,
+              "Z": 10.337883
+            },
+            "Orientation": {
+              "$type": "Quaternion",
+              "i": 0,
+              "j": 0,
+              "k": -0.237391204,
+              "r": 0.971414208
+            },
+            "Scale": {
+              "$type": "Vector3",
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            },
+            "Pivot": {
+              "$type": "Vector3",
+              "X": -1588.53381,
+              "Y": 3060.30957,
+              "Z": 10.337883
+            },
+            "Bounds": {
+              "$type": "Box",
+              "Max": {
+                "$type": "Vector4",
+                "W": 0,
+                "X": -1588.53381,
+                "Y": 3060.30957,
+                "Z": 10.337883
+              },
+              "Min": {
+                "$type": "Vector4",
+                "W": 0,
+                "X": -1588.53381,
+                "Y": 3060.30957,
+                "Z": 10.337883
+              }
+            },
+            "QuestPrefabRefHash": {
+              "$type": "NodeRef",
+              "$storage": "string",
+              "$value": "$/03_night_city/sunlive/#kidnap/#maelstrom_base_10"
+            },
+            "UkHash1": {
+              "$type": "NodeRef",
+              "$storage": "uint64",
+              "$value": "0"
+            },
+            "CookedPrefabData": {
+              "DepotPath": {
+                "$type": "ResourcePath",
+                "$storage": "uint64",
+                "$value": "0"
+              },
+              "Flags": "Default"
+            },
+            "MaxStreamingDistance": 20000,
+            "UkFloat1": 20000,
+            "Uk10": 1024,
+            "Uk11": 1024,
+            "Uk12": 0,
+            "Uk13": "0",
+            "Uk14": "0"
+          },
+          {
+            "Id": "0",
+            "NodeIndex": 10,
+            "Position": {
+              "$type": "Vector4",
+              "W": 0,
+              "X": -1591.30933,
+              "Y": 3062.10132,
+              "Z": 8.23500061
+            },
+            "Orientation": {
+              "$type": "Quaternion",
+              "i": 0,
+              "j": 0,
+              "k": -0.0267456509,
+              "r": 0.999642372
+            },
+            "Scale": {
+              "$type": "Vector3",
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            },
+            "Pivot": {
+              "$type": "Vector3",
+              "X": -1591.30933,
+              "Y": 3062.10132,
+              "Z": 8.23500061
+            },
+            "Bounds": {
+              "$type": "Box",
+              "Max": {
+                "$type": "Vector4",
+                "W": 0,
+                "X": -1591.30933,
+                "Y": 3062.10132,
+                "Z": 8.23500061
+              },
+              "Min": {
+                "$type": "Vector4",
+                "W": 0,
+                "X": -1591.30933,
+                "Y": 3062.10132,
+                "Z": 8.23500061
+              }
+            },
+            "QuestPrefabRefHash": {
+              "$type": "NodeRef",
+              "$storage": "string",
+              "$value": "$/03_night_city/sunlive/#kidnap/#maelstrom_base_11"
+            },
+            "UkHash1": {
+              "$type": "NodeRef",
+              "$storage": "uint64",
+              "$value": "0"
+            },
+            "CookedPrefabData": {
+              "DepotPath": {
+                "$type": "ResourcePath",
+                "$storage": "uint64",
+                "$value": "0"
+              },
+              "Flags": "Default"
+            },
+            "MaxStreamingDistance": 20000,
+            "UkFloat1": 20000,
+            "Uk10": 1024,
+            "Uk11": 1024,
+            "Uk12": 0,
+            "Uk13": "0",
+            "Uk14": "0"
+          },
+          {
+            "Id": "0",
+            "NodeIndex": 11,
+            "Position": {
+              "$type": "Vector4",
+              "W": 0,
+              "X": -1590.36499,
+              "Y": 3061.55518,
+              "Z": 8.23500824
+            },
+            "Orientation": {
+              "$type": "Quaternion",
+              "i": 0,
+              "j": 0,
+              "k": -0.422342867,
+              "r": 0.906436265
+            },
+            "Scale": {
+              "$type": "Vector3",
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            },
+            "Pivot": {
+              "$type": "Vector3",
+              "X": -1590.36499,
+              "Y": 3061.55518,
+              "Z": 8.23500824
+            },
+            "Bounds": {
+              "$type": "Box",
+              "Max": {
+                "$type": "Vector4",
+                "W": 0,
+                "X": -1590.36499,
+                "Y": 3061.55518,
+                "Z": 8.23500824
+              },
+              "Min": {
+                "$type": "Vector4",
+                "W": 0,
+                "X": -1590.36499,
+                "Y": 3061.55518,
+                "Z": 8.23500824
+              }
+            },
+            "QuestPrefabRefHash": {
+              "$type": "NodeRef",
+              "$storage": "string",
+              "$value": "$/03_night_city/sunlive/#kidnap/#maelstrom_base_12"
+            },
+            "UkHash1": {
+              "$type": "NodeRef",
+              "$storage": "uint64",
+              "$value": "0"
+            },
+            "CookedPrefabData": {
+              "DepotPath": {
+                "$type": "ResourcePath",
+                "$storage": "uint64",
+                "$value": "0"
+              },
+              "Flags": "Default"
+            },
+            "MaxStreamingDistance": 20000,
+            "UkFloat1": 20000,
+            "Uk10": 1024,
+            "Uk11": 1024,
+            "Uk12": 0,
+            "Uk13": "0",
+            "Uk14": "0"
+          },
+          {
+            "Id": "0",
+            "NodeIndex": 12,
+            "Position": {
+              "$type": "Vector4",
+              "W": 0,
+              "X": -1594.97778,
+              "Y": 3043.37573,
+              "Z": 17.1600037
+            },
+            "Orientation": {
+              "$type": "Quaternion",
+              "i": 0,
+              "j": 0,
+              "k": -0.110299855,
+              "r": 0.993898332
+            },
+            "Scale": {
+              "$type": "Vector3",
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            },
+            "Pivot": {
+              "$type": "Vector3",
+              "X": -1594.97778,
+              "Y": 3043.37573,
+              "Z": 17.1600037
+            },
+            "Bounds": {
+              "$type": "Box",
+              "Max": {
+                "$type": "Vector4",
+                "W": 0,
+                "X": -1594.97778,
+                "Y": 3043.37573,
+                "Z": 17.1600037
+              },
+              "Min": {
+                "$type": "Vector4",
+                "W": 0,
+                "X": -1594.97778,
+                "Y": 3043.37573,
+                "Z": 17.1600037
+              }
+            },
+            "QuestPrefabRefHash": {
+              "$type": "NodeRef",
+              "$storage": "string",
+              "$value": "$/03_night_city/sunlive/#kidnap/#maelstrom_base_13"
+            },
+            "UkHash1": {
+              "$type": "NodeRef",
+              "$storage": "uint64",
+              "$value": "0"
+            },
+            "CookedPrefabData": {
+              "DepotPath": {
+                "$type": "ResourcePath",
+                "$storage": "uint64",
+                "$value": "0"
+              },
+              "Flags": "Default"
+            },
+            "MaxStreamingDistance": 20000,
+            "UkFloat1": 20000,
+            "Uk10": 1024,
+            "Uk11": 1024,
+            "Uk12": 0,
+            "Uk13": "0",
+            "Uk14": "0"
+          },
+          {
+            "Id": "0",
+            "NodeIndex": 13,
+            "Position": {
+              "$type": "Vector4",
+              "W": 0,
+              "X": -1597.19214,
+              "Y": 3037.4126,
+              "Z": 17.1600037
+            },
+            "Orientation": {
+              "$type": "Quaternion",
+              "i": 0,
+              "j": 0,
+              "k": 0.969198287,
+              "r": 0.24628219
+            },
+            "Scale": {
+              "$type": "Vector3",
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            },
+            "Pivot": {
+              "$type": "Vector3",
+              "X": -1597.19214,
+              "Y": 3037.4126,
+              "Z": 17.1600037
+            },
+            "Bounds": {
+              "$type": "Box",
+              "Max": {
+                "$type": "Vector4",
+                "W": 0,
+                "X": -1597.19214,
+                "Y": 3037.4126,
+                "Z": 17.1600037
+              },
+              "Min": {
+                "$type": "Vector4",
+                "W": 0,
+                "X": -1597.19214,
+                "Y": 3037.4126,
+                "Z": 17.1600037
+              }
+            },
+            "QuestPrefabRefHash": {
+              "$type": "NodeRef",
+              "$storage": "string",
+              "$value": "$/03_night_city/sunlive/#kidnap/#maelstrom_base_14"
+            },
+            "UkHash1": {
+              "$type": "NodeRef",
+              "$storage": "uint64",
+              "$value": "0"
+            },
+            "CookedPrefabData": {
+              "DepotPath": {
+                "$type": "ResourcePath",
+                "$storage": "uint64",
+                "$value": "0"
+              },
+              "Flags": "Default"
+            },
+            "MaxStreamingDistance": 20000,
+            "UkFloat1": 20000,
+            "Uk10": 1024,
+            "Uk11": 1024,
+            "Uk12": 0,
+            "Uk13": "0",
+            "Uk14": "0"
+          },
+          {
+            "Id": "0",
+            "NodeIndex": 14,
+            "Position": {
+              "$type": "Vector4",
+              "W": 0,
+              "X": -1569.84729,
+              "Y": 2990.94434,
+              "Z": 10.5775928
+            },
+            "Orientation": {
+              "$type": "Quaternion",
+              "i": 0,
+              "j": 0,
+              "k": -0.585420251,
+              "r": 0.8107301
+            },
+            "Scale": {
+              "$type": "Vector3",
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            },
+            "Pivot": {
+              "$type": "Vector3",
+              "X": -1569.84729,
+              "Y": 2990.94434,
+              "Z": 10.5775928
+            },
+            "Bounds": {
+              "$type": "Box",
+              "Max": {
+                "$type": "Vector4",
+                "W": 0,
+                "X": -1569.84729,
+                "Y": 2990.94434,
+                "Z": 10.5775928
+              },
+              "Min": {
+                "$type": "Vector4",
+                "W": 0,
+                "X": -1569.84729,
+                "Y": 2990.94434,
+                "Z": 10.5775928
+              }
+            },
+            "QuestPrefabRefHash": {
+              "$type": "NodeRef",
+              "$storage": "string",
+              "$value": "$/03_night_city/sunlive/#kidnap/#maelstrom_base_15"
+            },
+            "UkHash1": {
+              "$type": "NodeRef",
+              "$storage": "uint64",
+              "$value": "0"
+            },
+            "CookedPrefabData": {
+              "DepotPath": {
+                "$type": "ResourcePath",
+                "$storage": "uint64",
+                "$value": "0"
+              },
+              "Flags": "Default"
+            },
+            "MaxStreamingDistance": 20000,
+            "UkFloat1": 20000,
+            "Uk10": 1024,
+            "Uk11": 1024,
+            "Uk12": 0,
+            "Uk13": "0",
+            "Uk14": "0"
+          },
+          {
+            "Id": "0",
+            "NodeIndex": 15,
+            "Position": {
+              "$type": "Vector4",
+              "W": 0,
+              "X": -1577.27905,
+              "Y": 3001.44702,
+              "Z": 10.5268021
+            },
+            "Orientation": {
+              "$type": "Quaternion",
+              "i": 0,
+              "j": 0,
+              "k": 0.442950338,
+              "r": 0.896546185
+            },
+            "Scale": {
+              "$type": "Vector3",
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            },
+            "Pivot": {
+              "$type": "Vector3",
+              "X": -1577.27905,
+              "Y": 3001.44702,
+              "Z": 10.5268021
+            },
+            "Bounds": {
+              "$type": "Box",
+              "Max": {
+                "$type": "Vector4",
+                "W": 0,
+                "X": -1577.27905,
+                "Y": 3001.44702,
+                "Z": 10.5268021
+              },
+              "Min": {
+                "$type": "Vector4",
+                "W": 0,
+                "X": -1577.27905,
+                "Y": 3001.44702,
+                "Z": 10.5268021
+              }
+            },
+            "QuestPrefabRefHash": {
+              "$type": "NodeRef",
+              "$storage": "uint64",
+              "$value": "3867794359942208010"
+            },
+            "UkHash1": {
+              "$type": "NodeRef",
+              "$storage": "uint64",
+              "$value": "0"
+            },
+            "CookedPrefabData": {
+              "DepotPath": {
+                "$type": "ResourcePath",
+                "$storage": "uint64",
+                "$value": "0"
+              },
+              "Flags": "Default"
+            },
+            "MaxStreamingDistance": 20000,
+            "UkFloat1": 20000,
+            "Uk10": 1024,
+            "Uk11": 1024,
+            "Uk12": 0,
+            "Uk13": "0",
+            "Uk14": "0"
+          }
+        ]
+      },
+      "nodeRefs": [
+        {
+          "$type": "NodeRef",
+          "$storage": "string",
+          "$value": "$/03_night_city/sunlive/#kidnap/#maelstrom_base_1"
+        },
+        {
+          "$type": "NodeRef",
+          "$storage": "string",
+          "$value": "$/03_night_city/sunlive/#kidnap/#maelstrom_base_2"
+        },
+        {
+          "$type": "NodeRef",
+          "$storage": "string",
+          "$value": "$/03_night_city/sunlive/#kidnap/#maelstrom_base_3"
+        },
+        {
+          "$type": "NodeRef",
+          "$storage": "string",
+          "$value": "$/03_night_city/sunlive/#kidnap/#maelstrom_base_4"
+        },
+        {
+          "$type": "NodeRef",
+          "$storage": "string",
+          "$value": "$/03_night_city/sunlive/#kidnap/#maelstrom_base_5"
+        },
+        {
+          "$type": "NodeRef",
+          "$storage": "string",
+          "$value": "$/03_night_city/sunlive/#kidnap/#maelstrom_base_6"
+        },
+        {
+          "$type": "NodeRef",
+          "$storage": "string",
+          "$value": "$/03_night_city/sunlive/#kidnap/#maelstrom_base_7"
+        },
+        {
+          "$type": "NodeRef",
+          "$storage": "string",
+          "$value": "$/03_night_city/sunlive/#kidnap/#maelstrom_base_8"
+        },
+        {
+          "$type": "NodeRef",
+          "$storage": "string",
+          "$value": "$/03_night_city/sunlive/#kidnap/#maelstrom_base_9"
+        },
+        {
+          "$type": "NodeRef",
+          "$storage": "string",
+          "$value": "$/03_night_city/sunlive/#kidnap/#maelstrom_base_10"
+        },
+        {
+          "$type": "NodeRef",
+          "$storage": "string",
+          "$value": "$/03_night_city/sunlive/#kidnap/#maelstrom_base_11"
+        },
+        {
+          "$type": "NodeRef",
+          "$storage": "string",
+          "$value": "$/03_night_city/sunlive/#kidnap/#maelstrom_base_12"
+        },
+        {
+          "$type": "NodeRef",
+          "$storage": "string",
+          "$value": "$/03_night_city/sunlive/#kidnap/#maelstrom_base_13"
+        },
+        {
+          "$type": "NodeRef",
+          "$storage": "string",
+          "$value": "$/03_night_city/sunlive/#kidnap/#maelstrom_base_14"
+        },
+        {
+          "$type": "NodeRef",
+          "$storage": "string",
+          "$value": "$/03_night_city/sunlive/#kidnap/#maelstrom_base_15"
+        }
+      ],
+      "nodes": [
+        {
+          "HandleId": "0",
+          "Data": {
+            "$type": "worldPopulationSpawnerNode",
+            "alwaysSpawned": "default__false_",
+            "appearanceName": {
+              "$type": "CName",
+              "$storage": "string",
+              "$value": "random"
+            },
+            "debugName": {
+              "$type": "CName",
+              "$storage": "string",
+              "$value": "Character.cpz_maelstrom_grunt2_ranged2_ajax_wa"
+            },
+            "isHostOnly": 0,
+            "isVehicle": 0,
+            "isVisibleInGame": 1,
+            "objectRecordId": {
+              "$type": "TweakDBID",
+              "$storage": "string",
+              "$value": "Character.cpz_maelstrom_grunt2_ranged2_ajax_wa"
+            },
+            "prefetchAppearance": 0,
+            "proxyScale": null,
+            "sourcePrefabHash": "2272646019501921528",
+            "spawnInView": "default__true_",
+            "spawnOnStart": 0,
+            "tag": "None",
+            "tagExt": "None"
+          }
+        },
+        {
+          "HandleId": "1",
+          "Data": {
+            "$type": "worldPopulationSpawnerNode",
+            "alwaysSpawned": "default__false_",
+            "appearanceName": {
+              "$type": "CName",
+              "$storage": "string",
+              "$value": "default"
+            },
+            "debugName": {
+              "$type": "CName",
+              "$storage": "string",
+              "$value": "Character.cpz_maelstrom_grunt2_ranged2_ajax_wa"
+            },
+            "isHostOnly": 0,
+            "isVehicle": 0,
+            "isVisibleInGame": 1,
+            "objectRecordId": {
+              "$type": "TweakDBID",
+              "$storage": "string",
+              "$value": "Character.cpz_maelstrom_grunt2_ranged2_ajax_wa"
+            },
+            "prefetchAppearance": 0,
+            "proxyScale": null,
+            "sourcePrefabHash": "2272649318036806161",
+            "spawnInView": "default__true_",
+            "spawnOnStart": 0,
+            "tag": "None",
+            "tagExt": "None"
+          }
+        },
+        {
+          "HandleId": "2",
+          "Data": {
+            "$type": "worldPopulationSpawnerNode",
+            "alwaysSpawned": "default__false_",
+            "appearanceName": {
+              "$type": "CName",
+              "$storage": "string",
+              "$value": "default"
+            },
+            "debugName": {
+              "$type": "CName",
+              "$storage": "string",
+              "$value": "Character.cpz_maelstrom_grunt2_ranged2_ajax_wa"
+            },
+            "isHostOnly": 0,
+            "isVehicle": 0,
+            "isVisibleInGame": 1,
+            "objectRecordId": {
+              "$type": "TweakDBID",
+              "$storage": "string",
+              "$value": "Character.cpz_maelstrom_grunt2_ranged2_ajax_wa"
+            },
+            "prefetchAppearance": 0,
+            "proxyScale": null,
+            "sourcePrefabHash": "2272648218525177950",
+            "spawnInView": "default__true_",
+            "spawnOnStart": 0,
+            "tag": "None",
+            "tagExt": "None"
+          }
+        },
+        {
+          "HandleId": "3",
+          "Data": {
+            "$type": "worldPopulationSpawnerNode",
+            "alwaysSpawned": "default__false_",
+            "appearanceName": {
+              "$type": "CName",
+              "$storage": "string",
+              "$value": "default"
+            },
+            "debugName": {
+              "$type": "CName",
+              "$storage": "string",
+              "$value": "Character.nid_maelstrom_grunt2_melee2_hammer_wa"
+            },
+            "isHostOnly": 0,
+            "isVehicle": 0,
+            "isVisibleInGame": 1,
+            "objectRecordId": {
+              "$type": "TweakDBID",
+              "$storage": "string",
+              "$value": "Character.nid_maelstrom_grunt2_melee2_hammer_wa"
+            },
+            "prefetchAppearance": 0,
+            "proxyScale": null,
+            "sourcePrefabHash": "2272651517060062583",
+            "spawnInView": "default__true_",
+            "spawnOnStart": 0,
+            "tag": "None",
+            "tagExt": "None"
+          }
+        },
+        {
+          "HandleId": "4",
+          "Data": {
+            "$type": "worldPopulationSpawnerNode",
+            "alwaysSpawned": "default__false_",
+            "appearanceName": {
+              "$type": "CName",
+              "$storage": "string",
+              "$value": "default"
+            },
+            "debugName": {
+              "$type": "CName",
+              "$storage": "string",
+              "$value": "Character.gang_retaliation_enemies_maelstrom_melee2_machete_ma_kab_02"
+            },
+            "isHostOnly": 0,
+            "isVehicle": 0,
+            "isVisibleInGame": 1,
+            "objectRecordId": {
+              "$type": "TweakDBID",
+              "$storage": "string",
+              "$value": "Character.gang_retaliation_enemies_maelstrom_melee2_machete_ma_kab_02"
+            },
+            "prefetchAppearance": 0,
+            "proxyScale": null,
+            "sourcePrefabHash": "2272650417548434372",
+            "spawnInView": "default__true_",
+            "spawnOnStart": 0,
+            "tag": "None",
+            "tagExt": "None"
+          }
+        },
+        {
+          "HandleId": "5",
+          "Data": {
+            "$type": "worldPopulationSpawnerNode",
+            "alwaysSpawned": "default__false_",
+            "appearanceName": {
+              "$type": "CName",
+              "$storage": "string",
+              "$value": "default"
+            },
+            "debugName": {
+              "$type": "CName",
+              "$storage": "string",
+              "$value": "Character.nid_maelstrom_netrunner_m_medium"
+            },
+            "isHostOnly": 0,
+            "isVehicle": 0,
+            "isVisibleInGame": 1,
+            "objectRecordId": {
+              "$type": "TweakDBID",
+              "$storage": "string",
+              "$value": "Character.nid_maelstrom_netrunner_m_medium"
+            },
+            "prefetchAppearance": 0,
+            "proxyScale": null,
+            "sourcePrefabHash": "2272653716083319005",
+            "spawnInView": "default__true_",
+            "spawnOnStart": 0,
+            "tag": "None",
+            "tagExt": "None"
+          }
+        },
+        {
+          "HandleId": "6",
+          "Data": {
+            "$type": "worldPopulationSpawnerNode",
+            "alwaysSpawned": "default__false_",
+            "appearanceName": {
+              "$type": "CName",
+              "$storage": "string",
+              "$value": "default"
+            },
+            "debugName": {
+              "$type": "CName",
+              "$storage": "string",
+              "$value": "Character.sq031_maelstrom_strong_shotgunner_elite_2"
+            },
+            "isHostOnly": 0,
+            "isVehicle": 0,
+            "isVisibleInGame": 1,
+            "objectRecordId": {
+              "$type": "TweakDBID",
+              "$storage": "string",
+              "$value": "Character.sq031_maelstrom_strong_shotgunner_elite"
+            },
+            "prefetchAppearance": 0,
+            "proxyScale": null,
+            "sourcePrefabHash": "2272652616571690794",
+            "spawnInView": "default__true_",
+            "spawnOnStart": 0,
+            "tag": "None",
+            "tagExt": "None"
+          }
+        },
+        {
+          "HandleId": "7",
+          "Data": {
+            "$type": "worldPopulationSpawnerNode",
+            "alwaysSpawned": "default__false_",
+            "appearanceName": {
+              "$type": "CName",
+              "$storage": "string",
+              "$value": "default"
+            },
+            "debugName": {
+              "$type": "CName",
+              "$storage": "string",
+              "$value": "Character.sq031_maelstrom_strong_shotgunner_elite_3"
+            },
+            "isHostOnly": 0,
+            "isVehicle": 0,
+            "isVisibleInGame": 1,
+            "objectRecordId": {
+              "$type": "TweakDBID",
+              "$storage": "string",
+              "$value": "Character.sq031_maelstrom_strong_shotgunner_elite"
+            },
+            "prefetchAppearance": 0,
+            "proxyScale": null,
+            "sourcePrefabHash": "2272638322920524051",
+            "spawnInView": "default__true_",
+            "spawnOnStart": 0,
+            "tag": "None",
+            "tagExt": "None"
+          }
+        },
+        {
+          "HandleId": "8",
+          "Data": {
+            "$type": "worldPopulationSpawnerNode",
+            "alwaysSpawned": "default__false_",
+            "appearanceName": {
+              "$type": "CName",
+              "$storage": "string",
+              "$value": "default"
+            },
+            "debugName": {
+              "$type": "CName",
+              "$storage": "string",
+              "$value": "Character.nid_maelstrom_grunt2_ranged2_copperhead_wa"
+            },
+            "isHostOnly": 0,
+            "isVehicle": 0,
+            "isVisibleInGame": 1,
+            "objectRecordId": {
+              "$type": "TweakDBID",
+              "$storage": "string",
+              "$value": "Character.nid_maelstrom_grunt2_ranged2_copperhead_wa"
+            },
+            "prefetchAppearance": 0,
+            "proxyScale": null,
+            "sourcePrefabHash": "2272637223408895840",
+            "spawnInView": "default__true_",
+            "spawnOnStart": 0,
+            "tag": "None",
+            "tagExt": "None"
+          }
+        },
+        {
+          "HandleId": "9",
+          "Data": {
+            "$type": "worldPopulationSpawnerNode",
+            "alwaysSpawned": "default__false_",
+            "appearanceName": {
+              "$type": "CName",
+              "$storage": "string",
+              "$value": "default"
+            },
+            "debugName": {
+              "$type": "CName",
+              "$storage": "string",
+              "$value": "Character.cpz_maelstrom_grunt2_ranged2_ajax_wa"
+            },
+            "isHostOnly": 0,
+            "isVehicle": 0,
+            "isVisibleInGame": 1,
+            "objectRecordId": {
+              "$type": "TweakDBID",
+              "$storage": "string",
+              "$value": "Character.cpz_maelstrom_grunt2_ranged2_ajax_wa"
+            },
+            "prefetchAppearance": 0,
+            "proxyScale": null,
+            "sourcePrefabHash": "3867787762872438744",
+            "spawnInView": "default__true_",
+            "spawnOnStart": 0,
+            "tag": "None",
+            "tagExt": "None"
+          }
+        },
+        {
+          "HandleId": "10",
+          "Data": {
+            "$type": "worldPopulationSpawnerNode",
+            "alwaysSpawned": "default__false_",
+            "appearanceName": {
+              "$type": "CName",
+              "$storage": "string",
+              "$value": "default"
+            },
+            "debugName": {
+              "$type": "CName",
+              "$storage": "string",
+              "$value": "Character.hil_maelstrom_fast2_fmelee2_knife_ma_rare"
+            },
+            "isHostOnly": 0,
+            "isVehicle": 0,
+            "isVisibleInGame": 1,
+            "objectRecordId": {
+              "$type": "TweakDBID",
+              "$storage": "string",
+              "$value": "Character.hil_maelstrom_fast2_fmelee2_knife_ma_rare"
+            },
+            "prefetchAppearance": 0,
+            "proxyScale": null,
+            "sourcePrefabHash": "3867788862384066955",
+            "spawnInView": "default__true_",
+            "spawnOnStart": 0,
+            "tag": "None",
+            "tagExt": "None"
+          }
+        },
+        {
+          "HandleId": "11",
+          "Data": {
+            "$type": "worldPopulationSpawnerNode",
+            "alwaysSpawned": "default__false_",
+            "appearanceName": {
+              "$type": "CName",
+              "$storage": "string",
+              "$value": "default"
+            },
+            "debugName": {
+              "$type": "CName",
+              "$storage": "string",
+              "$value": "Character.nid_maelstrom_grunt2_melee2_machete_wa"
+            },
+            "isHostOnly": 0,
+            "isVehicle": 0,
+            "isVisibleInGame": 1,
+            "objectRecordId": {
+              "$type": "TweakDBID",
+              "$storage": "string",
+              "$value": "Character.nid_maelstrom_grunt2_melee2_machete_wa"
+            },
+            "prefetchAppearance": 0,
+            "proxyScale": null,
+            "sourcePrefabHash": "3867789961895695166",
+            "spawnInView": "default__true_",
+            "spawnOnStart": 0,
+            "tag": "None",
+            "tagExt": "None"
+          }
+        },
+        {
+          "HandleId": "12",
+          "Data": {
+            "$type": "worldPopulationSpawnerNode",
+            "alwaysSpawned": "default__false_",
+            "appearanceName": {
+              "$type": "CName",
+              "$storage": "string",
+              "$value": "default"
+            },
+            "debugName": {
+              "$type": "CName",
+              "$storage": "string",
+              "$value": "Character.sq031_maelstrom_rare_sniper_ma"
+            },
+            "isHostOnly": 0,
+            "isVehicle": 0,
+            "isVisibleInGame": 1,
+            "objectRecordId": {
+              "$type": "TweakDBID",
+              "$storage": "string",
+              "$value": "Character.sq031_maelstrom_rare_sniper_ma"
+            },
+            "prefetchAppearance": 0,
+            "proxyScale": null,
+            "sourcePrefabHash": "3867791061407323377",
+            "spawnInView": "default__true_",
+            "spawnOnStart": 0,
+            "tag": "None",
+            "tagExt": "None"
+          }
+        },
+        {
+          "HandleId": "13",
+          "Data": {
+            "$type": "worldPopulationSpawnerNode",
+            "alwaysSpawned": "default__false_",
+            "appearanceName": {
+              "$type": "CName",
+              "$storage": "string",
+              "$value": "default"
+            },
+            "debugName": {
+              "$type": "CName",
+              "$storage": "string",
+              "$value": "Character.sq031_maelstrom_rare_sniper_ma"
+            },
+            "isHostOnly": 0,
+            "isVehicle": 0,
+            "isVisibleInGame": 1,
+            "objectRecordId": {
+              "$type": "TweakDBID",
+              "$storage": "string",
+              "$value": "Character.sq031_maelstrom_rare_sniper_ma"
+            },
+            "prefetchAppearance": 0,
+            "proxyScale": null,
+            "sourcePrefabHash": "3867792160918951588",
+            "spawnInView": "default__true_",
+            "spawnOnStart": 0,
+            "tag": "None",
+            "tagExt": "None"
+          }
+        },
+        {
+          "HandleId": "14",
+          "Data": {
+            "$type": "worldPopulationSpawnerNode",
+            "alwaysSpawned": "default__false_",
+            "appearanceName": {
+              "$type": "CName",
+              "$storage": "string",
+              "$value": "default"
+            },
+            "debugName": {
+              "$type": "CName",
+              "$storage": "string",
+              "$value": "Character.nid_maelstrom_fast2_fmelee2_knife_ma_rare"
+            },
+            "isHostOnly": 0,
+            "isVehicle": 0,
+            "isVisibleInGame": 1,
+            "objectRecordId": {
+              "$type": "TweakDBID",
+              "$storage": "string",
+              "$value": "Character.nid_maelstrom_fast2_fmelee2_knife_ma_rare"
+            },
+            "prefetchAppearance": 0,
+            "proxyScale": null,
+            "sourcePrefabHash": "3867793260430579799",
+            "spawnInView": "default__true_",
+            "spawnOnStart": 0,
+            "tag": "None",
+            "tagExt": "None"
+          }
+        },
+        {
+          "HandleId": "15",
+          "Data": {
+            "$type": "worldPopulationSpawnerNode",
+            "alwaysSpawned": "default__false_",
+            "appearanceName": {
+              "$type": "CName",
+              "$storage": "string",
+              "$value": "default"
+            },
+            "debugName": {
+              "$type": "CName",
+              "$storage": "string",
+              "$value": "Character.cpz_maelstrom_grunt2_ranged2_ajax_wa"
+            },
+            "isHostOnly": 0,
+            "isVehicle": 0,
+            "isVisibleInGame": 1,
+            "objectRecordId": {
+              "$type": "TweakDBID",
+              "$storage": "string",
+              "$value": "Character.cpz_maelstrom_grunt2_ranged2_ajax_wa"
+            },
+            "prefetchAppearance": 0,
+            "proxyScale": null,
+            "sourcePrefabHash": "3867794359942208010",
+            "spawnInView": "default__true_",
+            "spawnOnStart": 0,
+            "tag": "None",
+            "tagExt": "None"
+          }
+        },
+        {
+          "HandleId": "16",
+          "Data": {
+            "$type": "worldDeviceNode",
+            "alphaHackStreamingDistanceOverride": 0,
+            "appearanceName": {
+              "$type": "CName",
+              "$storage": "string",
+              "$value": "laptop_laptop_2"
+            },
+            "debugName": {
+              "$type": "CName",
+              "$storage": "string",
+              "$value": "{Devicema_wat_kab_02_dvc_laptop}"
+            },
+            "deviceClassName": {
+              "$type": "CName",
+              "$storage": "string",
+              "$value": "None"
+            },
+            "deviceConnections": [],
+            "entityLod": 0,
+            "entityTemplate": {
+              "DepotPath": {
+                "$type": "ResourcePath",
+                "$storage": "string",
+                "$value": "base\\gameplay\\devices\\masters\\computers\\laptop_1.ent"
+              },
+              "Flags": "Soft"
+            },
+            "instanceData": null,
+            "ioPriority": "Immediate",
+            "isHostOnly": 0,
+            "isVisibleInGame": 1,
+            "proxyScale": null,
+            "sourcePrefabHash": "0",
+            "tag": "None",
+            "tagExt": "None"
+          }
+        }
+      ],
+      "persistentNodeIndex": 0,
+      "persistentNodes": [],
+      "variantIndices": [0
+      ],
+      "variantNodes": [],
+      "version": 62
+    },
+    "EmbeddedFiles": []
+  }
+}
