@@ -675,7 +675,10 @@ mod\kidnap\scenes\sunset.scene
 mod\kidnap\workspots\generic__sit_ground__wounded__01_m.workspot
 mod\kidnap\world\all.streamingblock
 mod\kidnap\world\sectors\kidnap_always_loaded.streamingsector
+mod\kidnap\world\sectors\kidnap_laptop_copy.streamingsector
+mod\kidnap\world\sectors\kidnap_laptop.streamingsector
 mod\kidnap\world\sectors\kidnap_lights.streamingsector
+mod\kidnap\world\sectors\kidnap_quest_prefab_copy.streamingsector
 mod\kidnap\world\sectors\kidnap_quest_prefab.streamingsector
 mod\kidnap\world\sectors\merged.streamingsector
 mod\kidnap\world\sectors\test.streamingsector
