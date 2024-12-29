@@ -659,10 +659,15 @@ mod\kidnap\localization\en-us\vo\sq_kidnap_mitch_holo_v_phrase_1_f.wem
 mod\kidnap\localization\en-us\vo\sq_kidnap_mitch_holo_v_phrase_1_m.wem
 mod\kidnap\localization\en-us\vo\sq_kidnap_mitch_holo_v_phrase_2_f.wem
 mod\kidnap\localization\en-us\vo\sq_kidnap_mitch_holo_v_phrase_2_m.wem
+mod\kidnap\localization\en-us\vo\sq_kidnap_mitch_holo_v_phrase_3_f.wem
 mod\kidnap\localization\en-us\vo\sq_kidnap_mitch_holo_v_phrase_3_m.wem
+mod\kidnap\localization\en-us\vo\sq_kidnap_mitch_holo_v_phrase_4_f.wem
 mod\kidnap\localization\en-us\vo\sq_kidnap_mitch_holo_v_phrase_4_m.wem
+mod\kidnap\localization\en-us\vo\sq_kidnap_mitch_holo_v_phrase_5_f.wem
 mod\kidnap\localization\en-us\vo\sq_kidnap_mitch_holo_v_phrase_5_m.wem
+mod\kidnap\localization\en-us\vo\sq_kidnap_mitch_holo_v_phrase_6_f.wem
 mod\kidnap\localization\en-us\vo\sq_kidnap_mitch_holo_v_phrase_6_m.wem
+mod\kidnap\localization\en-us\vo\sq_kidnap_mitch_holo_v_phrase_7_f.wem
 mod\kidnap\localization\en-us\vo\sq_kidnap_mitch_holo_v_phrase_7_m.wem
 mod\kidnap\localization\en-us\vo\sq_kidnap_sunset_boss_orders_end_f_0ee8a25a04ef7f2a.wem
 mod\kidnap\localization\en-us\vo\sq_kidnap_sunset_boss_orders_f_071c82aec301d905.wem
