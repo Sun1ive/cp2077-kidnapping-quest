@@ -635,6 +635,7 @@ mod\journal\dbg.journal
 mod\journal\gone_in_60.journal
 mod\journal\kidnap.journal
 mod\journal\sq_high_stakes.journal
+mod\kidnap\assets\kidnap_textures.inkatlas
 mod\kidnap\assets\ktexture.inkatlas
 mod\kidnap\assets\panam_captured_resized.xbm
 mod\kidnap\assets\preview.bk2
@@ -654,7 +655,9 @@ mod\kidnap\localization\en-us\vo\sq_kidnap_mitch_holo_mitch_phrase_2.wem
 mod\kidnap\localization\en-us\vo\sq_kidnap_mitch_holo_mitch_phrase_3.wem
 mod\kidnap\localization\en-us\vo\sq_kidnap_mitch_holo_mitch_phrase_4.wem
 mod\kidnap\localization\en-us\vo\sq_kidnap_mitch_holo_mitch_phrase_5.wem
+mod\kidnap\localization\en-us\vo\sq_kidnap_mitch_holo_v_phrase_1_f.wem
 mod\kidnap\localization\en-us\vo\sq_kidnap_mitch_holo_v_phrase_1_m.wem
+mod\kidnap\localization\en-us\vo\sq_kidnap_mitch_holo_v_phrase_2_f.wem
 mod\kidnap\localization\en-us\vo\sq_kidnap_mitch_holo_v_phrase_2_m.wem
 mod\kidnap\localization\en-us\vo\sq_kidnap_mitch_holo_v_phrase_3_m.wem
 mod\kidnap\localization\en-us\vo\sq_kidnap_mitch_holo_v_phrase_4_m.wem
@@ -666,6 +669,7 @@ mod\kidnap\localization\en-us\vo\sq_kidnap_sunset_boss_orders_f_071c82aec301d905
 mod\kidnap\localization\en-us\vo\sq_kidnap_sunset_boss_orders_m_071c82aec301d905.wem
 mod\kidnap\localization\en-us\voiceovermap.json
 mod\kidnap\quest\kidnap.questphase
+mod\kidnap\scenes\after_ambush_johnny.scene
 mod\kidnap\scenes\kidnap_end.scene
 mod\kidnap\scenes\mitch_holocall.scene
 mod\kidnap\scenes\mitch_plan.scene
