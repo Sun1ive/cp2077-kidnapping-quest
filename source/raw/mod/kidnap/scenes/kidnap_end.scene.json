@@ -3,7 +3,7 @@
     "WolvenKitVersion": "8.15.1-nightly.2024-12-28",
     "WKitJsonVersion": "0.0.9",
     "GameVersion": 2200,
-    "ExportedDateTime": "2024-12-29T18:51:23.2261497Z",
+    "ExportedDateTime": "2024-12-29T19:56:49.2728435Z",
     "DataType": "CR2W",
     "ArchiveFileName": "G:\\work\\CPModding\\wolvenkit\\projects\\Kidnap\\source\\archive\\mod\\kidnap\\scenes\\kidnap_end.scene"
   },
@@ -3846,7 +3846,27 @@
                             "Roll": 0,
                             "Yaw": 0
                           },
-                          "transitionBlendInCameraSpace": [0,0.0526315719,0.105263151,0.157894731,0.210526302,0.263157904,0.315789461,0.368421048,0.421052635,0.473684222,0.526315808,0.578947365,0.631578922,0.684210539,0.736842096,0.789473712,0.842105269,0.894736826,0.947368443,1
+                          "transitionBlendInCameraSpace": [
+                            0,
+                            0.0526315719,
+                            0.105263151,
+                            0.157894731,
+                            0.210526302,
+                            0.263157904,
+                            0.315789461,
+                            0.368421048,
+                            0.421052635,
+                            0.473684222,
+                            0.526315808,
+                            0.578947365,
+                            0.631578922,
+                            0.684210539,
+                            0.736842096,
+                            0.789473712,
+                            0.842105269,
+                            0.894736826,
+                            0.947368443,
+                            1
                           ],
                           "transitionBlendInTrajectorySpaceAngles": [
                             {
@@ -4094,7 +4114,7 @@
                             {
                               "$type": "EulerAngles",
                               "Pitch": -0.00494755292,
-                              "Roll": 1.99891492E-10,
+                              "Roll": 1.99891492e-10,
                               "Yaw": 0.0102587724
                             }
                           ]
@@ -4117,7 +4137,27 @@
                             "Roll": 0,
                             "Yaw": 0
                           },
-                          "transitionBlendInCameraSpace": [0,0.0526315719,0.105263151,0.157894731,0.210526302,0.263157904,0.315789461,0.368421048,0.421052635,0.473684222,0.526315808,0.578947365,0.631578922,0.684210539,0.736842096,0.789473712,0.842105269,0.894736826,0.947368443,1
+                          "transitionBlendInCameraSpace": [
+                            0,
+                            0.0526315719,
+                            0.105263151,
+                            0.157894731,
+                            0.210526302,
+                            0.263157904,
+                            0.315789461,
+                            0.368421048,
+                            0.421052635,
+                            0.473684222,
+                            0.526315808,
+                            0.578947365,
+                            0.631578922,
+                            0.684210539,
+                            0.736842096,
+                            0.789473712,
+                            0.842105269,
+                            0.894736826,
+                            0.947368443,
+                            1
                           ],
                           "transitionBlendInTrajectorySpaceAngles": [
                             {
@@ -4365,7 +4405,7 @@
                             {
                               "$type": "EulerAngles",
                               "Pitch": -0.00494755292,
-                              "Roll": 1.99891492E-10,
+                              "Roll": 1.99891492e-10,
                               "Yaw": 0.0102587724
                             }
                           ]
@@ -7255,7 +7295,7 @@
                                 ]
                               },
                               "calculatePositionInParentSpace": 0,
-                              "debugInfo": "Scene preset: \u0022Eyes\u0022",
+                              "debugInfo": "Scene preset: \"Eyes\"",
                               "followingSpeedFactorOverride": -1,
                               "hasOutTransition": 0,
                               "invalid": 0,
@@ -7412,7 +7452,7 @@
                                 ]
                               },
                               "calculatePositionInParentSpace": 0,
-                              "debugInfo": "Scene preset: \u0022Eyes \u0026 Head\u0022",
+                              "debugInfo": "Scene preset: \"Eyes & Head\"",
                               "followingSpeedFactorOverride": -1,
                               "hasOutTransition": 0,
                               "invalid": 0,
@@ -8137,7 +8177,27 @@
                             "Roll": 0,
                             "Yaw": 0
                           },
-                          "transitionBlendInCameraSpace": [0,0.0526315756,0.105263151,0.157894731,0.210526317,0.263157904,0.315789461,0.368421048,0.421052635,0.473684222,0.526315808,0.578947365,0.631578922,0.684210539,0.736842096,0.789473712,0.842105269,0.894736826,0.947368443,1
+                          "transitionBlendInCameraSpace": [
+                            0,
+                            0.0526315756,
+                            0.105263151,
+                            0.157894731,
+                            0.210526317,
+                            0.263157904,
+                            0.315789461,
+                            0.368421048,
+                            0.421052635,
+                            0.473684222,
+                            0.526315808,
+                            0.578947365,
+                            0.631578922,
+                            0.684210539,
+                            0.736842096,
+                            0.789473712,
+                            0.842105269,
+                            0.894736826,
+                            0.947368443,
+                            1
                           ],
                           "transitionBlendInTrajectorySpaceAngles": [
                             {
@@ -8385,7 +8445,7 @@
                             {
                               "$type": "EulerAngles",
                               "Pitch": -5.24212551,
-                              "Roll": 2.14339877E-07,
+                              "Roll": 2.14339877e-7,
                               "Yaw": -61.3824272
                             }
                           ]
@@ -8408,7 +8468,27 @@
                             "Roll": 0,
                             "Yaw": 0
                           },
-                          "transitionBlendInCameraSpace": [0,0.0526315682,0.105263144,0.157894731,0.210526317,0.263157904,0.315789461,0.368421048,0.421052635,0.473684222,0.526315808,0.578947365,0.631578922,0.684210539,0.736842096,0.789473712,0.842105269,0.894736826,0.947368443,1
+                          "transitionBlendInCameraSpace": [
+                            0,
+                            0.0526315682,
+                            0.105263144,
+                            0.157894731,
+                            0.210526317,
+                            0.263157904,
+                            0.315789461,
+                            0.368421048,
+                            0.421052635,
+                            0.473684222,
+                            0.526315808,
+                            0.578947365,
+                            0.631578922,
+                            0.684210539,
+                            0.736842096,
+                            0.789473712,
+                            0.842105269,
+                            0.894736826,
+                            0.947368443,
+                            1
                           ],
                           "transitionBlendInTrajectorySpaceAngles": [
                             {
@@ -8656,7 +8736,7 @@
                             {
                               "$type": "EulerAngles",
                               "Pitch": -5.24370909,
-                              "Roll": 4.28680835E-07,
+                              "Roll": 4.28680835e-7,
                               "Yaw": -61.382225
                             }
                           ]
@@ -10176,7 +10256,47 @@
                             "Roll": 0,
                             "Yaw": 0
                           },
-                          "transitionBlendInCameraSpace": [0,0.0256410223,0.051282052,0.0769230798,0.102564104,0.128205135,0.15384616,0.179487184,0.205128208,0.230769232,0.256410271,0.282051295,0.307692319,0.333333343,0.358974367,0.384615391,0.410256416,0.43589744,0.461538464,0.487179488,0.512820542,0.538461566,0.56410259,0.589743614,0.615384638,0.641025662,0.666666687,0.692307711,0.717948735,0.743589759,0.769230783,0.794871807,0.820512831,0.846153855,0.871794879,0.897435904,0.923076928,0.948717952,0.974358976,1
+                          "transitionBlendInCameraSpace": [
+                            0,
+                            0.0256410223,
+                            0.051282052,
+                            0.0769230798,
+                            0.102564104,
+                            0.128205135,
+                            0.15384616,
+                            0.179487184,
+                            0.205128208,
+                            0.230769232,
+                            0.256410271,
+                            0.282051295,
+                            0.307692319,
+                            0.333333343,
+                            0.358974367,
+                            0.384615391,
+                            0.410256416,
+                            0.43589744,
+                            0.461538464,
+                            0.487179488,
+                            0.512820542,
+                            0.538461566,
+                            0.56410259,
+                            0.589743614,
+                            0.615384638,
+                            0.641025662,
+                            0.666666687,
+                            0.692307711,
+                            0.717948735,
+                            0.743589759,
+                            0.769230783,
+                            0.794871807,
+                            0.820512831,
+                            0.846153855,
+                            0.871794879,
+                            0.897435904,
+                            0.923076928,
+                            0.948717952,
+                            0.974358976,
+                            1
                           ],
                           "transitionBlendInTrajectorySpaceAngles": [
                             {
@@ -10194,37 +10314,37 @@
                             {
                               "$type": "EulerAngles",
                               "Pitch": -3.74929094,
-                              "Roll": -4.064123E-06,
+                              "Roll": -0.000004064123,
                               "Yaw": -102.379845
                             },
                             {
                               "$type": "EulerAngles",
                               "Pitch": -3.75076818,
-                              "Roll": 5.86090318E-05,
+                              "Roll": 0.0000586090318,
                               "Yaw": -102.380539
                             },
                             {
                               "$type": "EulerAngles",
                               "Pitch": -3.75309348,
-                              "Roll": 2.13902126E-06,
+                              "Roll": 0.00000213902126,
                               "Yaw": -102.382057
                             },
                             {
                               "$type": "EulerAngles",
                               "Pitch": -3.75549483,
-                              "Roll": -2.07485646E-05,
+                              "Roll": -0.0000207485646,
                               "Yaw": -102.383438
                             },
                             {
                               "$type": "EulerAngles",
                               "Pitch": -3.75785589,
-                              "Roll": 1.71122645E-06,
+                              "Roll": 0.00000171122645,
                               "Yaw": -102.385025
                             },
                             {
                               "$type": "EulerAngles",
                               "Pitch": -3.76063585,
-                              "Roll": -6.65241387E-05,
+                              "Roll": -0.0000665241387,
                               "Yaw": -102.386681
                             },
                             {
@@ -10236,121 +10356,121 @@
                             {
                               "$type": "EulerAngles",
                               "Pitch": -3.76536989,
-                              "Roll": -2.88771953E-05,
+                              "Roll": -0.0000288771953,
                               "Yaw": -102.389519
                             },
                             {
                               "$type": "EulerAngles",
                               "Pitch": -3.76699901,
-                              "Roll": 1.75402565E-05,
+                              "Roll": 0.0000175402565,
                               "Yaw": -102.390594
                             },
                             {
                               "$type": "EulerAngles",
                               "Pitch": -3.76897931,
-                              "Roll": -1.06953021E-05,
+                              "Roll": -0.0000106953021,
                               "Yaw": -102.39183
                             },
                             {
                               "$type": "EulerAngles",
                               "Pitch": -3.77031851,
-                              "Roll": -4.70593977E-06,
+                              "Roll": -0.00000470593977,
                               "Yaw": -102.392654
                             },
                             {
                               "$type": "EulerAngles",
                               "Pitch": -3.77097154,
-                              "Roll": 3.20859799E-05,
+                              "Roll": 0.0000320859799,
                               "Yaw": -102.393166
                             },
                             {
                               "$type": "EulerAngles",
                               "Pitch": -3.77100611,
-                              "Roll": 1.604299E-05,
+                              "Roll": 0.00001604299,
                               "Yaw": -102.393639
                             },
                             {
                               "$type": "EulerAngles",
                               "Pitch": -3.76949406,
-                              "Roll": -2.65243652E-05,
+                              "Roll": -0.0000265243652,
                               "Yaw": -102.393677
                             },
                             {
                               "$type": "EulerAngles",
                               "Pitch": -3.7657547,
-                              "Roll": 1.34760303E-05,
+                              "Roll": 0.0000134760303,
                               "Yaw": -102.392776
                             },
                             {
                               "$type": "EulerAngles",
                               "Pitch": -3.75980759,
-                              "Roll": -2.80213972E-05,
+                              "Roll": -0.0000280213972,
                               "Yaw": -102.388939
                             },
                             {
                               "$type": "EulerAngles",
                               "Pitch": -3.75106835,
-                              "Roll": 6.41704901E-07,
+                              "Roll": 6.41704901e-7,
                               "Yaw": -102.377586
                             },
                             {
                               "$type": "EulerAngles",
                               "Pitch": -3.74014044,
-                              "Roll": -2.18176956E-05,
+                              "Roll": -0.0000218176956,
                               "Yaw": -102.35321
                             },
                             {
                               "$type": "EulerAngles",
                               "Pitch": -3.72693396,
-                              "Roll": 4.70570649E-06,
+                              "Roll": 0.00000470570649,
                               "Yaw": -102.311066
                             },
                             {
                               "$type": "EulerAngles",
                               "Pitch": -3.71181059,
-                              "Roll": -1.04807123E-05,
+                              "Roll": -0.0000104807123,
                               "Yaw": -102.248825
                             },
                             {
                               "$type": "EulerAngles",
                               "Pitch": -3.69481277,
-                              "Roll": 1.75388122E-05,
+                              "Roll": 0.0000175388122,
                               "Yaw": -102.165802
                             },
                             {
                               "$type": "EulerAngles",
                               "Pitch": -3.67634225,
-                              "Roll": -1.36885465E-05,
+                              "Roll": -0.0000136885465,
                               "Yaw": -102.063271
                             },
                             {
                               "$type": "EulerAngles",
                               "Pitch": -3.65631628,
-                              "Roll": 1.57200884E-05,
+                              "Roll": 0.0000157200884,
                               "Yaw": -101.941238
                             },
                             {
                               "$type": "EulerAngles",
                               "Pitch": -3.63522625,
-                              "Roll": -6.63008541E-06,
+                              "Roll": -0.00000663008541,
                               "Yaw": -101.80101
                             },
                             {
                               "$type": "EulerAngles",
                               "Pitch": -3.6130321,
-                              "Roll": -8.12700273E-06,
+                              "Roll": -0.00000812700273,
                               "Yaw": -101.642914
                             },
                             {
                               "$type": "EulerAngles",
                               "Pitch": -3.59004116,
-                              "Roll": -7.37827577E-06,
+                              "Roll": -0.00000737827577,
                               "Yaw": -101.467903
                             },
                             {
                               "$type": "EulerAngles",
                               "Pitch": -3.5662899,
-                              "Roll": 2.88707679E-06,
+                              "Roll": 0.00000288707679,
                               "Yaw": -101.276535
                             },
                             {
@@ -10567,7 +10687,47 @@
                             "Roll": 0,
                             "Yaw": 0
                           },
-                          "transitionBlendInCameraSpace": [0,0.025641026,0.051282052,0.0769230798,0.102564104,0.128205135,0.15384616,0.179487184,0.205128208,0.230769232,0.256410271,0.282051295,0.307692319,0.333333343,0.358974367,0.384615391,0.410256416,0.43589744,0.461538464,0.487179488,0.512820542,0.538461566,0.56410259,0.589743614,0.615384638,0.641025662,0.666666687,0.692307711,0.717948735,0.743589759,0.769230783,0.794871807,0.820512831,0.846153855,0.871794879,0.897435904,0.923076928,0.948717952,0.974358976,1
+                          "transitionBlendInCameraSpace": [
+                            0,
+                            0.025641026,
+                            0.051282052,
+                            0.0769230798,
+                            0.102564104,
+                            0.128205135,
+                            0.15384616,
+                            0.179487184,
+                            0.205128208,
+                            0.230769232,
+                            0.256410271,
+                            0.282051295,
+                            0.307692319,
+                            0.333333343,
+                            0.358974367,
+                            0.384615391,
+                            0.410256416,
+                            0.43589744,
+                            0.461538464,
+                            0.487179488,
+                            0.512820542,
+                            0.538461566,
+                            0.56410259,
+                            0.589743614,
+                            0.615384638,
+                            0.641025662,
+                            0.666666687,
+                            0.692307711,
+                            0.717948735,
+                            0.743589759,
+                            0.769230783,
+                            0.794871807,
+                            0.820512831,
+                            0.846153855,
+                            0.871794879,
+                            0.897435904,
+                            0.923076928,
+                            0.948717952,
+                            0.974358976,
+                            1
                           ],
                           "transitionBlendInTrajectorySpaceAngles": [
                             {
@@ -11499,7 +11659,7 @@
                                 ]
                               },
                               "calculatePositionInParentSpace": 0,
-                              "debugInfo": "Scene preset: \u0022Eyes\u0022",
+                              "debugInfo": "Scene preset: \"Eyes\"",
                               "followingSpeedFactorOverride": -1,
                               "hasOutTransition": 0,
                               "invalid": 0,
@@ -13025,7 +13185,7 @@
                                 ]
                               },
                               "calculatePositionInParentSpace": 0,
-                              "debugInfo": "Scene preset: \u0022Eyes \u0026 Head\u0022",
+                              "debugInfo": "Scene preset: \"Eyes & Head\"",
                               "followingSpeedFactorOverride": -1,
                               "hasOutTransition": 0,
                               "invalid": 0,
@@ -16523,7 +16683,7 @@
                                 ]
                               },
                               "calculatePositionInParentSpace": 0,
-                              "debugInfo": "Scene preset: \u0022Eyes\u0022",
+                              "debugInfo": "Scene preset: \"Eyes\"",
                               "followingSpeedFactorOverride": -1,
                               "hasOutTransition": 0,
                               "invalid": 0,
@@ -16643,7 +16803,27 @@
                             "Roll": 0,
                             "Yaw": 0
                           },
-                          "transitionBlendInCameraSpace": [0,0.0526315756,0.105263159,0.157894731,0.210526317,0.263157904,0.315789461,0.368421048,0.421052635,0.473684222,0.526315808,0.578947365,0.631578922,0.684210539,0.736842096,0.789473712,0.842105269,0.894736826,0.947368443,1
+                          "transitionBlendInCameraSpace": [
+                            0,
+                            0.0526315756,
+                            0.105263159,
+                            0.157894731,
+                            0.210526317,
+                            0.263157904,
+                            0.315789461,
+                            0.368421048,
+                            0.421052635,
+                            0.473684222,
+                            0.526315808,
+                            0.578947365,
+                            0.631578922,
+                            0.684210539,
+                            0.736842096,
+                            0.789473712,
+                            0.842105269,
+                            0.894736826,
+                            0.947368443,
+                            1
                           ],
                           "transitionBlendInTrajectorySpaceAngles": [
                             {
@@ -16891,7 +17071,7 @@
                             {
                               "$type": "EulerAngles",
                               "Pitch": -12.9417295,
-                              "Roll": -1.09503262E-07,
+                              "Roll": -1.09503262e-7,
                               "Yaw": -5.11033583
                             }
                           ]
@@ -16914,7 +17094,27 @@
                             "Roll": 0,
                             "Yaw": 0
                           },
-                          "transitionBlendInCameraSpace": [0,0.0526315756,0.105263159,0.157894731,0.210526317,0.263157904,0.315789461,0.368421048,0.421052635,0.473684222,0.526315808,0.578947365,0.631578922,0.684210539,0.736842096,0.789473712,0.842105269,0.894736826,0.947368443,1
+                          "transitionBlendInCameraSpace": [
+                            0,
+                            0.0526315756,
+                            0.105263159,
+                            0.157894731,
+                            0.210526317,
+                            0.263157904,
+                            0.315789461,
+                            0.368421048,
+                            0.421052635,
+                            0.473684222,
+                            0.526315808,
+                            0.578947365,
+                            0.631578922,
+                            0.684210539,
+                            0.736842096,
+                            0.789473712,
+                            0.842105269,
+                            0.894736826,
+                            0.947368443,
+                            1
                           ],
                           "transitionBlendInTrajectorySpaceAngles": [
                             {
@@ -17162,7 +17362,7 @@
                             {
                               "$type": "EulerAngles",
                               "Pitch": -12.9417295,
-                              "Roll": -1.09503262E-07,
+                              "Roll": -1.09503262e-7,
                               "Yaw": -5.11033583
                             }
                           ]
@@ -18465,6 +18665,229 @@
                   "stu": 0
                 }
               }
+            },
+            {
+              "HandleId": "374",
+              "Data": {
+                "$type": "scnSectionNode",
+                "actorBehaviors": [
+                  {
+                    "$type": "scnSectionInternalsActorBehavior",
+                    "actorId": {
+                      "$type": "scnActorId",
+                      "id": 0
+                    },
+                    "behaviorMode": "OnlyIfAlive"
+                  },
+                  {
+                    "$type": "scnSectionInternalsActorBehavior",
+                    "actorId": {
+                      "$type": "scnActorId",
+                      "id": 1
+                    },
+                    "behaviorMode": "OnlyIfAlive"
+                  },
+                  {
+                    "$type": "scnSectionInternalsActorBehavior",
+                    "actorId": {
+                      "$type": "scnActorId",
+                      "id": 2
+                    },
+                    "behaviorMode": "OnlyIfAlive"
+                  },
+                  {
+                    "$type": "scnSectionInternalsActorBehavior",
+                    "actorId": {
+                      "$type": "scnActorId",
+                      "id": 3
+                    },
+                    "behaviorMode": "OnlyIfAlive"
+                  }
+                ],
+                "events": [
+                  {
+                    "HandleId": "375",
+                    "Data": {
+                      "$type": "scnDialogLineEvent",
+                      "additionalSpeakers": {
+                        "$type": "scnAdditionalSpeakers",
+                        "executionTag": 0,
+                        "role": "Full",
+                        "speakers": []
+                      },
+                      "duration": 1654,
+                      "executionTagFlags": 0,
+                      "id": {
+                        "$type": "scnSceneEventId",
+                        "id": "13075180"
+                      },
+                      "scalingData": null,
+                      "screenplayLineId": {
+                        "$type": "scnscreenplayItemId",
+                        "id": 3585
+                      },
+                      "startTime": 700,
+                      "type": "0",
+                      "visualStyle": "regular",
+                      "voParams": {
+                        "$type": "scnDialogLineVoParams",
+                        "alwaysUseBrainGender": 0,
+                        "customVoEvent": {
+                          "$type": "CName",
+                          "$storage": "string",
+                          "$value": "None"
+                        },
+                        "disableHeadMovement": 0,
+                        "ignoreSpeakerIncapacitation": 0,
+                        "isHolocallSpeaker": 1,
+                        "voContext": "Vo_Context_Quest",
+                        "voExpression": "Vo_Expression_Phone"
+                      }
+                    }
+                  },
+                  {
+                    "HandleId": "376",
+                    "Data": {
+                      "$type": "scnDialogLineEvent",
+                      "additionalSpeakers": {
+                        "$type": "scnAdditionalSpeakers",
+                        "executionTag": 0,
+                        "role": "Full",
+                        "speakers": []
+                      },
+                      "duration": 1893,
+                      "executionTagFlags": 0,
+                      "id": {
+                        "$type": "scnSceneEventId",
+                        "id": "79516419"
+                      },
+                      "scalingData": null,
+                      "screenplayLineId": {
+                        "$type": "scnscreenplayItemId",
+                        "id": 3841
+                      },
+                      "startTime": 3054,
+                      "type": "0",
+                      "visualStyle": "regular",
+                      "voParams": {
+                        "$type": "scnDialogLineVoParams",
+                        "alwaysUseBrainGender": 0,
+                        "customVoEvent": {
+                          "$type": "CName",
+                          "$storage": "string",
+                          "$value": "None"
+                        },
+                        "disableHeadMovement": 0,
+                        "ignoreSpeakerIncapacitation": 0,
+                        "isHolocallSpeaker": 1,
+                        "voContext": "Vo_Context_Quest",
+                        "voExpression": "Vo_Expression_Phone"
+                      }
+                    }
+                  },
+                  {
+                    "HandleId": "377",
+                    "Data": {
+                      "$type": "scnDialogLineEvent",
+                      "additionalSpeakers": {
+                        "$type": "scnAdditionalSpeakers",
+                        "executionTag": 0,
+                        "role": "Full",
+                        "speakers": []
+                      },
+                      "duration": 5467,
+                      "executionTagFlags": 0,
+                      "id": {
+                        "$type": "scnSceneEventId",
+                        "id": "57894117"
+                      },
+                      "scalingData": null,
+                      "screenplayLineId": {
+                        "$type": "scnscreenplayItemId",
+                        "id": 4097
+                      },
+                      "startTime": 5647,
+                      "type": "0",
+                      "visualStyle": "regular",
+                      "voParams": {
+                        "$type": "scnDialogLineVoParams",
+                        "alwaysUseBrainGender": 0,
+                        "customVoEvent": {
+                          "$type": "CName",
+                          "$storage": "string",
+                          "$value": "None"
+                        },
+                        "disableHeadMovement": 0,
+                        "ignoreSpeakerIncapacitation": 0,
+                        "isHolocallSpeaker": 1,
+                        "voContext": "Vo_Context_Quest",
+                        "voExpression": "Vo_Expression_Phone"
+                      }
+                    }
+                  },
+                  {
+                    "HandleId": "378",
+                    "Data": {
+                      "$type": "scnDialogLineEvent",
+                      "additionalSpeakers": {
+                        "$type": "scnAdditionalSpeakers",
+                        "executionTag": 0,
+                        "role": "Full",
+                        "speakers": []
+                      },
+                      "duration": 1725,
+                      "executionTagFlags": 0,
+                      "id": {
+                        "$type": "scnSceneEventId",
+                        "id": "17331606"
+                      },
+                      "scalingData": null,
+                      "screenplayLineId": {
+                        "$type": "scnscreenplayItemId",
+                        "id": 4353
+                      },
+                      "startTime": 11814,
+                      "type": "0",
+                      "visualStyle": "regular",
+                      "voParams": {
+                        "$type": "scnDialogLineVoParams",
+                        "alwaysUseBrainGender": 0,
+                        "customVoEvent": {
+                          "$type": "CName",
+                          "$storage": "string",
+                          "$value": "None"
+                        },
+                        "disableHeadMovement": 0,
+                        "ignoreSpeakerIncapacitation": 0,
+                        "isHolocallSpeaker": 1,
+                        "voContext": "Vo_Context_Quest",
+                        "voExpression": "Vo_Expression_Phone"
+                      }
+                    }
+                  }
+                ],
+                "ffStrategy": "automatic",
+                "isFocusClue": 0,
+                "nodeId": {
+                  "$type": "scnNodeId",
+                  "id": 55555
+                },
+                "outputSockets": [
+                  {
+                    "$type": "scnOutputSocket",
+                    "destinations": [],
+                    "stamp": {
+                      "$type": "scnOutputSocketStamp",
+                      "name": 0,
+                      "ordinal": 0
+                    }
+                  }
+                ],
+                "sectionDuration": {
+                  "$type": "scnSceneTime",
+                  "stu": 13539
+                }
+              }
             }
           ],
           "startNodes": [
@@ -19016,6 +19439,150 @@
             "speaker": {
               "$type": "scnActorId",
               "id": 0
+            },
+            "usage": {
+              "$type": "scnscreenplayLineUsage",
+              "playerGenderMask": {
+                "$type": "scnGenderMask",
+                "mask": 3
+              }
+            }
+          },
+          {
+            "$type": "scnscreenplayDialogLine",
+            "addressee": {
+              "$type": "scnActorId",
+              "id": 0
+            },
+            "femaleLipsyncAnimationName": {
+              "$type": "CName",
+              "$storage": "string",
+              "$value": "f_175D33E6614E6000"
+            },
+            "itemId": {
+              "$type": "scnscreenplayItemId",
+              "id": 3841
+            },
+            "locstringId": {
+              "$type": "scnlocLocstringId",
+              "ruid": "1683558900274454528"
+            },
+            "maleLipsyncAnimationName": {
+              "$type": "CName",
+              "$storage": "string",
+              "$value": "m_175D33E6614E6000"
+            },
+            "speaker": {
+              "$type": "scnActorId",
+              "id": 3
+            },
+            "usage": {
+              "$type": "scnscreenplayLineUsage",
+              "playerGenderMask": {
+                "$type": "scnGenderMask",
+                "mask": 3
+              }
+            }
+          },
+          {
+            "$type": "scnscreenplayDialogLine",
+            "addressee": {
+              "$type": "scnActorId",
+              "id": 0
+            },
+            "femaleLipsyncAnimationName": {
+              "$type": "CName",
+              "$storage": "string",
+              "$value": "f_17772313C73C5000"
+            },
+            "itemId": {
+              "$type": "scnscreenplayItemId",
+              "id": 4097
+            },
+            "locstringId": {
+              "$type": "scnlocLocstringId",
+              "ruid": "1690858752954880000"
+            },
+            "maleLipsyncAnimationName": {
+              "$type": "CName",
+              "$storage": "string",
+              "$value": "m_17772313C73C5000"
+            },
+            "speaker": {
+              "$type": "scnActorId",
+              "id": 3
+            },
+            "usage": {
+              "$type": "scnscreenplayLineUsage",
+              "playerGenderMask": {
+                "$type": "scnGenderMask",
+                "mask": 3
+              }
+            }
+          },
+          {
+            "$type": "scnscreenplayDialogLine",
+            "addressee": {
+              "$type": "scnActorId",
+              "id": 3
+            },
+            "femaleLipsyncAnimationName": {
+              "$type": "CName",
+              "$storage": "string",
+              "$value": "f_18E99F399129F000"
+            },
+            "itemId": {
+              "$type": "scnscreenplayItemId",
+              "id": 4353
+            },
+            "locstringId": {
+              "$type": "scnlocLocstringId",
+              "ruid": "1795140996081250304"
+            },
+            "maleLipsyncAnimationName": {
+              "$type": "CName",
+              "$storage": "string",
+              "$value": "m_18E99F399129F000"
+            },
+            "speaker": {
+              "$type": "scnActorId",
+              "id": 0
+            },
+            "usage": {
+              "$type": "scnscreenplayLineUsage",
+              "playerGenderMask": {
+                "$type": "scnGenderMask",
+                "mask": 3
+              }
+            }
+          },
+          {
+            "$type": "scnscreenplayDialogLine",
+            "addressee": {
+              "$type": "scnActorId",
+              "id": 0
+            },
+            "femaleLipsyncAnimationName": {
+              "$type": "CName",
+              "$storage": "string",
+              "$value": "f_1B0727DDB029F000"
+            },
+            "itemId": {
+              "$type": "scnscreenplayItemId",
+              "id": 4609
+            },
+            "locstringId": {
+              "$type": "scnlocLocstringId",
+              "ruid": "1947569196957822976"
+            },
+            "maleLipsyncAnimationName": {
+              "$type": "CName",
+              "$storage": "string",
+              "$value": "m_1B0727DDB029F000"
+            },
+            "speaker": {
+              "$type": "scnActorId",
+              "id": 3
             },
             "usage": {
               "$type": "scnscreenplayLineUsage",
@@ -19587,7 +20154,7 @@
       ],
       "workspots": [
         {
-          "HandleId": "374",
+          "HandleId": "379",
           "Data": {
             "$type": "scnWorkspotData_ExternalWorkspotResource",
             "dataId": {
@@ -19605,7 +20172,7 @@
           }
         },
         {
-          "HandleId": "375",
+          "HandleId": "380",
           "Data": {
             "$type": "scnWorkspotData_ExternalWorkspotResource",
             "dataId": {
@@ -19623,7 +20190,7 @@
           }
         },
         {
-          "HandleId": "376",
+          "HandleId": "381",
           "Data": {
             "$type": "scnWorkspotData_ExternalWorkspotResource",
             "dataId": {
@@ -19641,7 +20208,7 @@
           }
         },
         {
-          "HandleId": "377",
+          "HandleId": "382",
           "Data": {
             "$type": "scnWorkspotData_ExternalWorkspotResource",
             "dataId": {
@@ -19659,7 +20226,7 @@
           }
         },
         {
-          "HandleId": "378",
+          "HandleId": "383",
           "Data": {
             "$type": "scnWorkspotData_ExternalWorkspotResource",
             "dataId": {
@@ -19677,7 +20244,7 @@
           }
         },
         {
-          "HandleId": "379",
+          "HandleId": "384",
           "Data": {
             "$type": "scnWorkspotData_ExternalWorkspotResource",
             "dataId": {
