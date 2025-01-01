@@ -3,7 +3,7 @@
     "WolvenKitVersion": "8.15.1-nightly.2024-12-28",
     "WKitJsonVersion": "0.0.9",
     "GameVersion": 2200,
-    "ExportedDateTime": "2025-01-01T19:48:34.0805468Z",
+    "ExportedDateTime": "2025-01-01T20:00:33.4676697Z",
     "DataType": "CR2W",
     "ArchiveFileName": "G:\\work\\CPModding\\wolvenkit\\projects\\Kidnap\\source\\archive\\mod\\kidnap\\scenes\\mitch_plan.scene"
   },
@@ -6111,7 +6111,27 @@
                             "Roll": 0,
                             "Yaw": 0
                           },
-                          "transitionBlendInCameraSpace": [0,0.0526315793,0.105263151,0.157894731,0.210526317,0.263157904,0.315789461,0.368421048,0.421052635,0.473684222,0.526315808,0.578947365,0.631578922,0.684210539,0.736842096,0.789473712,0.842105269,0.894736826,0.947368443,1
+                          "transitionBlendInCameraSpace": [
+                            0,
+                            0.0526315793,
+                            0.105263151,
+                            0.157894731,
+                            0.210526317,
+                            0.263157904,
+                            0.315789461,
+                            0.368421048,
+                            0.421052635,
+                            0.473684222,
+                            0.526315808,
+                            0.578947365,
+                            0.631578922,
+                            0.684210539,
+                            0.736842096,
+                            0.789473712,
+                            0.842105269,
+                            0.894736826,
+                            0.947368443,
+                            1
                           ],
                           "transitionBlendInTrajectorySpaceAngles": [
                             {
@@ -6382,7 +6402,27 @@
                             "Roll": 0,
                             "Yaw": 0
                           },
-                          "transitionBlendInCameraSpace": [0,0.0526315793,0.105263159,0.157894731,0.210526317,0.263157904,0.315789461,0.368421048,0.421052635,0.473684222,0.526315808,0.578947365,0.631578922,0.684210539,0.736842096,0.789473712,0.842105269,0.894736826,0.947368443,1
+                          "transitionBlendInCameraSpace": [
+                            0,
+                            0.0526315793,
+                            0.105263159,
+                            0.157894731,
+                            0.210526317,
+                            0.263157904,
+                            0.315789461,
+                            0.368421048,
+                            0.421052635,
+                            0.473684222,
+                            0.526315808,
+                            0.578947365,
+                            0.631578922,
+                            0.684210539,
+                            0.736842096,
+                            0.789473712,
+                            0.842105269,
+                            0.894736826,
+                            0.947368443,
+                            1
                           ],
                           "transitionBlendInTrajectorySpaceAngles": [
                             {
@@ -6909,7 +6949,7 @@
                                 ]
                               },
                               "calculatePositionInParentSpace": 0,
-                              "debugInfo": "Scene preset: \u0022Eyes \u0026 Head\u0022",
+                              "debugInfo": "Scene preset: \"Eyes & Head\"",
                               "followingSpeedFactorOverride": -1,
                               "hasOutTransition": 0,
                               "invalid": 0,
@@ -8069,7 +8109,27 @@
                             "Roll": 0,
                             "Yaw": 0
                           },
-                          "transitionBlendInCameraSpace": [0,0.0526315793,0.105263159,0.157894731,0.210526317,0.263157904,0.315789461,0.368421048,0.421052635,0.473684222,0.526315808,0.578947365,0.631578922,0.684210539,0.736842096,0.789473712,0.842105269,0.894736826,0.947368443,1
+                          "transitionBlendInCameraSpace": [
+                            0,
+                            0.0526315793,
+                            0.105263159,
+                            0.157894731,
+                            0.210526317,
+                            0.263157904,
+                            0.315789461,
+                            0.368421048,
+                            0.421052635,
+                            0.473684222,
+                            0.526315808,
+                            0.578947365,
+                            0.631578922,
+                            0.684210539,
+                            0.736842096,
+                            0.789473712,
+                            0.842105269,
+                            0.894736826,
+                            0.947368443,
+                            1
                           ],
                           "transitionBlendInTrajectorySpaceAngles": [
                             {
@@ -8340,7 +8400,27 @@
                             "Roll": 0,
                             "Yaw": 0
                           },
-                          "transitionBlendInCameraSpace": [0,0.0526315793,0.105263159,0.157894731,0.210526317,0.263157904,0.315789461,0.368421048,0.421052635,0.473684222,0.526315808,0.578947365,0.631578922,0.684210539,0.736842096,0.789473712,0.842105269,0.894736826,0.947368443,1
+                          "transitionBlendInCameraSpace": [
+                            0,
+                            0.0526315793,
+                            0.105263159,
+                            0.157894731,
+                            0.210526317,
+                            0.263157904,
+                            0.315789461,
+                            0.368421048,
+                            0.421052635,
+                            0.473684222,
+                            0.526315808,
+                            0.578947365,
+                            0.631578922,
+                            0.684210539,
+                            0.736842096,
+                            0.789473712,
+                            0.842105269,
+                            0.894736826,
+                            0.947368443,
+                            1
                           ],
                           "transitionBlendInTrajectorySpaceAngles": [
                             {
@@ -10041,6 +10121,186 @@
             "speaker": {
               "$type": "scnActorId",
               "id": 0
+            },
+            "usage": {
+              "$type": "scnscreenplayLineUsage",
+              "playerGenderMask": {
+                "$type": "scnGenderMask",
+                "mask": 3
+              }
+            }
+          },
+          {
+            "$type": "scnscreenplayDialogLine",
+            "addressee": {
+              "$type": "scnActorId",
+              "id": 0
+            },
+            "femaleLipsyncAnimationName": {
+              "$type": "CName",
+              "$storage": "string",
+              "$value": "f_10A9A93F1459193A"
+            },
+            "itemId": {
+              "$type": "scnscreenplayItemId",
+              "id": 1537
+            },
+            "locstringId": {
+              "$type": "scnlocLocstringId",
+              "ruid": "1200676864060365114"
+            },
+            "maleLipsyncAnimationName": {
+              "$type": "CName",
+              "$storage": "string",
+              "$value": "m_10A9A93F1459193A"
+            },
+            "speaker": {
+              "$type": "scnActorId",
+              "id": 2
+            },
+            "usage": {
+              "$type": "scnscreenplayLineUsage",
+              "playerGenderMask": {
+                "$type": "scnGenderMask",
+                "mask": 3
+              }
+            }
+          },
+          {
+            "$type": "scnscreenplayDialogLine",
+            "addressee": {
+              "$type": "scnActorId",
+              "id": 0
+            },
+            "femaleLipsyncAnimationName": {
+              "$type": "CName",
+              "$storage": "string",
+              "$value": "f_013F48556BE62646"
+            },
+            "itemId": {
+              "$type": "scnscreenplayItemId",
+              "id": 1793
+            },
+            "locstringId": {
+              "$type": "scnlocLocstringId",
+              "ruid": "89870049290364486"
+            },
+            "maleLipsyncAnimationName": {
+              "$type": "CName",
+              "$storage": "string",
+              "$value": "m_013F48556BE62646"
+            },
+            "speaker": {
+              "$type": "scnActorId",
+              "id": 2
+            },
+            "usage": {
+              "$type": "scnscreenplayLineUsage",
+              "playerGenderMask": {
+                "$type": "scnGenderMask",
+                "mask": 3
+              }
+            }
+          },
+          {
+            "$type": "scnscreenplayDialogLine",
+            "addressee": {
+              "$type": "scnActorId",
+              "id": 0
+            },
+            "femaleLipsyncAnimationName": {
+              "$type": "CName",
+              "$storage": "string",
+              "$value": "f_0A9FC8FB2361F294"
+            },
+            "itemId": {
+              "$type": "scnscreenplayItemId",
+              "id": 2049
+            },
+            "locstringId": {
+              "$type": "scnlocLocstringId",
+              "ruid": "765551442632241812"
+            },
+            "maleLipsyncAnimationName": {
+              "$type": "CName",
+              "$storage": "string",
+              "$value": "m_0A9FC8FB2361F294"
+            },
+            "speaker": {
+              "$type": "scnActorId",
+              "id": 2
+            },
+            "usage": {
+              "$type": "scnscreenplayLineUsage",
+              "playerGenderMask": {
+                "$type": "scnGenderMask",
+                "mask": 3
+              }
+            }
+          },
+          {
+            "$type": "scnscreenplayDialogLine",
+            "addressee": {
+              "$type": "scnActorId",
+              "id": 0
+            },
+            "femaleLipsyncAnimationName": {
+              "$type": "CName",
+              "$storage": "string",
+              "$value": "f_011225A931ED64C4"
+            },
+            "itemId": {
+              "$type": "scnscreenplayItemId",
+              "id": 2305
+            },
+            "locstringId": {
+              "$type": "scnlocLocstringId",
+              "ruid": "77165552236061892"
+            },
+            "maleLipsyncAnimationName": {
+              "$type": "CName",
+              "$storage": "string",
+              "$value": "m_011225A931ED64C4"
+            },
+            "speaker": {
+              "$type": "scnActorId",
+              "id": 2
+            },
+            "usage": {
+              "$type": "scnscreenplayLineUsage",
+              "playerGenderMask": {
+                "$type": "scnGenderMask",
+                "mask": 3
+              }
+            }
+          },
+          {
+            "$type": "scnscreenplayDialogLine",
+            "addressee": {
+              "$type": "scnActorId",
+              "id": 0
+            },
+            "femaleLipsyncAnimationName": {
+              "$type": "CName",
+              "$storage": "string",
+              "$value": "f_0355492FC01E64C8"
+            },
+            "itemId": {
+              "$type": "scnscreenplayItemId",
+              "id": 2561
+            },
+            "locstringId": {
+              "$type": "scnlocLocstringId",
+              "ruid": "240178624569697480"
+            },
+            "maleLipsyncAnimationName": {
+              "$type": "CName",
+              "$storage": "string",
+              "$value": "m_0355492FC01E64C8"
+            },
+            "speaker": {
+              "$type": "scnActorId",
+              "id": 2
             },
             "usage": {
               "$type": "scnscreenplayLineUsage",
