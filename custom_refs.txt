@@ -649,6 +649,16 @@ mod\kidnap\localization\en-us\lipsync\panam.anims
 mod\kidnap\localization\en-us\onscreens.json
 mod\kidnap\localization\en-us\subtitles\subtitles_map.json
 mod\kidnap\localization\en-us\subtitles\subtitles.json
+mod\kidnap\localization\en-us\vo\recon\sq_kidnap_drone_boss_phrase_f.wem
+mod\kidnap\localization\en-us\vo\recon\sq_kidnap_drone_boss_phrase_m.wem
+mod\kidnap\localization\en-us\vo\recon\sq_kidnap_drone_phrase_1_f.wem
+mod\kidnap\localization\en-us\vo\recon\sq_kidnap_drone_phrase_1_m.wem
+mod\kidnap\localization\en-us\vo\recon\sq_kidnap_drone_phrase_2_f.wem
+mod\kidnap\localization\en-us\vo\recon\sq_kidnap_drone_phrase_2_m.wem
+mod\kidnap\localization\en-us\vo\recon\sq_kidnap_drone_phrase_3_f.wem
+mod\kidnap\localization\en-us\vo\recon\sq_kidnap_drone_phrase_3_m.wem
+mod\kidnap\localization\en-us\vo\recon\sq_kidnap_drone_phrase_4_f.wem
+mod\kidnap\localization\en-us\vo\recon\sq_kidnap_drone_phrase_4_m.wem
 mod\kidnap\localization\en-us\vo\sq_kidnap_johnny_sunset_search_f_013eaf5dbd492e4d.wem
 mod\kidnap\localization\en-us\vo\sq_kidnap_mitch_holo_mitch_phrase_1.wem
 mod\kidnap\localization\en-us\vo\sq_kidnap_mitch_holo_mitch_phrase_2.wem
