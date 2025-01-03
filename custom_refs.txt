@@ -659,6 +659,8 @@ mod\kidnap\localization\en-us\vo\recon\sq_kidnap_drone_phrase_3_f.wem
 mod\kidnap\localization\en-us\vo\recon\sq_kidnap_drone_phrase_3_m.wem
 mod\kidnap\localization\en-us\vo\recon\sq_kidnap_drone_phrase_4_f.wem
 mod\kidnap\localization\en-us\vo\recon\sq_kidnap_drone_phrase_4_m.wem
+mod\kidnap\localization\en-us\vo\recon\sq_kidnap_drone_phrase_5_f.wem
+mod\kidnap\localization\en-us\vo\recon\sq_kidnap_drone_phrase_5_m.wem
 mod\kidnap\localization\en-us\vo\sq_kidnap_johnny_sunset_search_f_013eaf5dbd492e4d.wem
 mod\kidnap\localization\en-us\vo\sq_kidnap_mitch_holo_mitch_phrase_1.wem
 mod\kidnap\localization\en-us\vo\sq_kidnap_mitch_holo_mitch_phrase_2.wem
