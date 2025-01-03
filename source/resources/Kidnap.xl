@@ -18,13 +18,12 @@ quest:
       parent: ep1\quest\ep1_standalone.quest
 
     # NG+ compatibility
-    # - path: mod\quest\kidnap.questphase
-    #   parent: mod\quest\newgameplus.quest
-    # - path: mod\quest\kidnap.questphase
-    #   parent: mod\quest\newgameplus_q001.quest
-    # - path: mod\quest\kidnap.questphase
-    #   parent: mod\quest\newgameplus_standalone.quest
-
+    - path: mod\kidnap\quest\kidnap.questphase
+      parent: mod\quest\newgameplus.quest
+    - path: mod\kidnap\quest\kidnap.questphase
+      parent: mod\quest\newgameplus_q001.quest
+    - path: mod\kidnap\quest\kidnap.questphase
+      parent: mod\quest\newgameplus_standalone.quest
 
 streaming:
   blocks:
