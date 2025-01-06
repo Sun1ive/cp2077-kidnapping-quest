@@ -3,12 +3,84 @@ journal:
 localization:
   onscreens:
     en-us: mod\kidnap\localization\en-us\onscreens.json
+    ar-ar: mod\kidnap\localization\en-us\onscreens.json
+    cz-cz: mod\kidnap\localization\en-us\onscreens.json
+    de-de: mod\kidnap\localization\en-us\onscreens.json
+    es-es: mod\kidnap\localization\en-us\onscreens.json
+    es-mx: mod\kidnap\localization\en-us\onscreens.json
+    fr-fr: mod\kidnap\localization\en-us\onscreens.json
+    hu-hu: mod\kidnap\localization\en-us\onscreens.json
+    it-it: mod\kidnap\localization\en-us\onscreens.json
+    jp-jp: mod\kidnap\localization\en-us\onscreens.json
+    kr-kr: mod\kidnap\localization\en-us\onscreens.json
+    pl-pl: mod\kidnap\localization\en-us\onscreens.json
+    pt-br: mod\kidnap\localization\en-us\onscreens.json
+    ru-ru: mod\kidnap\localization\en-us\onscreens.json
+    th-th: mod\kidnap\localization\en-us\onscreens.json
+    tr-tr: mod\kidnap\localization\en-us\onscreens.json
+    ua-ua: mod\kidnap\localization\en-us\onscreens.json
+    zh-cn: mod\kidnap\localization\en-us\onscreens.json
+    zh-tw: mod\kidnap\localization\en-us\onscreens.json
   subtitles:
     en-us: mod\kidnap\localization\en-us\subtitles\subtitles_map.json
+    ar-ar: mod\kidnap\localization\en-us\subtitles\subtitles_map.json
+    cz-cz: mod\kidnap\localization\en-us\subtitles\subtitles_map.json
+    de-de: mod\kidnap\localization\en-us\subtitles\subtitles_map.json
+    es-es: mod\kidnap\localization\en-us\subtitles\subtitles_map.json
+    es-mx: mod\kidnap\localization\en-us\subtitles\subtitles_map.json
+    fr-fr: mod\kidnap\localization\en-us\subtitles\subtitles_map.json
+    hu-hu: mod\kidnap\localization\en-us\subtitles\subtitles_map.json
+    it-it: mod\kidnap\localization\en-us\subtitles\subtitles_map.json
+    jp-jp: mod\kidnap\localization\en-us\subtitles\subtitles_map.json
+    kr-kr: mod\kidnap\localization\en-us\subtitles\subtitles_map.json
+    pl-pl: mod\kidnap\localization\en-us\subtitles\subtitles_map.json
+    pt-br: mod\kidnap\localization\en-us\subtitles\subtitles_map.json
+    ru-ru: mod\kidnap\localization\en-us\subtitles\subtitles_map.json
+    th-th: mod\kidnap\localization\en-us\subtitles\subtitles_map.json
+    tr-tr: mod\kidnap\localization\en-us\subtitles\subtitles_map.json
+    ua-ua: mod\kidnap\localization\en-us\subtitles\subtitles_map.json
+    zh-cn: mod\kidnap\localization\en-us\subtitles\subtitles_map.json
+    zh-tw: mod\kidnap\localization\en-us\subtitles\subtitles_map.json
   lipmaps:
     en-us: mod\kidnap\localization\en-us\lipsync.lipmap
+    ar-ar: mod\kidnap\localization\en-us\lipsync.lipmap
+    cz-cz: mod\kidnap\localization\en-us\lipsync.lipmap
+    de-de: mod\kidnap\localization\en-us\lipsync.lipmap
+    es-es: mod\kidnap\localization\en-us\lipsync.lipmap
+    es-mx: mod\kidnap\localization\en-us\lipsync.lipmap
+    fr-fr: mod\kidnap\localization\en-us\lipsync.lipmap
+    hu-hu: mod\kidnap\localization\en-us\lipsync.lipmap
+    it-it: mod\kidnap\localization\en-us\lipsync.lipmap
+    jp-jp: mod\kidnap\localization\en-us\lipsync.lipmap
+    kr-kr: mod\kidnap\localization\en-us\lipsync.lipmap
+    pl-pl: mod\kidnap\localization\en-us\lipsync.lipmap
+    pt-br: mod\kidnap\localization\en-us\lipsync.lipmap
+    ru-ru: mod\kidnap\localization\en-us\lipsync.lipmap
+    th-th: mod\kidnap\localization\en-us\lipsync.lipmap
+    tr-tr: mod\kidnap\localization\en-us\lipsync.lipmap
+    ua-ua: mod\kidnap\localization\en-us\lipsync.lipmap
+    zh-cn: mod\kidnap\localization\en-us\lipsync.lipmap
+    zh-tw: mod\kidnap\localization\en-us\lipsync.lipmap
   vomaps:
     en-us: mod\kidnap\localization\en-us\voiceovermap.json
+    ar-ar: mod\kidnap\localization\en-us\voiceovermap.json
+    cz-cz: mod\kidnap\localization\en-us\voiceovermap.json
+    de-de: mod\kidnap\localization\en-us\voiceovermap.json
+    es-es: mod\kidnap\localization\en-us\voiceovermap.json
+    es-mx: mod\kidnap\localization\en-us\voiceovermap.json
+    fr-fr: mod\kidnap\localization\en-us\voiceovermap.json
+    hu-hu: mod\kidnap\localization\en-us\voiceovermap.json
+    it-it: mod\kidnap\localization\en-us\voiceovermap.json
+    jp-jp: mod\kidnap\localization\en-us\voiceovermap.json
+    kr-kr: mod\kidnap\localization\en-us\voiceovermap.json
+    pl-pl: mod\kidnap\localization\en-us\voiceovermap.json
+    pt-br: mod\kidnap\localization\en-us\voiceovermap.json
+    ru-ru: mod\kidnap\localization\en-us\voiceovermap.json
+    th-th: mod\kidnap\localization\en-us\voiceovermap.json
+    tr-tr: mod\kidnap\localization\en-us\voiceovermap.json
+    ua-ua: mod\kidnap\localization\en-us\voiceovermap.json
+    zh-cn: mod\kidnap\localization\en-us\voiceovermap.json
+    zh-tw: mod\kidnap\localization\en-us\voiceovermap.json
 quest:
   phases:
     # Vanilla
