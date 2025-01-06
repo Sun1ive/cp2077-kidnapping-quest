@@ -1,52 +1,34 @@
 UIJournalIcons.panam_kidnap_pic_1:
   $type: gamedataJournalIcon_Record
   atlasPartName: pic_1
-  atlasResourcePath: mod\assets\ktexture.inkatlas
+  atlasResourcePath: mod\kidnap\assets\kidnap_textures.inkatlas
 
-Items.mq_kidnap_shard_1:
-  animFeatureName: ItemData
-  $type: gamedataItem_Record
-  itemType: ItemType.Gen_Readable
-  itemSecondaryAction: Items.mq_kidnap_shard_1_inline0
-  canDrop: True
-  dropObject: defaultItemDrop
-  objectActions:
-    - ItemAction.Drop
-    - ItemAction.Disassemble
-  tags:
-    - Readable
-    - Shard
-    - SkipActivityLog
-    - HideInBackpackUI
-    - HideAtVendor
+Character.kidnap_boss_inline1:
+  $type: gamedataArchetypeType_Record
+  enumName: HeavyRangedT2
+  localizedName: LocKey#4943833046251791740
 
-Items.mq_kidnap_shard_1_inline0:
-  $type: gamedataItemAction_Record
-  actionName: Read
-  hackCategory: HackCategory.DeviceHack
-  objectActionType: ObjectActionType.Item
-  journalEntry: onscreens/kidnap/shard_1
+Character.kidnap_boss_inline0:
+  $base: Character.maelstrom_strong_gunner2_defender_mb_rare_inline0
+  type: Character.kidnap_boss_inline1
 
-Items.mq_kidnap_shard_2:
-  animFeatureName: ItemData
-  $type: gamedataItem_Record
-  itemType: ItemType.Gen_Readable
-  itemSecondaryAction: Items.mq_kidnap_shard_2_inline0
-  canDrop: True
-  dropObject: defaultItemDrop
-  objectActions:
-    - ItemAction.Drop
-    - ItemAction.Disassemble
-  tags:
-    - Readable
-    - Shard
-    - SkipActivityLog
-    - HideInBackpackUI
-    - HideAtVendor
-
-Items.mq_kidnap_shard_2_inline0:
-  $type: gamedataItemAction_Record
-  actionName: Read
-  hackCategory: HackCategory.DeviceHack
-  objectActionType: ObjectActionType.Item
-  journalEntry: onscreens/kidnap/shard_2
+Character.kidnap_boss:
+  $base: TEST.BossEnemy
+  affiliation: Factions.Maelstrom
+  squadParamsID: FactionSquads.MaelstromSquad
+  baseAttitudeGroup: maelstrom
+  entityTemplatePath: ep1\characters\entities\gang\gang__ep1_maelstrom_mb.ent
+  archetypeData: Character.kidnap_boss_inline0
+  bountyDrawTable: BountyDrawTable.Maelstrom
+  alternativeDisplayName: LocKey#4943833046251791740
+  alternativeFullDisplayName: LocKey#4943833046251791740
+  displayName: LocKey#4943833046251791740
+  fullDisplayName: LocKey#4943833046251791740
+  primaryEquipment: Character.maelstrom_strong_gunner2_defender_mb_rare_inline2
+  reactionPreset: ReactionPresets.Ganger_Aggressive
+  secondaryEquipment: Character.maelstrom_strong_gunner2_defender_mb_rare_inline4
+  lootBagEntity: maelstromDropBag
+  visualTags:
+    - Maelstrom
+    - Big
+    - Strong

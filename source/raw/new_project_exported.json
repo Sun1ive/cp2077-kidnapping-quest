@@ -1,1 +1,54 @@
-{"sectors":[{"level":1,"category":"Quest","max":{"z":481.57690429688,"x":-591.7431640625,"y":920.36920166016},"nodes":[{"type":"worldStaticLightNode","rotation":{"j":0,"r":0.43680164217949,"k":-0.89955794811249,"i":0},"position":{"w":0,"z":331.57690429688,"x":-741.7431640625,"y":770.36920166016},"name":"Green Light","data":{"enableLocalShadows":1,"innerAngle":115.80000305176,"outerAngle":120.90000152588,"capsuleLength":1,"intensity":30,"radius":256,"color":{"Red":255,"Green":255,"Blue":255,"Alpha":255},"flicker":{"flickerStrength":0,"flickerPeriod":0.20000000298023,"positionOffset":0},"type":"LT_Spot","allowDistantLight":0,"lightChannel":"LC_Channel1, LC_Channel2, LC_Channel3, LC_Channel4, LC_Channel5, LC_Channel6, LC_Channel7, LC_Channel8, LC_ChannelWorld","autoHideDistance":80.699996948242},"scale":{"z":1,"x":1,"y":1}}],"name":"lights","min":{"z":181.57690429688,"x":-891.7431640625,"y":620.36920166016}}],"name":"new_project"}
+{
+  "name": "new_project",
+  "sectors": [
+    {
+      "name": "new_group",
+      "level": 1,
+      "min": {
+        "x": -1653.9288330078,
+        "y": 2793.9604492188,
+        "z": -142.36806678772
+      },
+      "max": {
+        "x": -1353.9288330078,
+        "y": 3093.9604492188,
+        "z": 157.63193321228
+      },
+      "nodes": [
+        {
+          "primaryRange": 100,
+          "scale": { "x": 1, "y": 1, "z": 1 },
+          "position": {
+            "z": 7.6319332122803,
+            "x": -1503.9288330078,
+            "y": 2943.9604492188,
+            "w": 0
+          },
+          "data": {
+            "spawnOnStart": 1,
+            "objectRecordId": {
+              "$storage": "string",
+              "$value": "Vehicle.sq004_deco_nomad_car"
+            },
+            "appearanceName": {
+              "$storage": "string",
+              "$value": "thorton_colby__basic_burnt_01"
+            }
+          },
+          "uk10": 1056,
+          "rotation": {
+            "k": -0.29115626215935,
+            "r": 0.95667558908463,
+            "i": 0,
+            "j": 0
+          },
+          "type": "worldPopulationSpawnerNode",
+          "name": "Vehicle.sq004_deco_nomad_car",
+          "secondaryRange": 120,
+          "uk11": 512
+        }
+      ],
+      "category": "Exterior"
+    }
+  ]
+}

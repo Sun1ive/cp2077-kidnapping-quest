@@ -1,23 +1,33 @@
 journal:
-  - mod\journal\kidnap.journal
+  - mod\kidnap\journal\kidnap.journal
 localization:
   onscreens:
-    en-us: mod\localization\en-us\kidnap.json
+    en-us: mod\kidnap\localization\en-us\onscreens.json
   subtitles:
-    en-us: mod\localization\en-us\subtitles\subs.json
+    en-us: mod\kidnap\localization\en-us\subtitles\subtitles_map.json
+  lipmaps:
+    en-us: mod\kidnap\localization\en-us\lipsync.lipmap
+  vomaps:
+    en-us: mod\kidnap\localization\en-us\voiceovermap.json
 quest:
   phases:
-    - path: mod\quest\kidnap.questphase
+    # Vanilla
+    - path: mod\kidnap\quest\kidnap.questphase
       parent: base\quest\cyberpunk2077.quest
-    - path: mod\quest\kidnap.questphase
+    - path: mod\kidnap\quest\kidnap.questphase
       parent: ep1\quest\ep1_standalone.quest
-    # - path: mod\quest\kidnap.questphase
-    #   parent: base\quest\minor_quests\mq000\mq000.questphase
-    #   connection: [13, 103, 2]
+
+    # NG+ compatibility
+    - path: mod\kidnap\quest\kidnap.questphase
+      parent: mod\quest\newgameplus.quest
+    - path: mod\kidnap\quest\kidnap.questphase
+      parent: mod\quest\newgameplus_q001.quest
+    - path: mod\kidnap\quest\kidnap.questphase
+      parent: mod\quest\newgameplus_standalone.quest
 
 streaming:
   blocks:
-    - mod\worlds\kidnap.streamingblock
+    - mod\kidnap\world\all.streamingblock
   sectors:
     - path: base\worlds\03_night_city\_compiled\default\exterior_-25_46_0_0.streamingsector
       expectedNodes: 1621
