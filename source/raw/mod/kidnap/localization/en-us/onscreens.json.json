@@ -1,0 +1,328 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.20.1-nightly.2026-08-29",
+    "WKitJsonVersion": "0.0.9",
+    "GameVersion": 2310,
+    "ExportedDateTime": "2026-08-31T22:23:46.0744686Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "F:\\work\\CPModding\\wolvenkit\\projects\\Kidnap\\source\\archive\\mod\\kidnap\\localization\\en-us\\onscreens.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceOnScreenEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Malakai Vex",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "kidnap_maelstrom_miniboss_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Side Quest: Shadows of the Past",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "kidnap_onscreen_title"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Quest activated.\\n\\nBy Sunlive",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "kidnap_onscreen_desc"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Follow the instructions",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "initial_panam_sms_conversation_title"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Sunset Motel. Come alone if you wanna see your nomad friend breathing.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "initial_panam_sms_conversation_message"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Panam? What the hell is going on? Who is this?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "v_response_to_panam_msg"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Where\u0027s Panam?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "mitch_sms_conversation_title"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Hey Mitch. You seen Panam around lately? Can\u0027t reach her on the holo.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "v_sms_mitch_message_1"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Last I heard, she was headin\u0027 out to the Sunset Motel. Said she had a quick gig lined up.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "sms_mitch_response_1"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Thing is, I just got a text from her holo. Short and creepy: \u0027Come alone if you want to see her again.\u0027 Doesn\u0027t sound like her at all.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "v_sms_mitch_message_2"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "What the hell? No, that ain\u0027t Panam. She\u0027s more \u0027kick down the door and shoot first,\u0027 not sending cryptic riddles. You sure it came from her number?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "sms_mitch_response_2"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Positive. Smells like a setup from a mile away. Sunset Motel was definitely the last place she went?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "v_sms_mitch_message_3"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Yeah. Said she was meeting a contact out there. Sounded routine enough at the time. Think it went south?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "sms_mitch_response_3"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Way south. I\u0027m headin\u0027 over there now. If it\u0027s a trap, they\u0027re the ones who\u0027re gonna get burned.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "v_sms_mitch_message_4_1"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Doesn\u0027t matter what happened\u2014I\u0027m finding her, Mitch. Even if I have to tear Night City apart piece by piece.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "v_sms_mitch_message_4_2"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Watch yourself, V. You could be walkin\u0027 straight into a slaughterhouse.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "sms_mitch_response_4"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "I\u0027ll be fine. Won\u0027t be my first dance with psychos. Keep your comms open though\u2014might need backup.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "v_sms_mitch_message_5_1"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "I\u0027ve walked out of worse. If they laid a finger on Panam, I\u0027ll flatline every last one of \u0027em.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "v_sms_mitch_message_5_2"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Watch your back out there, V. Bad feeling about this. Call me the second you find anything.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "sms_mitch_response_5"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Shadows of the Past",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "kidnap_quest_title"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Panam snatched by Maelstrom? Looks like those spider-eyed chrome-freaks finally bit off way more than they can chew.\\n\\nLook, I know you\u0027re not the white-knight type, V, but you\u0027re not gonna let a bunch of borged-out psychos turn your favorite nomad into spare parts either. Panam\u0027s tough as nails, sure, but even she can\u0027t shoot her way out when she\u0027s tied to a chair in some butcher\u0027s chop shop.\\n\\nMaelstrom isn\u0027t just your run-of-the-mill street scum\u2014they\u0027re cyberpsycho rejects with zero impulse control and too much chrome. March into their hole without a plan, and you\u0027ll end up on the scrapheap right next to her.\\n\\nSo gear up, check your iron, and head to the Sunset Motel. Time to show these gonks what happens when you mess with the Aldecaldos.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "kidnap_quest_description"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Go to the Sunset Motel",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "drive_to_sunset_motel_phase_1_step_1"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Interrogate the Maelstrom ganger",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "scan_ganger_near_panam\u0027s_car_phase_1_step_2"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Search the body",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "scan_the_body_phase_1_step_3"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Take the datashard",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "take_data_shard_from_body_phase_1_step_4"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Talk to Johnny",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "talk_to_johnny_phase_1_step_5"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Head to the meeting point",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "go_to_maelstrom_meet_point_phase_2_step_1"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Survive the ambush",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "survive_ambush_phase_2_step_2"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Search the area for clues",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "find_additional_evidence_phase_2_step_3"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Talk to Johnny",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "johnny_talk_phase_2_step_4"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Call Mitch",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "call_mitch_talk_phase_2_step_5"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Meet up with Mitch",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "mitch_meet_point_phase_3_step_1"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Scout the hideout with the drone",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "recon_with_a_drone_phase_3_step_2"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Eliminate the Maelstromers",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "defeat_all_enemies_phase_3_step_3"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Find Panam",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "find_panam_phase_3_step_4"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Free Panam",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "release_panam_phase_3_step_5"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Follow Panam",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "join_panam_phase_3_step_6"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Talk to Panam",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "talk_to_panam_phase_3_step_7"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Priority Target: Palmer",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "kidnap_laptop_email_title"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Malakai \u0022Crackjaw\u0022 Vex",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "kidnap_laptop_email_from"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Command Unit 7C",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "kidnap_laptop_email_to"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Palmer is just the bait. The real prize is V. Don\u0027t fuck this up.\\n\\nKeep the nomad breathing\u2014she\u0027s leverage, not meat for the grinder. Transfer her to the hideout as planned. I want every corner of that place locked down tight. No slip-ups, no loose ends.\\n\\nWhen V takes the bait, make sure the ambush rips \u0027em to shreds. A trap\u0027s only as good as its teeth\u2014make sure ours bite deep.\\n\\nNo excuses.\\n\\n- Vex",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "kidnap_laptop_email_text"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Scan Malakai Vex",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "drone_phase_scan_boss"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}
