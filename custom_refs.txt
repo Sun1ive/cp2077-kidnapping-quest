@@ -655,6 +655,7 @@ mod\kidnap\assets\ktexture.inkatlas
 mod\kidnap\assets\panam_captured_resized.xbm
 mod\kidnap\assets\preview.bk2
 mod\kidnap\journal\kidnap.journal
+mod\kidnap\journal\kidnap.journal.json
 mod\kidnap\localization\anims\synced__sq026_01a_suicide__player_female.anims
 mod\kidnap\localization\anims\synced__sq026_01a_suicide__player_male.anims
 mod\kidnap\localization\ar-ar\lipsync.lipmap
@@ -666,7 +667,9 @@ mod\kidnap\localization\en-us\lipsync\mitch.anims
 mod\kidnap\localization\en-us\lipsync\panam.anims
 mod\kidnap\localization\en-us\onscreens.json
 mod\kidnap\localization\en-us\subtitles\subtitles_map.json
+mod\kidnap\localization\en-us\subtitles\subtitles_map.json.json
 mod\kidnap\localization\en-us\subtitles\subtitles.json
+mod\kidnap\localization\en-us\subtitles\subtitles.json.json
 mod\kidnap\localization\en-us\vo\recon\sq_kidnap_drone_boss_phrase_f.wem
 mod\kidnap\localization\en-us\vo\recon\sq_kidnap_drone_boss_phrase_m.wem
 mod\kidnap\localization\en-us\vo\recon\sq_kidnap_drone_phrase_1_f.wem
@@ -705,6 +708,7 @@ mod\kidnap\localization\en-us\vo\sq_kidnap_sunset_boss_orders_end_f_0ee8a25a04ef
 mod\kidnap\localization\en-us\vo\sq_kidnap_sunset_boss_orders_f_071c82aec301d905.wem
 mod\kidnap\localization\en-us\vo\sq_kidnap_sunset_boss_orders_m_071c82aec301d905.wem
 mod\kidnap\localization\en-us\voiceovermap.json
+mod\kidnap\localization\en-us\voiceovermap.json.json
 mod\kidnap\localization\es-es\lipsync.lipmap
 mod\kidnap\localization\es-mx\lipsync.lipmap
 mod\kidnap\localization\fr-fr\lipsync.lipmap
@@ -721,13 +725,16 @@ mod\kidnap\localization\ua-ua\lipsync.lipmap
 mod\kidnap\localization\zh-cn\lipsync.lipmap
 mod\kidnap\localization\zh-tw\lipsync.lipmap
 mod\kidnap\quest\kidnap.questphase
+mod\kidnap\quest\kidnap.questphase.json
 mod\kidnap\scenes\after_ambush_johnny.scene
 mod\kidnap\scenes\kidnap_end.scene
 mod\kidnap\scenes\mitch_holocall.scene
 mod\kidnap\scenes\mitch_plan.scene
 mod\kidnap\scenes\sunset.scene
+mod\kidnap\scenes\sunset.scene.json
 mod\kidnap\workspots\generic__sit_ground__wounded__01_m.workspot
 mod\kidnap\world\all.streamingblock
+mod\kidnap\world\all.streamingblock.json
 mod\kidnap\world\sectors\kidnap_always_loaded.streamingsector
 mod\kidnap\world\sectors\kidnap_lights.streamingsector
 mod\kidnap\world\sectors\kidnap_quest_prefab.streamingsector
